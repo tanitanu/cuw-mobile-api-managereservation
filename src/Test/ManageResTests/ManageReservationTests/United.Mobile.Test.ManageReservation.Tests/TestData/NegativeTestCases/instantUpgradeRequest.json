@@ -1,0 +1,48 @@
+[
+  {
+    "deviceId": "E830EDE6-5FE0-469F-B785-979E55D67C18",
+    "isOTFConversion": false,
+    "mileagePlusNumber": "AW719636",
+    "recordLocator": "ah1fz9",
+    "languageCode": "en-US",
+    "sessionId": null,
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 1,
+      "name": "iOS",
+      "isProduction": false,
+      "version": {
+        "minor": "4.1.44",
+        "major": "4.1.44",
+        "displayText": "",
+        "build": ""
+      }
+    },
+    "transactionId": "E830EDE6-5FE0-469F-B785-979E55D67C18|A60C7E92-EB7C-4851-A86F-E3354E02A253",
+    "flow": "VIEWRES",
+    "lastName": "jeste"
+  },
+  {
+    "deviceId": "E830EDE6-5FE0-469F-B785-979E55D67C18",
+    "isOTFConversion": false,
+    "mileagePlusNumber": "AW719636",
+    "recordLocator": "ah1fz9",
+    "languageCode": "en-US",
+    "sessionId": "A60C7E92-EB7C-4851-A86F-E3354E02A253",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 1,
+      "name": "iOS",
+      "isProduction": false,
+      "version": {
+        "minor": "4.1.44",
+        "major": "4.1.44",
+        "displayText": "",
+        "build": ""
+      }
+    },
+    "transactionId": "E830EDE6-5FE0-469F-B785-979E55D67C18|A60C7E92-EB7C-4851-A86F-E3354E02A253",
+    "flow": "VIEWRES",
+    "lastName": "jeste"
+  }
+]

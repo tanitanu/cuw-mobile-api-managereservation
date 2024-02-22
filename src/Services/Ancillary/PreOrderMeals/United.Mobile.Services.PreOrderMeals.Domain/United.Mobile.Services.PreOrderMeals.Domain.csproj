@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Core\Common\United.Common.Helper.FOP\United.Common.Helper.FOP.csproj" />
+    <ProjectReference Include="..\..\..\..\Core\Common\United.Common.Helper.ManageRes\United.Common.Helper.ManageRes.csproj" />
+    <ProjectReference Include="..\..\..\..\Core\Common\United.Common.Helper.Merchandize\United.Common.Helper.Merchandize.csproj" />
+    <ProjectReference Include="..\..\..\..\Core\Common\United.Common.Helper.Shopping\United.Common.Helper.Shopping.csproj" />
+    <ProjectReference Include="..\..\..\..\DataAccess\Ancillary\United.Mobile.DataAccess.PreOrderMeals\United.Mobile.DataAccess.PreOrderMeals.csproj" />
+    <ProjectReference Include="..\..\..\..\Model\Ancillary\United.Mobile.Model.PreOrderMeals\United.Mobile.Model.PreOrderMeals.csproj" />
+    <ProjectReference Include="..\..\..\..\Model\Shopping\United.Mobile.Model.Shopping\United.Mobile.Model.Shopping.csproj" />
+  </ItemGroup>
+
+</Project>

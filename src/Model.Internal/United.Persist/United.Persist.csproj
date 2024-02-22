@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\United.Utility\United.Utility.csproj" />
+    <ProjectReference Include="..\United.Definition\United.Mobile.Model.Internal.Common.csproj" />
+    <ProjectReference Include="..\..\Model\Shopping\United.Mobile.Model.Shopping\United.Mobile.Model.Shopping.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Definition\Shopping\" />
+  </ItemGroup>
+
+</Project>

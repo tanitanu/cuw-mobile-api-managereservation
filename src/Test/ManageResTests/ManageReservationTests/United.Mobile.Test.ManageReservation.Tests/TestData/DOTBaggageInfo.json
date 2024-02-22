@@ -1,0 +1,29 @@
+{
+
+  "Title1": "Carry-on baggage",
+  "description1": "With Basic Economy, you’re allowed a small personal item that fits under the seat in front of you, such as a shoulder bag, purse, laptop bag or other small item, 9 inches x 10 inches x 17 inches (22 cm x 25 cm x 43 cm) or less. You’re not allowed a full-sized carry-on bag unless you’re a MileagePlus® Premier® member, primary cardmember of a qualifying MileagePlus credit card or Star Alliance™ Gold member. If you bring a full-sized carry-on bag to the gate, your bag will be checked and subject to the applicable checked bag fee plus a $25 gate handling charge.\r\n\r\nWith all other United fares, each traveler can bring on board one carry-on bag plus one personal item free of charge.\r\n\r\nMaximum dimensions for a carry-on bag are 9 inches x 14 inches x 22 inches (22 cm x 35 cm x 56 cm), including handles and wheels.\r\nMaximum dimensions for your personal item, such as a shoulder bag, purse, laptop bag or other small item, are 9 inches x 10 inches x 17 inches (22 cm x 25 cm x 43 cm).\r\n\r\nMobility aids and other assistive devices are also permitted. Please see our Carry-on Baggage page for more information.\r\n\r\nDue to FAA regulations, operating carriers may have different carry-on requirements. Please check with the operating carrier for more information or go to united.com/baggage.",
+  "Title12": "Checking bags for this itinerary",
+  "description2": "Baggage fees are charged at any point in the itinerary where bags are checked.  The bag fees below reflect a maximum outside linear dimension of 62 inches (157 cm).",
+  "Title13": "",
+  "description3": "You and your companion can check your first bag for free when you use your MileagePlus Explorer Card to buy your ticket and fly a United-operated flight.  That's up to a $70 savings per person round trip. These amounts represent an estimate of the first and second checked baggage service charges that may apply to your itinerary. If your itinerary contains multiple travelers, the service charges may vary by traveler, depending on status or memberships.",
+  "baggageFeesPerSegment": [
+    {
+      "flightTravelDate": "Wed., Nov 30, 2022",
+      "originAirportCode": "SFO",
+      "originAirportName": "San Francisco, CA (SFO)",
+      "destinationAirportCode": "DEN",
+      "destinationAirportName": "Denver, CO (DEN)",
+      "firstBagFee": "$35",
+      "regularFirstBagFee": "",
+      "secondBagFee": "$45",
+      "regularSecondBagFee": "",
+      "weightPerBag": "50.0 LBS (23.0 KG)",
+      "isFirstBagFree": false,
+      "isSecondBagFree": false,
+      "cabinName": null
+    }
+  ],
+  "description4": "First and second bag service charges do not apply to active-duty members of the U.S. military and their accompanying dependents when the flight is operated by United or United Express. For additional information regarding baggage charges, allowances, weight/size restrictions, exceptions or embargoes, or charges for overweight, oversized, excess, odd-sized baggage, special items or sporting equipment, visit http://www.united.com/baggage",
+  "errorMessage": ""
+
+}

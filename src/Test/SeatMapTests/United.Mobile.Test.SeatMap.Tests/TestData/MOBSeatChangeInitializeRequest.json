@@ -1,0 +1,106 @@
+[
+  {
+    "cartId": "",
+    "flow": "VIEWRES",
+    "lastName": "lastName",
+    "recordLocator": "I2X0ZY",
+    "seatFocusRequest": {
+      "destination": "IAD",
+      "flightNumber": "2247",
+      "origin": "SAN",
+      "sharesIndex": "1.1"
+    },
+    "sessionId": "99B7E55681D34B9FB845D30551ECAE3E",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.35",
+        "minor": "4.1.35"
+      }
+    },
+    "deviceId": "383084f2-67ec-4ecc-8bfb-8fb402c5610b",
+    "languageCode": "en-US",
+    "transactionId": "383084f2-67ec-4ecc-8bfb-8fb402c5610b|3edc351a-0d7e-4c85-bf9e-8f260b666c70"
+  },
+  {
+    "cartId": "",
+    "flow": "VIEWRES",
+    "lastName": "jeste",
+    "recordLocator": "",
+    "seatFocusRequest": {
+      "destination": "IAD",
+      "flightNumber": "2247",
+      "origin": "SAN",
+      "sharesIndex": "1.1"
+    },
+    "sessionId": "99B7E55681D34B9FB845D30551ECAE3E",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.35",
+        "minor": "4.1.35"
+      }
+    },
+    "deviceId": "383084f2-67ec-4ecc-8bfb-8fb402c5610b",
+    "languageCode": "en-US",
+    "transactionId": "383084f2-67ec-4ecc-8bfb-8fb402c5610b|3edc351a-0d7e-4c85-bf9e-8f260b666c70"
+  },
+  {
+    "cartId": "",
+    "flow": "VIEWRES",
+    "lastName": "jeste",
+    "recordLocator": "",
+    "seatFocusRequest": {
+      "destination": "IAD",
+      "flightNumber": "2247",
+      "origin": "SAN",
+      "sharesIndex": "1.1"
+    },
+    "sessionId": "1",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.35",
+        "minor": "4.1.35"
+      }
+    },
+    "deviceId": "383084f2-67ec-4ecc-8bfb-8fb402c5610b",
+    "languageCode": "en-US",
+    "transactionId": "383084f2-67ec-4ecc-8bfb-8fb402c5610b|3edc351a-0d7e-4c85-bf9e-8f260b666c70"
+  },
+  {
+    "cartId": "",
+    "flow": "VIEWRES",
+    "lastName": "Error",
+    "recordLocator": "I2X0ZY",
+    "seatFocusRequest": {
+      "destination": "IAD",
+      "flightNumber": "2247",
+      "origin": "SAN",
+      "sharesIndex": "1.1"
+    },
+    "sessionId": "99B7E55681D34B9FB845D30551ECAE3E",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.35",
+        "minor": "4.1.35"
+      }
+    },
+    "deviceId": "383084f2-67ec-4ecc-8bfb-8fb402c5610b",
+    "languageCode": "en-US",
+    "transactionId": "383084f2-67ec-4ecc-8bfb-8fb402c5610b|3edc351a-0d7e-4c85-bf9e-8f260b666c70"
+  }
+]

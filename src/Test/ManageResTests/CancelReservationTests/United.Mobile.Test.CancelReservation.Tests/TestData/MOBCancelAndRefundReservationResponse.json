@@ -1,0 +1,22 @@
+{
+  "RefundAmount": {
+    "Amount": "567890",
+    "CurrencyCode": "USD",
+    "Code": "SD78",
+    "DecimalPlace": 3
+  },
+  "Pricing": {
+    "totalPaid": "50000",
+    "taxesAndFeesTotal": "60000",
+    "quoteType": "text",
+    "currencyCode": "USD",
+    "RefundMiles": "45000",
+    "totalDue": "45",
+    "RedepositFee": 459.90
+  },
+  "PointOfSale": "Sale",
+  "IsJapanStandardEconomy": true,
+  "IsMultipleRefundFOP": false,
+  "Pnr": "WEPO678",
+  "Email": "abc@gmail.com"
+}

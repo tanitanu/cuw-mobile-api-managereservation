@@ -1,0 +1,12 @@
+{
+  "sessionId": "2BB61C4CD8B7470AA8B0B97A0BC43687",
+  "redirectUrl": "https://qa5a.united.com/en/us/manageres/mytrips?tab=pp",
+  "isEligible": true,
+  "webShareToken": "Bearer AAJITW9iaWxlLUFuZHJvaWRQaG9uZS1jdXN0b21lcnNzb19VQUxfNjQzRTFFNDctMTI0Mi00QjZDLUFCN0UtNjQwMjRFNEJDODRDsWEErZ7_l1V0_BBZ-ThYtUqwjfpWng5K8hGPHCfY_bVihsW5XYtbN5PmIxPSQoAIM5KC2oUGUQGh96Y9TtIKuaw9P4lm0WBuqr63mw6v6YeQ1SYLlIMp0QliuMwWxaqcrdGf33-kLQ02YqCtzjYFFMDDplSrOcvS2CzOPRyayb-GF88s6MvXj3vzYR9QmOlG3v4U7Lop2b1xRF0cUix86A",
+  "webSessionShareUrl": "https://qa5.united.com/ual/en/us/Booking/SearchInjection/SSOLogin",
+  "transactionId": "f7271df4-8a76-4978-b9db-abe3ba030509|d47cf497-a186-4802-990c-856022cba726",
+  "languageCode": "en-US",
+  "machineName": "03",
+  "callDuration": 452,
+  "exception": "try again"
+}

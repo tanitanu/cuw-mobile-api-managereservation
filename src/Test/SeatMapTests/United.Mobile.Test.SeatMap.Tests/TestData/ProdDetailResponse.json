@@ -1,0 +1,19 @@
+[
+  {
+    "ProdDescription": "",
+    "Code": "",
+    "ProdTotalPrice": "300.00",
+    "ProdDisplayTotalPrice": "300.00",
+    "ProdOriginalPrice": "300.00",
+    "ProdOtherPrice": "300.00",
+    "Segments": [
+      {
+        "SubSegmentDetails": [
+          {
+            "Price": "300.0"
+          }
+        ]
+      }
+    ]
+  }
+]

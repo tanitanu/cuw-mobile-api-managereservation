@@ -1,0 +1,17 @@
+{
+  "SessionId": "63E14B9EA533467DADFED455A89CE9B9",
+  "Flow": "BOOKING",
+  "IsDefaultPaymentOption": true,
+  "application": {
+    "id": 2,
+    "isProduction": false,
+    "name": "Android",
+    "version": {
+      "major": "4.1.62",
+      "minor": "4.1.62"
+    }
+  },
+  "deviceId": "6f51874a-3ebb-4ed7-8e6b-8aaf96f414d2",
+  "languageCode": "en-US",
+  "transactionId": "6f51874a-3ebb-4ed7-8e6b-8aaf96f414d2|a13b00e2-19f4-48d9-b614-79e14189f5f6"
+}

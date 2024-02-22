@@ -1,0 +1,62 @@
+{
+  "Characteristics": [
+    {
+      "Code": "RTEW567",
+      "Value": "TREYU"
+    }
+  ],
+  "Reservation": {
+    "FlightSegments": [
+      {
+        "HistoryClass": "yes",
+        "FlightSegment": {
+          "FlightSegmentType": "cabin"
+        },
+        "Seats": [
+          {
+            "PriceBeforeCouponApplied": 0.0,
+            "Adjustments": [],
+            "SegmentIndex": null,
+            "PriceAfterCouponApplied": 0.0,
+            "IsCouponApplied": false,
+            "LimitedRecline": false,
+            "SeatAssignment": "10E",
+            "OldSeatAssignment": null,
+            "Origin": "IAH",
+            "Destination": "DEN",
+            "FlightNumber": 689,
+            "DepartureDate": null,
+            "TravelerSharesIndex": "0",
+            "Key": 0,
+            "UAOperated": true,
+            "Price": 0.0,
+            "PriceAfterTravelerCompanionRules": 0.0,
+            "Currency": "USD",
+            "ProgramCode": "EPU",
+            "SeatType": "EPLUSPRIMEPLUS",
+            "OldSeatPrice": 0.0,
+            "IsEPA": false,
+            "IsEPAFreeCompanion": false,
+            "Miles": 0,
+            "MilesAfterTravelerCompanionRules": 0,
+            "OldSeatMiles": 0,
+            "MilesBeforeCouponApplied": 0,
+            "MilesAfterCouponApplied": 0
+          }
+        ]
+      }
+    ]
+  },
+  "ServiceStatus": {
+    "StatusType": "Success",
+    "ServiceCode": "S76",
+    "ServiceName": "XYZ",
+    "ServiceMessages": [
+      {
+        "MessageCode": "M87543",
+        "MessageType": "text",
+        "MessageText": "try again"
+      }
+    ]
+  }
+}

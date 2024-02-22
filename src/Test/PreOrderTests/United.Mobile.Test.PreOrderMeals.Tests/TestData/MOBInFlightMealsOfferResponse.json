@@ -1,0 +1,22 @@
+{
+  "captions": null,
+  "flightSegments": null,
+  "sessionId": "FA3BF66DFABD4DE0836FA943D2275C1A",
+  "enableBackButton": true,
+  "enableReservationDetailButton": false,
+  "productCode": "POM",
+  "alertMessages": null,
+  "lastName": null,
+  "recordLocator": null,
+  "termsNConditions": null,
+  "inflightMealAddOrEditFlow": "TapOnAddSnacksLink",
+  "transactionId": "337af62a-1725-48ac-a076-d69acc69dbcb|0e5d0dec-db96-414b-839b-8bbd8183f8eb",
+  "languageCode": "en-US",
+  "machineName": "03",
+  "callDuration": 1143,
+  "exception": {
+    "code": "9999",
+    "message": "There are no merchandising offers",
+    "errMessage": ""
+  }
+}

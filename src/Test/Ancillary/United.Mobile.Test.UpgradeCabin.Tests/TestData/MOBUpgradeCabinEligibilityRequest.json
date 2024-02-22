@@ -1,0 +1,44 @@
+[
+  {
+    "hashKey": "HPOI9203DD85F26EE508",
+    "hashPinCode": "15A9203DD85F26EE5087BA9A1980FAC8F1CB94F2",
+    "lastName": "Test",
+    "mileagePlusNumber": "UB207663",
+    "recordLocator": "IG2N2T",
+    "sessionId": "09D2170315C641339EDD25A65704CD0E",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.62",
+        "minor": "4.1.62"
+      }
+    },
+    "deviceId": "6f51874a-3ebb-4ed7-8e6b-8aaf96f414d2",
+    "languageCode": "en-US",
+    "transactionId": "6f51874a-3ebb-4ed7-8e6b-8aaf96f414d2|04a5e3c8-bd07-4883-b4cf-64bbd73425f1"
+  },
+  {
+    "hashKey": "HPOI9203DD85F26EE508",
+    "hashPinCode": "15A9203DD85F26EE5087BA9A1980FAC8F1CB94F2",
+    "lastName": "Test",
+    "mileagePlusNumber": "UB207663",
+    "recordLocator": "IG2N2T",
+    "sessionId": "",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.62",
+        "minor": "4.1.62"
+      }
+    },
+    "deviceId": "6f51874a-3ebb-4ed7-8e6b-8aaf96f414d2",
+    "languageCode": "en-US",
+    "transactionId": "6f51874a-3ebb-4ed7-8e6b-8aaf96f414d2|04a5e3c8-bd07-4883-b4cf-64bbd73425f1"
+  }
+]

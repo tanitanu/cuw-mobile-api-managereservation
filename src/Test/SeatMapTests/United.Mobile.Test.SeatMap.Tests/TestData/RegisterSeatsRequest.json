@@ -1,0 +1,170 @@
+[
+  {
+    "cartId": "",
+    "continueToRegisterAncillary": false,
+    "destination": "SFO",
+    "flightDate": "Sun., Mar. 13, 2022",
+    "flightNumber": "2247",
+    "flow": "VIEWRES_BUNDLES_SEATMAP",
+    "mileagePlusNumber": "",
+    "origin": "SAN",
+    "paxIndex": "1.1",
+    "seatAssignment": "22F|9.99|USD|PZA|STANDARDPREFERREDZONE",
+    "sessionId": "99B7E55681D34B9FB845D30551ECAE3E",
+    "sponsorEliteLevel": "",
+    "sponsorMPAccountId": "",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.35",
+        "minor": "4.1.35"
+      }
+    },
+    "deviceId": "383084f2-67ec-4ecc-8bfb-8fb402c5610b",
+    "languageCode": "en-US",
+    "transactionId": "383084f2-67ec-4ecc-8bfb-8fb402c5610b|835037ef-fe5d-451d-9eea-452ca5d9847a"
+  },
+  {
+    "cartId": "",
+    "continueToRegisterAncillary": true,
+    "destination": "SFO",
+    "flightDate": "Sun., Mar. 13, 2022",
+    "flightNumber": "2247",
+    "flow": "VIEWRES_BUNDLES_SEATMAP",
+    "mileagePlusNumber": "",
+    "origin": "SAN",
+    "paxIndex": "1.1",
+    "seatAssignment": "22F|9.99|USD|PZA|STANDARDPREFERREDZONE",
+    "sessionId": "1",
+    "sponsorEliteLevel": "",
+    "sponsorMPAccountId": "",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.35",
+        "minor": "4.1.35"
+      }
+    },
+    "deviceId": "383084f2-67ec-4ecc-8bfb-8fb402c5610b",
+    "languageCode": "en-US",
+    "transactionId": "383084f2-67ec-4ecc-8bfb-8fb402c5610b|835037ef-fe5d-451d-9eea-452ca5d9847a"
+  },
+  {
+    "cartId": "",
+    "continueToRegisterAncillary": false,
+    "destination": "SFO",
+    "flightDate": "Sun., Mar. 13, 2022",
+    "flightNumber": "2247",
+    "flow": "VIEWRES_BUNDLES_SEATMAP",
+    "mileagePlusNumber": "",
+    "origin": "SAN",
+    "paxIndex": "1.1",
+    "seatAssignment": "22F|9.99|USD|PZA|STANDARDPREFERREDZONE",
+    "sessionId": "99B7E55681D34B9FB845D30551ECAE3E",
+    "sponsorEliteLevel": "",
+    "sponsorMPAccountId": "",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 100,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.35",
+        "minor": "4.1.35"
+      }
+    },
+    "deviceId": "383084f2-67ec-4ecc-8bfb-8fb402c5610b",
+    "languageCode": "en-US",
+    "transactionId": "383084f2-67ec-4ecc-8bfb-8fb402c5610b|835037ef-fe5d-451d-9eea-452ca5d9847a"
+  },
+  {
+    "cartId": "",
+    "continueToRegisterAncillary": false,
+    "destination": "SFO",
+    "flightDate": "Sun., Mar. 13, 2022",
+    "flightNumber": "2247",
+    "flow": "VIEWRES_BUNDLES_SEATMAP",
+    "mileagePlusNumber": "",
+    "origin": "SAN",
+    "paxIndex": "1.1",
+    "seatAssignment": "22F|9.99|USD|PZA|STANDARDPREFERREDZONE",
+    "sessionId": "99B7E55681D34B9FB845D30551ECAE3E",
+    "sponsorEliteLevel": "",
+    "sponsorMPAccountId": "",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 101,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.35",
+        "minor": "4.1.35"
+      }
+    },
+    "deviceId": "383084f2-67ec-4ecc-8bfb-8fb402c5610b",
+    "languageCode": "en-US",
+    "transactionId": "383084f2-67ec-4ecc-8bfb-8fb402c5610b|835037ef-fe5d-451d-9eea-452ca5d9847a"
+  },
+  {
+    "cartId": "",
+    "continueToRegisterAncillary": false,
+    "destination": "SFO",
+    "flightDate": "Sun., Mar. 13, 2022",
+    "flightNumber": "2247",
+    "flow": "VIEWRES_BUNDLES_SEATMAP",
+    "mileagePlusNumber": "",
+    "origin": "SAN",
+    "paxIndex": "1.1",
+    "seatAssignment": "22F|9.99|USD|PZA|STANDARDPREFERREDZONE",
+    "sessionId": null,
+    "sponsorEliteLevel": "",
+    "sponsorMPAccountId": "",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.35",
+        "minor": "4.1.35"
+      }
+    },
+    "deviceId": "383084f2-67ec-4ecc-8bfb-8fb402c5610b",
+    "languageCode": "en-US",
+    "transactionId": "383084f2-67ec-4ecc-8bfb-8fb402c5610b|835037ef-fe5d-451d-9eea-452ca5d9847a"
+  },
+  {
+    "cartId": "",
+    "continueToRegisterAncillary": false,
+    "destination": "SFO",
+    "flightDate": "Sun., Mar. 13, 2022",
+    "flightNumber": "2247",
+    "flow": "VIEWRES_BUNDLES_SEATMAP",
+    "mileagePlusNumber": "",
+    "origin": "SAN",
+    "paxIndex": "1.1",
+    "seatAssignment": "22F|9.99|USD|PZA|STANDARDPREFERREDZONE",
+    "sessionId": "99B7E55681D34B9FB845D30551ECAE3E",
+    "sponsorEliteLevel": "",
+    "sponsorMPAccountId": "",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 10,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.35",
+        "minor": "4.1.35"
+      }
+    },
+    "deviceId": "383084f2-67ec-4ecc-8bfb-8fb402c5610b",
+    "languageCode": "en-US",
+    "transactionId": "383084f2-67ec-4ecc-8bfb-8fb402c5610b|835037ef-fe5d-451d-9eea-452ca5d9847a"
+  }
+]

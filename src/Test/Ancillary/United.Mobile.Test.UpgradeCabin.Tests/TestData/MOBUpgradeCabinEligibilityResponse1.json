@@ -1,0 +1,758 @@
+﻿{
+  "cabinOptionContents": null,
+  "cabinOptionMessages": null,
+  "callDuration": 8895,
+  "cartId": null,
+  "contents": null,
+  "exception": null,
+  "isEligible": true,
+  "languageCode": "en-US",
+  "machineName": "03",
+  "milesUpgradeOption": [
+    {
+      "aircraft": null,
+      "arrival": null,
+      "classOfService": null,
+      "classOfServiceDescription": null,
+      "classType": null,
+      "departure": null,
+      "flightNumber": "",
+      "flightTime": null,
+      "formattedScheduledArrivalDate": "",
+      "formattedScheduledArrivalDateTime": "",
+      "formattedScheduledArrivalTime": "",
+      "formattedScheduledDepartureDate": "",
+      "formattedScheduledDepartureDateTime": "",
+      "formattedScheduledDepartureTime": "",
+      "isPlusPointsExpiredBeforeTravel": false,
+      "marketingCarrier": null,
+      "miles": [
+        {
+          "allowSelection": false,
+          "availableSeatCount": null,
+          "cabinUpgradeTypeDesc": "UPPUPGRADE",
+          "doubleUpgradeTooltip": null,
+          "id": "945_MUA_UPPUpgrade_Waitlist_4",
+          "messages": null,
+          "priceOption": [
+            {
+              "code": null,
+              "eddCode": "OPB",
+              "rewardCode": null,
+              "type": "USD",
+              "value": "0"
+            },
+            {
+              "code": null,
+              "eddCode": null,
+              "rewardCode": "YO52V",
+              "type": "Miles",
+              "value": "20000"
+            }
+          ],
+          "segmentRefId": null,
+          "taxes": null,
+          "tripRefId": "2",
+          "upgradeCabinTypes": [
+            {
+              "availableSeatCount": null,
+              "availableSeatMsg": null,
+              "id": null,
+              "segmentNumber": "4",
+              "upgradeStatus": "Waitlist",
+              "upgradeType": null,
+              "upgradeTypeDesc": "United Premium Plus"
+            }
+          ],
+          "upgradeStatus": "Waitlist",
+          "upgradeType": "MUA"
+        },
+        {
+          "allowSelection": false,
+          "availableSeatCount": null,
+          "cabinUpgradeTypeDesc": "FRONTCABINUPGRADE",
+          "doubleUpgradeTooltip": null,
+          "id": "945_MUA_FrontCabinUpgrade_Waitlist_4",
+          "messages": null,
+          "priceOption": [
+            {
+              "code": null,
+              "eddCode": "OPB",
+              "rewardCode": null,
+              "type": "USD",
+              "value": "380"
+            },
+            {
+              "code": null,
+              "eddCode": null,
+              "rewardCode": "UP52V",
+              "type": "Miles",
+              "value": "20000"
+            }
+          ],
+          "segmentRefId": null,
+          "taxes": null,
+          "tripRefId": "2",
+          "upgradeCabinTypes": [
+            {
+              "availableSeatCount": null,
+              "availableSeatMsg": null,
+              "id": null,
+              "segmentNumber": "4",
+              "upgradeStatus": "Waitlist",
+              "upgradeType": null,
+              "upgradeTypeDesc": "United Polaris business"
+            }
+          ],
+          "upgradeStatus": "Waitlist",
+          "upgradeType": "MUA"
+        },
+        {
+          "allowSelection": false,
+          "availableSeatCount": null,
+          "cabinUpgradeTypeDesc": "DOUBLEUPGRADE",
+          "doubleUpgradeTooltip": null,
+          "id": "945_MUA_FrontCabinUpgrade_Waitlist_4_945_MUA_UPPUpgrade_Waitlist_4",
+          "messages": null,
+          "priceOption": [
+            {
+              "code": null,
+              "eddCode": "OPB",
+              "rewardCode": null,
+              "type": "USD",
+              "value": "380"
+            },
+            {
+              "code": null,
+              "eddCode": null,
+              "rewardCode": "UP52V",
+              "type": "Miles",
+              "value": "20000"
+            }
+          ],
+          "segmentRefId": null,
+          "taxes": null,
+          "tripRefId": "2",
+          "upgradeCabinTypes": [
+            {
+              "availableSeatCount": null,
+              "availableSeatMsg": null,
+              "id": null,
+              "segmentNumber": "4",
+              "upgradeStatus": "Waitlist",
+              "upgradeType": null,
+              "upgradeTypeDesc": "United Polaris business"
+            },
+            {
+              "availableSeatCount": null,
+              "availableSeatMsg": null,
+              "id": null,
+              "segmentNumber": "4",
+              "upgradeStatus": "Waitlist",
+              "upgradeType": null,
+              "upgradeTypeDesc": "United Premium Plus"
+            }
+          ],
+          "upgradeStatus": "Waitlist",
+          "upgradeType": "MUA"
+        }
+      ],
+      "operatingAirlineCode": null,
+      "operatingAirlineFlightNumber": null,
+      "operatingAirlineName": null,
+      "points": null,
+      "prices": null,
+      "scheduledArrivalDateTime": "",
+      "scheduledArrivalTimeGMT": "",
+      "scheduledDepartureDateTime": "",
+      "scheduledDepartureTimeGMT": "",
+      "segmentNumber": null,
+      "showPlusPointsExpiryMessage": false,
+      "tripNumber": "2",
+      "waitlisted": null
+    }
+  ],
+  "passengers": [
+    {
+      "birthDate": "8/31/1988 12:00:00 AM",
+      "canadianTravelNumber": null,
+      "contact": null,
+      "ctnDisplaySequence": null,
+      "earnedMiles": null,
+      "employeeProfile": null,
+      "isMPMember": false,
+      "knownTravelerNumber": null,
+      "ktnDisplaySequence": null,
+      "loyaltyProgramProfile": null,
+      "mileagePlus": null,
+      "oaRewardPrograms": null,
+      "passengerName": {
+        "dateOfBirth": "",
+        "first": "TEST",
+        "last": "JESTE",
+        "middle": "",
+        "suffix": "",
+        "title": ""
+      },
+      "pnrCustomerID": "JESTE/TESTSAM",
+      "pricingPaxType": "",
+      "redressDisplaySequence": null,
+      "redressNumber": null,
+      "selectedSpecialNeeds": null,
+      "sharesGivenName": "",
+      "sharesPosition": "1.1",
+      "ssrDisplaySequence": "1.1",
+      "travelerTypeCode": "ADT"
+    }
+  ],
+  "plusPoints": null,
+  "redirectUrl": "https://qa9.united.com/en/us/upgrade/gwWEr5baHEM%3d/FguzmnRQQFA%3d",
+  "responseStatusItem": null,
+  "segments": [
+    {
+      "aircraft": {
+        "code": "77W",
+        "longName": "Boeing 777-300ER",
+        "modelCode": "",
+        "shortName": ""
+      },
+      "arrival": {
+        "city": "NRT",
+        "code": "JP",
+        "name": "Tokyo, JP (NRT - Narita)"
+      },
+      "classOfService": "U",
+      "classOfServiceDescription": "Coach",
+      "classType": "Economy",
+      "departure": {
+        "city": "ORD",
+        "code": "US",
+        "name": "Chicago, IL, US (ORD - O'Hare)"
+      },
+      "flightNumber": "7938",
+      "flightTime": "13 HR 20 MN",
+      "formattedScheduledArrivalDate": "11/25/2022",
+      "formattedScheduledArrivalDateTime": "11/25/2022 03:00:00 PM",
+      "formattedScheduledArrivalTime": "",
+      "formattedScheduledDepartureDate": "11/24/2022",
+      "formattedScheduledDepartureDateTime": "11/24/2022 10:40:00 AM",
+      "formattedScheduledDepartureTime": "",
+      "isPlusPointsExpiredBeforeTravel": false,
+      "marketingCarrier": null,
+      "miles": null,
+      "operatingAirlineCode": "NH",
+      "operatingAirlineFlightNumber": "0011",
+      "operatingAirlineName": "All Nippon Airways",
+      "points": null,
+      "prices": null,
+      "scheduledArrivalDateTime": "11/25/2022 03:00:00 PM",
+      "scheduledArrivalTimeGMT": "",
+      "scheduledDepartureDateTime": "11/24/2022 10:40:00 AM",
+      "scheduledDepartureTimeGMT": "",
+      "segmentNumber": "1",
+      "showPlusPointsExpiryMessage": false,
+      "tripNumber": "1",
+      "waitlisted": ""
+    },
+    {
+      "aircraft": {
+        "code": "789",
+        "longName": "Boeing 787-9 Dreamliner",
+        "modelCode": "",
+        "shortName": ""
+      },
+      "arrival": {
+        "city": "SIN",
+        "code": "SG",
+        "name": "Singapore, SG (SIN)"
+      },
+      "classOfService": "U",
+      "classOfServiceDescription": "Coach",
+      "classType": "Economy",
+      "departure": {
+        "city": "NRT",
+        "code": "JP",
+        "name": "Tokyo, JP (NRT - Narita)"
+      },
+      "flightNumber": "7935",
+      "flightTime": "7 HR 35 MN",
+      "formattedScheduledArrivalDate": "11/26/2022",
+      "formattedScheduledArrivalDateTime": "11/26/2022 12:55:00 AM",
+      "formattedScheduledArrivalTime": "",
+      "formattedScheduledDepartureDate": "11/25/2022",
+      "formattedScheduledDepartureDateTime": "11/25/2022 06:20:00 PM",
+      "formattedScheduledDepartureTime": "",
+      "isPlusPointsExpiredBeforeTravel": false,
+      "marketingCarrier": null,
+      "miles": null,
+      "operatingAirlineCode": "NQ",
+      "operatingAirlineFlightNumber": "0801",
+      "operatingAirlineName": "Air Japan",
+      "points": null,
+      "prices": null,
+      "scheduledArrivalDateTime": "11/26/2022 12:55:00 AM",
+      "scheduledArrivalTimeGMT": "",
+      "scheduledDepartureDateTime": "11/25/2022 06:20:00 PM",
+      "scheduledDepartureTimeGMT": "",
+      "segmentNumber": "2",
+      "showPlusPointsExpiryMessage": false,
+      "tripNumber": "1",
+      "waitlisted": ""
+    },
+    {
+      "aircraft": {
+        "code": "74H",
+        "longName": "Boeing 747-8 Intercontinental",
+        "modelCode": "",
+        "shortName": ""
+      },
+      "arrival": {
+        "city": "FRA",
+        "code": "DE",
+        "name": "Frankfurt, DE (FRA)"
+      },
+      "classOfService": "V",
+      "classOfServiceDescription": "Coach",
+      "classType": "Economy",
+      "departure": {
+        "city": "SIN",
+        "code": "SG",
+        "name": "Singapore, SG (SIN)"
+      },
+      "flightNumber": "779",
+      "flightTime": "13 HR 5 MN",
+      "formattedScheduledArrivalDate": "12/2/2022",
+      "formattedScheduledArrivalDateTime": "12/02/2022 06:00:00 AM",
+      "formattedScheduledArrivalTime": "",
+      "formattedScheduledDepartureDate": "12/1/2022",
+      "formattedScheduledDepartureDateTime": "12/01/2022 11:55:00 PM",
+      "formattedScheduledDepartureTime": "",
+      "isPlusPointsExpiredBeforeTravel": false,
+      "marketingCarrier": null,
+      "miles": null,
+      "operatingAirlineCode": "LH",
+      "operatingAirlineFlightNumber": "",
+      "operatingAirlineName": "Lufthansa",
+      "points": null,
+      "prices": null,
+      "scheduledArrivalDateTime": "12/02/2022 06:00:00 AM",
+      "scheduledArrivalTimeGMT": "",
+      "scheduledDepartureDateTime": "12/01/2022 11:55:00 PM",
+      "scheduledDepartureTimeGMT": "",
+      "segmentNumber": "3",
+      "showPlusPointsExpiryMessage": false,
+      "tripNumber": "2",
+      "waitlisted": ""
+    },
+    {
+      "aircraft": {
+        "code": "781",
+        "longName": "Boeing 787-10 Dreamliner",
+        "modelCode": "",
+        "shortName": ""
+      },
+      "arrival": {
+        "city": "ORD",
+        "code": "US",
+        "name": "Chicago, IL, US (ORD - O'Hare)"
+      },
+      "classOfService": "V",
+      "classOfServiceDescription": "Coach",
+      "classType": "United Economy",
+      "departure": {
+        "city": "FRA",
+        "code": "DE",
+        "name": "Frankfurt, DE (FRA)"
+      },
+      "flightNumber": "945",
+      "flightTime": "9 HR 35 MN",
+      "formattedScheduledArrivalDate": "12/2/2022",
+      "formattedScheduledArrivalDateTime": "12/02/2022 11:15:00 AM",
+      "formattedScheduledArrivalTime": "",
+      "formattedScheduledDepartureDate": "12/2/2022",
+      "formattedScheduledDepartureDateTime": "12/02/2022 08:40:00 AM",
+      "formattedScheduledDepartureTime": "",
+      "isPlusPointsExpiredBeforeTravel": false,
+      "marketingCarrier": null,
+      "miles": [
+        {
+          "allowSelection": false,
+          "availableSeatCount": "0",
+          "cabinUpgradeTypeDesc": "UPPUPGRADE",
+          "doubleUpgradeTooltip": null,
+          "id": "945_MUA_UPPUpgrade_Waitlist_4",
+          "messages": null,
+          "priceOption": [
+            {
+              "code": null,
+              "eddCode": "OPB",
+              "rewardCode": null,
+              "type": "USD",
+              "value": "0"
+            },
+            {
+              "code": null,
+              "eddCode": null,
+              "rewardCode": "YO52V",
+              "type": "Miles",
+              "value": "20000"
+            }
+          ],
+          "segmentRefId": "4",
+          "taxes": null,
+          "tripRefId": "2",
+          "upgradeCabinTypes": [
+            {
+              "availableSeatCount": "0",
+              "availableSeatMsg": "",
+              "id": "945_MUA_UPPUpgrade_Waitlist_4",
+              "segmentNumber": "4",
+              "upgradeStatus": "Waitlist",
+              "upgradeType": "UPPUPGRADE",
+              "upgradeTypeDesc": "United Premium Plus"
+            }
+          ],
+          "upgradeStatus": "Waitlist",
+          "upgradeType": "MUA"
+        },
+        {
+          "allowSelection": false,
+          "availableSeatCount": "0",
+          "cabinUpgradeTypeDesc": "FRONTCABINUPGRADE",
+          "doubleUpgradeTooltip": null,
+          "id": "945_MUA_FrontCabinUpgrade_Waitlist_4",
+          "messages": null,
+          "priceOption": [
+            {
+              "code": null,
+              "eddCode": "OPB",
+              "rewardCode": null,
+              "type": "USD",
+              "value": "380"
+            },
+            {
+              "code": null,
+              "eddCode": null,
+              "rewardCode": "UP52V",
+              "type": "Miles",
+              "value": "20000"
+            }
+          ],
+          "segmentRefId": "4",
+          "taxes": null,
+          "tripRefId": "2",
+          "upgradeCabinTypes": [
+            {
+              "availableSeatCount": "0",
+              "availableSeatMsg": "",
+              "id": "945_MUA_FrontCabinUpgrade_Waitlist_4",
+              "segmentNumber": "4",
+              "upgradeStatus": "Waitlist",
+              "upgradeType": "FRONTCABINUPGRADE",
+              "upgradeTypeDesc": "United Polaris business"
+            }
+          ],
+          "upgradeStatus": "Waitlist",
+          "upgradeType": "MUA"
+        },
+        {
+          "allowSelection": false,
+          "availableSeatCount": "0",
+          "cabinUpgradeTypeDesc": "DOUBLEUPGRADE",
+          "doubleUpgradeTooltip": "&lt;p&gt; We'll charge you &lt;b&gt; 20k miles + $380 per person &lt;/b&gt; today to waitlist for both United Polaris business® and United Premium Plus℠. If neither upgrade clears, we'll refund the full amount of 20k miles + $380 per person. If only United Premium Plus℠ clears, you'll receive a refund after your flight for the full amount we charged today, and then we'll charge &lt;b&gt; 20k miles + $0 per person &lt;/b&gt; for the United Premium Plus upgrade.&lt;/p&gt;",
+          "id": "945_MUA_FrontCabinUpgrade_Waitlist_4_945_MUA_UPPUpgrade_Waitlist_4",
+          "messages": [
+            {
+              "advisoryType": "INFORMATION",
+              "body": "&lt;p&gt; You've chosen to be eligible for United Polaris business and United Premium Plus for the flight(s) shown. If only United Premium Plus clears, you'll receive a refund after your flight for the full amount we charged today, and then we'll charge &lt;b&gt;20k miles + $0 per person &lt;/b&gt; for the United Premium Plus upgrade.&lt;/p&gt;",
+              "bodyItems": null,
+              "contentType": "NONE",
+              "header": "SIN - ORD | United Polaris business, United Premium Plus",
+              "shouldExpand": true
+            }
+          ],
+          "priceOption": [
+            {
+              "code": null,
+              "eddCode": "OPB",
+              "rewardCode": null,
+              "type": "USD",
+              "value": "380"
+            },
+            {
+              "code": null,
+              "eddCode": null,
+              "rewardCode": "UP52V",
+              "type": "Miles",
+              "value": "20000"
+            }
+          ],
+          "segmentRefId": "4",
+          "taxes": null,
+          "tripRefId": "2",
+          "upgradeCabinTypes": [
+            {
+              "availableSeatCount": "0",
+              "availableSeatMsg": "",
+              "id": "945_MUA_FrontCabinUpgrade_Waitlist_4",
+              "segmentNumber": "4",
+              "upgradeStatus": "Waitlist",
+              "upgradeType": "FRONTCABINUPGRADE",
+              "upgradeTypeDesc": "United Polaris business"
+            },
+            {
+              "availableSeatCount": "0",
+              "availableSeatMsg": "",
+              "id": "945_MUA_UPPUpgrade_Waitlist_4",
+              "segmentNumber": "4",
+              "upgradeStatus": "Waitlist",
+              "upgradeType": "UPPUPGRADE",
+              "upgradeTypeDesc": "United Premium Plus"
+            }
+          ],
+          "upgradeStatus": "Waitlist",
+          "upgradeType": "MUA"
+        }
+      ],
+      "operatingAirlineCode": "UA",
+      "operatingAirlineFlightNumber": "",
+      "operatingAirlineName": "United Airlines",
+      "points": [
+        {
+          "allowSelection": false,
+          "availableSeatCount": "0",
+          "cabinUpgradeTypeDesc": "UPPUPGRADE",
+          "doubleUpgradeTooltip": null,
+          "id": "945_UGC_UPPUpgrade_Waitlist_4",
+          "messages": null,
+          "priceOption": [
+            {
+              "code": null,
+              "eddCode": null,
+              "rewardCode": null,
+              "type": "UGC",
+              "value": "20"
+            }
+          ],
+          "segmentRefId": "4",
+          "taxes": null,
+          "tripRefId": "2",
+          "upgradeCabinTypes": [
+            {
+              "availableSeatCount": "0",
+              "availableSeatMsg": "",
+              "id": "945_UGC_UPPUpgrade_Waitlist_4",
+              "segmentNumber": "4",
+              "upgradeStatus": "Waitlist",
+              "upgradeType": "UPPUPGRADE",
+              "upgradeTypeDesc": "United Premium Plus"
+            }
+          ],
+          "upgradeStatus": "Waitlist",
+          "upgradeType": "UGC"
+        },
+        {
+          "allowSelection": false,
+          "availableSeatCount": "0",
+          "cabinUpgradeTypeDesc": "FRONTCABINUPGRADE",
+          "doubleUpgradeTooltip": null,
+          "id": "945_UGC_FrontCabinUpgrade_Waitlist_4",
+          "messages": null,
+          "priceOption": [
+            {
+              "code": null,
+              "eddCode": null,
+              "rewardCode": null,
+              "type": "UGC",
+              "value": "40"
+            }
+          ],
+          "segmentRefId": "4",
+          "taxes": null,
+          "tripRefId": "2",
+          "upgradeCabinTypes": [
+            {
+              "availableSeatCount": "0",
+              "availableSeatMsg": "",
+              "id": "945_UGC_FrontCabinUpgrade_Waitlist_4",
+              "segmentNumber": "4",
+              "upgradeStatus": "Waitlist",
+              "upgradeType": "FRONTCABINUPGRADE",
+              "upgradeTypeDesc": "United Polaris business"
+            }
+          ],
+          "upgradeStatus": "Waitlist",
+          "upgradeType": "UGC"
+        },
+        {
+          "allowSelection": false,
+          "availableSeatCount": "0",
+          "cabinUpgradeTypeDesc": "DOUBLEUPGRADE",
+          "doubleUpgradeTooltip": "&lt;p&gt; We'll charge you &lt;b&gt;40 PlusPoints per person&lt;/b&gt; when we confirm either upgrade for United Polaris business® or United Premium Plus℠. If only United Premium Plus℠ clears, you'll receive a refund after your flight for the difference, if applicable.&lt;/p&gt;",
+          "id": "945_UGC_FrontCabinUpgrade_Waitlist_4_945_UGC_UPPUpgrade_Waitlist_4",
+          "messages": null,
+          "priceOption": [
+            {
+              "code": null,
+              "eddCode": null,
+              "rewardCode": null,
+              "type": "UGC",
+              "value": "40"
+            }
+          ],
+          "segmentRefId": "4",
+          "taxes": null,
+          "tripRefId": "2",
+          "upgradeCabinTypes": [
+            {
+              "availableSeatCount": "0",
+              "availableSeatMsg": "",
+              "id": "945_UGC_FrontCabinUpgrade_Waitlist_4",
+              "segmentNumber": "4",
+              "upgradeStatus": "Waitlist",
+              "upgradeType": "FRONTCABINUPGRADE",
+              "upgradeTypeDesc": "United Polaris business"
+            },
+            {
+              "availableSeatCount": "0",
+              "availableSeatMsg": "",
+              "id": "945_UGC_UPPUpgrade_Waitlist_4",
+              "segmentNumber": "4",
+              "upgradeStatus": "Waitlist",
+              "upgradeType": "UPPUPGRADE",
+              "upgradeTypeDesc": "United Premium Plus"
+            }
+          ],
+          "upgradeStatus": "Waitlist",
+          "upgradeType": "UGC"
+        }
+      ],
+      "prices": [
+        {
+          "allowSelection": false,
+          "availableSeatCount": "0",
+          "cabinUpgradeTypeDesc": "UPPUPGRADE",
+          "doubleUpgradeTooltip": null,
+          "id": "PCU_UPP2_2_945",
+          "messages": null,
+          "priceOption": [
+            {
+              "code": null,
+              "eddCode": null,
+              "rewardCode": null,
+              "type": null,
+              "value": "1620"
+            }
+          ],
+          "segmentRefId": "4",
+          "taxes": null,
+          "tripRefId": "2",
+          "upgradeCabinTypes": [
+            {
+              "availableSeatCount": "0",
+              "availableSeatMsg": "",
+              "id": "PCU_UPP2_2_945",
+              "segmentNumber": "4",
+              "upgradeStatus": "Available",
+              "upgradeType": "UPPUPGRADE",
+              "upgradeTypeDesc": "United Premium Plus"
+            }
+          ],
+          "upgradeStatus": "Available",
+          "upgradeType": "PCU"
+        },
+        {
+          "allowSelection": false,
+          "availableSeatCount": "0",
+          "cabinUpgradeTypeDesc": "FRONTCABINUPGRADE",
+          "doubleUpgradeTooltip": null,
+          "id": "PCU_UP2_2_945",
+          "messages": null,
+          "priceOption": [
+            {
+              "code": null,
+              "eddCode": null,
+              "rewardCode": null,
+              "type": null,
+              "value": "2127"
+            }
+          ],
+          "segmentRefId": "4",
+          "taxes": null,
+          "tripRefId": "2",
+          "upgradeCabinTypes": [
+            {
+              "availableSeatCount": "0",
+              "availableSeatMsg": "",
+              "id": "PCU_UP2_2_945",
+              "segmentNumber": "4",
+              "upgradeStatus": "Available",
+              "upgradeType": "FRONTCABINUPGRADE",
+              "upgradeTypeDesc": "United Polaris business"
+            }
+          ],
+          "upgradeStatus": "Available",
+          "upgradeType": "PCU"
+        }
+      ],
+      "scheduledArrivalDateTime": "12/02/2022 11:15:00 AM",
+      "scheduledArrivalTimeGMT": "",
+      "scheduledDepartureDateTime": "12/02/2022 08:40:00 AM",
+      "scheduledDepartureTimeGMT": "",
+      "segmentNumber": "4",
+      "showPlusPointsExpiryMessage": false,
+      "tripNumber": "2",
+      "waitlisted": ""
+    }
+  ],
+  "sessionId": "3F4357EA99484C858ACAA1453A0EBBA2",
+  "transactionId": "234f5559-d2cd-4efb-86f3-2b21e2795058|2fd1c782-25b4-447c-a680-f29ccee4b3af",
+  "trips": [
+    {
+      "arrivalOffset": "",
+      "arrivalTime": "11/26/2022 12:55 AM",
+      "arrivalTimeGMT": "",
+      "cabinType": "",
+      "departureTime": "11/24/2022 10:40 AM",
+      "departureTimeGMT": "",
+      "departureTimeSort": "",
+      "destination": "SIN",
+      "destinationName": "Singapore, SG (SIN)",
+      "flightNumber": null,
+      "index": 1,
+      "journeyMileage": "",
+      "journeyTime": "",
+      "origin": "ORD",
+      "originName": "Chicago, IL (ORD)",
+      "serviceMap": "",
+      "stops": "",
+      "zeros": [
+        "0"
+      ]
+    },
+    {
+      "arrivalOffset": "",
+      "arrivalTime": "12/02/2022 11:15 AM",
+      "arrivalTimeGMT": "",
+      "cabinType": "",
+      "departureTime": "12/01/2022 11:55 PM",
+      "departureTimeGMT": "",
+      "departureTimeSort": "",
+      "destination": "ORD",
+      "destinationName": "Chicago, IL (ORD)",
+      "flightNumber": null,
+      "index": 2,
+      "journeyMileage": "",
+      "journeyTime": "",
+      "origin": "SIN",
+      "originName": "Singapore, SG (SIN)",
+      "serviceMap": "",
+      "stops": "",
+      "zeros": [
+        "0"
+      ]
+    }
+  ],
+  "webSessionShareUrl": "https://qa5.united.com/ual/en/us/Booking/SearchInjection/SSOLogin",
+  "webShareToken": "Bearer AAJITW9iaWxlLUFuZHJvaWRQaG9uZS1jdXN0b21lcnNzb19VQUxfNjQzRTFFNDctMTI0Mi00QjZDLUFCN0UtNjQwMjRFNEJDODRDugCVRezpvYy46gRvflj6HNu6MfxdnfAgb3rsC4hVarVRY6Vc616aejC0s96gKkOAj0rh5SKGUoGads2onFz1W7AqoOVJr-11qxGCqFrXFC5A0IgebHiRbKPjDikGnMmA9OFA7VUQMiUlS-V8QeIY_7KaZFaq6Du-k8aThfS8C1hE7Wu3z2Sc5wV-3bfexJoURWrBvvv2xPY705P6bci-eg"
+}

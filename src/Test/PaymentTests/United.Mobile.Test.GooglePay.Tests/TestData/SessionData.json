@@ -1,0 +1,30 @@
+[
+  {
+    "ObjectName": "United.Persist.Definition.Shopping.Session",
+    "Token": "Bearer rlWuoTpvBvWFHmV1AvVfVzgcMPV6Vwp1AQH5AQN2YJIvZTRgATLkLl1vLGZ4YGAyAJWyAwEzZzV5MPW9.NNV8GJ9vnJkyYHShMUWinJEDnT9hMI9IDHksAwDmEGSSAQpgZGV0Zv00DwMQYHSPA0HgAwDjZwESARWQBQEQjpx-0g3khcDNdJJ4Rlnrm4zKkl57nKD4-wvGlzpH0kP3OguL-6S6bdtrljidLugYWlIZF5JYy2tM382Tx7nc5X3H3HHB-rAliQM5VsFKPsVx1_3uwXOK59ZnV3CmV8uwhOib78c9QJJ-qYqFyGKlmmshFt6yYPN8_gUAxmxsz7Y38ywAPUZwfwDpER1LpTiD.PuMb9UT5pia9miS0NMpIqbIYqHiQ-n9RdJipXqkFUFiSmXwPvrS3YJwlCcJTP8Ax_s9X9RRatWH-QsohwGNExDU6IC4_Y7rNSbqJsPoSVc8f-wc7eSP_-SgqU3oEzXBgFAeVI8hfQhNAZK7ygt9594S2hLtYkN6bXrB5yiRbIlEGn1sFeTK_qmL6FfcML9jaMX1mXwb5ClsOPGUt7usRuvm9c0-VDhMX9mtueEqTudrNYCJj5So35849qCfbCQI6jdwcHcDclwIApzCnks-CjVcWLN9YpDyWmlnoHLOeW-XxCLR_3oAOp7L9bL7PuIAOrv2aJMq50-M7tH7XDhc8DD.rlW2MKVvBvVkYwNvYPWdqTxvBvWxLwR3ZGR1MF0mMJR3YGD1ZTZgLJVlLv04ZwSyLwt5AwZlZ2VvYPWmqJVvBvWxLwR3ZGR1MF0mMJR3YGD1ZTZgLJVlLv04ZwSyLwt5AwZlZ2VvYPWcp3ZvBvWbqUEjpmbiY2AmoJZhqJS0YzS1qTthqJ5cqTIxYzAioF9iLKI0nQViqwRvYPWuqJDvBvWAo2WcoTHgDJ5xpz9cMSObo25yK1IOGS82AQASZHH0Al0kZwDlYGEPAxZgDHV3EF02AQNlARH0DxZ4ARZvYPWcLKDvBwR2AQN4AGD0BGHfVzI4pPV6ZGL0ZQt2ZGL5AFjvLJ1lVwcoVaO3MPWqYPWuqKEbK3EcoJHvBwR2AQN4AGD0BGHfVz5iozAyVwbvG2ufLmI4omMbLyujVvjvLKEsnTSmnPV6Vzu1pKMMGxECrQSwGUpkI3b4HmEuHSR9CFVfVaIjMTS0MJEsLKDvBwR2AQN4AGD0BGHfVzAfnJIhqS9upUOfnJAuqTyioy9cMPV6Vx1iLzyfMF1OozElo2yxHTuiozIsIHSZKmL0Z0HkEGD3YGRlAQVgARV2Dl1ODwqSYGL0ZQV0EGEPDmt0DlVfVaImMKWHrKOyVwbvM3Iyp3DvYPWwoTyyoaEsnJDvBvWAo2WcoTHgDJ5xpz9cMSObo25yK1IOGS82AQASZHH0Al0kZwDlYGEPAxZgDHV3EF02AQNlARH0DxZ4ARZvYPWyozEIp2IlDJqyoaEWEPV6VzV1A2MwLmAxYJZ5ZJDgAQD5Lv04AwyyYJR5ZzV0ZzZlMGDmZFVfVzIhMSImMKWOM2IhqRyDVwbvZGV3YwNhZP4kVa0",
+    "IsTokenAuthenticated": false,
+    "TokenExpireDateTime": "2021-12-30T04:54:55.1582668-06:00",
+    "TokenExpirationValueInSeconds": 7200,
+    "IsTokenExpired": false,
+    "SessionId": "2AB651CCDCCF468E887F9DA30FEAC34D",
+    "CartId": "2AB651CC-DCCF-468E-887F-9DA30FEAC34D",
+    "CreationTime": "2021-12-30T02:54:55.0475732-06:00",
+    "LastSavedTime": "2021-12-30T03:00:23.3831386-06:00",
+    "LastSelectTripKey": "07aARuCDLRWPMILzCXVnHMV",
+    "CustomerID": 0,
+    "SupressLMXForAppID": true,
+    "EmployeeId": "",
+    "DeviceID": "b57fcc3d-c91d-449b-869e-a92b42c2e431",
+    "AppID": 2,
+    "IsMeta": false,
+    "ShopSearchTripCount": 1,
+    "IsReshopChange": false,
+    "IsAward": false,
+    "IsExpertModeEnabled": false,
+    "IsYoungAdult": false,
+    "ShopHasNonStop": 1,
+    "SelectTripHasNonStop": -1,
+    "IsCorporateBooking": false,
+    "TravelType": "RA"
+  }
+]

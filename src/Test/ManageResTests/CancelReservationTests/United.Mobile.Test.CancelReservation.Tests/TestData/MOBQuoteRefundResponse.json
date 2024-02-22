@@ -1,0 +1,105 @@
+[
+  {
+    "ObjectName": "United.Definition.CancelReservation.MOBQuoteRefundResponse",
+    "QuoteType": "text",
+    "IsManualRefund": true,
+    "IsRevenueRefundable": true,
+    "IsRefundfeeAvailable": true,
+    "RefundAmount": {
+      "Amount": "56500",
+      "Code": "REF123"
+    },
+    "RefundFee": {
+      "Amount": "56500",
+      "Code": "REF123",
+      "CurrencyCode": "USD",
+      "DecimalPlace": 3
+    },
+    "RefundMiles": {
+      "Amount": "56500",
+      "Code": "REF123",
+      "CurrencyCode": "USD",
+      "DecimalPlace": 3
+    },
+    "RefundUpgradePointsTotal": {
+      "Amount": "58500",
+      "Code": "REF123",
+      "CurrencyCode": "USD",
+      "DecimalPlace": 3
+    },
+    "RefundAmountOtherCurrency": {
+      "Refundable": true,
+      "Voidable": true,
+      "Amount": "58500",
+      "Code": "REF123",
+      "CurrencyCode": "USD",
+      "DecimalPlace": 3
+    },
+    "Characteristic": [
+      {
+        "Code": "24HrFlexibleBookingPolicy",
+        "Value": "true",
+        "Description": "WEARE"
+      }
+    ],
+    "Policy": {
+      "Name": "NonRefundableBasicEconomy",
+      "Code": "NonRefundableBasicEconomy",
+      "Description": "Economy"
+    },
+    "IsMultipleRefundFOP": true,
+    "IsMilesMoneyFFCTRefundFOP": true,
+    "IsCancellationFee": true,
+    "ShowETCConvertionInfo": true
+  },
+  {
+    "ObjectName": "United.Definition.CancelReservation.MOBQuoteRefundResponse",
+    "QuoteType": "text",
+    "IsManualRefund": true,
+    "IsRevenueRefundable": true,
+    "IsRevenueNonRefundable": true,
+    "IsRefundfeeAvailable": true,
+    "RefundAmount": {
+      "Amount": "56500",
+      "Code": "REF123"
+    },
+    "RefundFee": {
+      "Amount": "56500",
+      "Code": "REF123",
+      "CurrencyCode": "USD",
+      "DecimalPlace": 3
+    },
+    "RefundMiles": {
+      "Amount": "56500",
+      "Code": "REF123",
+      "CurrencyCode": "USD",
+      "DecimalPlace": 3
+    },
+    "RefundUpgradePointsTotal": {
+      "Amount": "58500",
+      "Code": "REF123",
+      "CurrencyCode": "USD",
+      "DecimalPlace": 3
+    },
+    "RefundAmountOtherCurrency": {
+      "Refundable": true,
+      "Voidable": true,
+      "Amount": "58500",
+      "Code": "REF123",
+      "CurrencyCode": "USD",
+      "DecimalPlace": 3
+    },
+    "Characteristic": [
+      {
+        "Code": "24HrFlexibleBookingPolicy",
+        "Value": "true",
+        "Description": "WEARE"
+      }
+    ],
+    "Policy": {
+      "Name": "NonRefundableBasicEconomy",
+      "Code": "NonRefundableBasicEconomy",
+      "Description": "Economy"
+    }
+  }
+]

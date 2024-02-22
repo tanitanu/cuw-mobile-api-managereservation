@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\DataAccess\AccountManagement\United.Mobile.DataAccess.MemberSignIn\United.Mobile.DataAccess.MemberSignIn.csproj" />
+    <ProjectReference Include="..\..\..\DataAccess\AccountManagement\United.Mobile.DataAccess.Profile\United.Mobile.DataAccess.Profile.csproj" />
+    <ProjectReference Include="..\..\..\DataAccess\Shopping\United.Mobile.DataAccess.ShopTrips\United.Mobile.DataAccess.ShopTrips.csproj" />
+    <ProjectReference Include="..\..\..\DataAccess\United.Mobile.DataAccess.Common\United.Mobile.DataAccess.Common.csproj" />
+    <ProjectReference Include="..\..\..\Model\ManageRes\United.Mobile.Model.ManageRes\United.Mobile.Model.ManageRes.csproj" />
+    <ProjectReference Include="..\..\..\Model\Payment\United.Mobile.Model.GooglePay\United.Mobile.Model.GooglePay.csproj" />
+    <ProjectReference Include="..\United.Common.Helper.Merchandize\United.Common.Helper.Merchandize.csproj" />
+    <ProjectReference Include="..\United.Common.Helper.Profile\United.Common.Helper.Profile.csproj" />
+  </ItemGroup>
+
+</Project>

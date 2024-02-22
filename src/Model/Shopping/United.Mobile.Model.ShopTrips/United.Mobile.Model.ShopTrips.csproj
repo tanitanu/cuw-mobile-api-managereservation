@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LoyaltyCommon" Version="1.0.6.88" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\United.Mobile.Model.Common\United.Mobile.Model.Common.csproj" />
+    <ProjectReference Include="..\United.Mobile.Model.Common\United.Mobile.Model.Shopping.Common.csproj" />
+    <ProjectReference Include="..\United.Mobile.Model.Shopping\United.Mobile.Model.Shopping.csproj" />
+  </ItemGroup>
+
+</Project>

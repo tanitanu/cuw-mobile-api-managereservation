@@ -1,0 +1,118 @@
+[
+  {
+    "FlightNumber": 56,
+    "ShowInfoMessageOnSeatMap": "Messages of seats",
+    "SuppressLMX": true,
+    "EplusPromotionMessage": "promo",
+    "FlightDateTime": "24/09/2022 12:00",
+    "SeatLegendId": "l890",
+    "FleetType": "BUSSSIS",
+    "SeatMapAvailabe": true,
+    "IsOaSeatMap": true,
+    "OperatedByText": "yes",
+    "IsReadOnlySeatMap": true,
+    "Cabins": [
+      {
+        "Rows": [
+          {
+            "Seats": [
+              {
+                "DisplaySeatFeature": "",
+                "IsHighestEPlus": true,
+                "IsLowestEPlus": true,
+                "ServicesAndFees": [
+                  {
+                    "AgentDutyCode": "",
+                    "AgentId": "",
+                    "AgentTripleA": "",
+                    "Available": true,
+                    "TotalFee": 233.0
+                  },
+                  {
+                    "AgentDutyCode": "",
+                    "AgentId": "",
+                    "AgentTripleA": "",
+                    "Available": true,
+                    "TotalFee": 233.0
+                  }
+                ],
+                "Number": "22F",
+                "SeatValue": ""
+              }
+            ],
+            "Number": "",
+            "Wing": true
+          }
+        ]
+      }
+    ],
+    "Departure": {
+      "Code": "D457",
+      "Name": "ORD",
+      "City": "NY"
+    },
+    "Arrival": {
+      "Code": "At78",
+      "Name": "IAH",
+      "City": "US"
+    }
+  },
+  {
+    "FlightNumber": 86,
+    "ShowInfoMessageOnSeatMap": "Messages of seats",
+    "SuppressLMX": true,
+    "EplusPromotionMessage": "promo",
+    "FlightDateTime": "24/09/2022 12:00",
+    "SeatLegendId": "l890",
+    "FleetType": "BUSSSIS",
+    "SeatMapAvailabe": true,
+    "IsOaSeatMap": true,
+    "OperatedByText": "yes",
+    "IsReadOnlySeatMap": true,
+    "Cabins": [
+      {
+        "Rows": [
+          {
+            "Seats": [
+              {
+                "DisplaySeatFeature": "",
+                "IsHighestEPlus": true,
+                "IsLowestEPlus": true,
+                "ServicesAndFees": [
+                  {
+                    "AgentDutyCode": "",
+                    "AgentId": "",
+                    "AgentTripleA": "",
+                    "Available": true,
+                    "TotalFee": 233.0
+                  },
+                  {
+                    "AgentDutyCode": "",
+                    "AgentId": "",
+                    "AgentTripleA": "",
+                    "Available": true,
+                    "TotalFee": 233.0
+                  }
+                ],
+                "Number": "22F",
+                "SeatValue": ""
+              }
+            ],
+            "Number": "",
+            "Wing": true
+          }
+        ]
+      }
+    ],
+    "Departure": {
+      "Code": "D457",
+      "Name": "ORD",
+      "City": "NY"
+    },
+    "Arrival": {
+      "Code": "At78",
+      "Name": "IAH",
+      "City": "US"
+    }
+  }
+]

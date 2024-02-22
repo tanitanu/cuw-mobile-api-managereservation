@@ -1,0 +1,89 @@
+[
+  {
+    "ShoppingCart": {
+      "CartId": "1",
+      "Flow": "VIEWRES_BUNDLES_SEATMAP",
+      "Products": [
+        {
+          "ProdDescription": "",
+          "Code": "Code",
+          "Segments": [
+            {
+              "SubSegmentDetails": [
+                {
+                  "Passenger": "",
+                  "Price": "2234",
+                  "Miles": 223
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "FormofPaymentDetails": {
+        "formOfPaymentType": "",
+        "MoneyPlusMilesCredit": {
+          "SelectedMoneyPlusMiles": {
+            "OptionId": "1"
+          }
+        }
+      },
+      "TotalPrice": "300",
+      "DisplayTotalPrice": "300",
+      "AlertMessages": [
+        {
+          "Text1": "Text1",
+          "Text2": "Text2",
+          "Text3": "Text3",
+          "Order": "Order"
+        }
+      ],
+      "Prices": [
+        {
+          "DisplayValue": "350.00",
+          "Value": 350.00
+        }
+      ]
+    }
+  },
+  {
+    "ShoppingCart": {
+      "CartId": "1",
+      "Flow": "VIEWRES_BUNDLES_SEATMAP",
+      "Products": [
+        {
+          "ProdDescription": "",
+          "Code": "Code",
+          "Segments": [
+            {
+              "SubSegmentDetails": [
+                {
+                  "Passenger": "",
+                  "Price": "2234",
+                  "Miles": 223
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "FormofPaymentDetails": {
+        "formOfPaymentType": "",
+        "MoneyPlusMilesCredit": {
+          "SelectedMoneyPlusMiles": {
+            "OptionId": "1"
+          }
+        }
+      },
+      "TotalPrice": "300",
+      "DisplayTotalPrice": "300",
+      "AlertMessages": null,
+      "Prices": [
+        {
+          "DisplayValue": "350.00",
+          "Value": 350.00
+        }
+      ]
+    }
+  }
+]

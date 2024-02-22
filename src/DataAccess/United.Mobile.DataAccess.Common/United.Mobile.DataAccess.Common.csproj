@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="5.1.2" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="6.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Extensions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="6.0.0" />
+    <PackageReference Include="MySql.Data" Version="8.0.32" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+    <PackageReference Include="United.Foundations.Practices.Framework.Model" Version="6.4.0" />
+    <PackageReference Include="United.Foundations.Practices.Framework.Security.DataPower" Version="3.1.18" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\United.Utility\United.Utility.csproj" />
+    <ProjectReference Include="..\..\Model.Internal\United.Definition\United.Mobile.Model.Internal.Common.csproj" />
+    <ProjectReference Include="..\..\Model.Internal\United.Mobile.Model.Internal\United.Mobile.Model.Internal.csproj" />
+    <ProjectReference Include="..\..\Model\United.Mobile.Model.Common\United.Mobile.Model.Common.csproj" />
+  </ItemGroup>
+
+</Project>

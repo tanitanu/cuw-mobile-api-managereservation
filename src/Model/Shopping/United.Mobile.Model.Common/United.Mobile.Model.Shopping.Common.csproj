@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ShopTrips\**" />
+    <EmbeddedResource Remove="ShopTrips\**" />
+    <None Remove="ShopTrips\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Core\United.Utility\United.Utility.csproj" />
+    <ProjectReference Include="..\..\..\DataAccess\United.Mobile.DataAccess.Common\United.Mobile.DataAccess.Common.csproj" />
+    <ProjectReference Include="..\..\Ancillary\United.Mobile.Model.Catalog\United.Mobile.Model.Catalog.csproj" />
+    <ProjectReference Include="..\..\PNRManagement\United.Mobile.Model.PNRManagement\United.Mobile.Model.PNRManagement.csproj" />
+    <ProjectReference Include="..\..\United.Mobile.Model.Common\United.Mobile.Model.Common.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="FareWheel\" />
+    <Folder Include="TripPlanner\" />
+    <Folder Include="ShopProduct\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="5.0.0" />
+  </ItemGroup>
+
+</Project>

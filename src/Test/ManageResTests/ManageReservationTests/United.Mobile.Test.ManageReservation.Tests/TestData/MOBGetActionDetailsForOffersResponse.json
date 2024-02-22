@@ -1,0 +1,1194 @@
+{
+  "sessionId": "C2A9ADA817C74FD39C22F712C075D591",
+  "deviceId": "b53398db-7f29-4866-a91b-90b597acf2ee",
+  "selectedOption": "KEEPTRIP",
+  "recordLocator": "ESFX70",
+  "lastName": "",
+  "mileagePlusNumber": null,
+  "flowType": null,
+  "pnrResponse": {
+    "deviceId": "",
+    "sessionId": "C2A9ADA817C74FD39C22F712C075D591",
+    "flow": "VIEWRES",
+    "recordLocator": "ESFX70",
+    "lastName": "JESTE",
+    "pnr": {
+      "sessionId": "C2A9ADA817C74FD39C22F712C075D591",
+      "recordLocator": "ESFX70",
+      "dateCreated": "5/26/2022 3:07 PM",
+      "description": "",
+      "isActive": true,
+      "ticketType": "",
+      "numberOfPassengers": "1",
+      "trips": [
+        {
+          "index": 1,
+          "origin": "SFO",
+          "originName": "San Francisco, CA (SFO)",
+          "destination": "BOS",
+          "destinationName": "Boston, MA (BOS)",
+          "stops": "",
+          "journeyTime": "",
+          "journeyMileage": "",
+          "departureTime": "08/25/2022 06:10 PM",
+          "arrivalTime": "08/26/2022 02:58 AM",
+          "departureTimeGMT": "",
+          "arrivalTimeGMT": "",
+          "arrivalOffset": "",
+          "serviceMap": "",
+          "departureTimeSort": "",
+          "cabinType": "",
+          "flightNumber": null,
+          "zeros": [
+            "0"
+          ]
+        }
+      ],
+      "passengers": [
+        {
+          "passengerName": {
+            "title": "",
+            "first": "TEST",
+            "middle": "SAM",
+            "last": "JESTE",
+            "suffix": ""
+          },
+          "knownTravelerNumber": null,
+          "ktnDisplaySequence": null,
+          "redressNumber": null,
+          "redressDisplaySequence": null,
+          "ssrDisplaySequence": "",
+          "sharesPosition": "1.1",
+          "mileagePlus": {
+            "accountBalance": 0,
+            "activeStatusCode": "",
+            "activeStatusDescription": "",
+            "allianceEliteLevel": 0,
+            "closedStatusCode": "",
+            "closedStatusDescription": "",
+            "currentEliteLevel": 0,
+            "currentEliteLevelDescription": "Member",
+            "currentYearMoneySpent": 0.0,
+            "eliteMileageBalance": 0,
+            "eliteSegmentBalance": 0,
+            "eliteSegmentDecimalPlaceValue": 0,
+            "encryptedPin": "",
+            "enrollDate": "",
+            "enrollSourceCode": "",
+            "enrollSourceDescription": "",
+            "flexPqmBalance": 0,
+            "futureEliteLevel": 0,
+            "futureEliteDescription": "",
+            "instantEliteExpirationDate": "",
+            "isCEO": false,
+            "isClosedPermanently": false,
+            "isClosedTemporarily": false,
+            "isCurrentTrialEliteMember": false,
+            "isFlexPqm": false,
+            "isInfiniteElite": false,
+            "isLifetimeCompanion": false,
+            "isLockedOut": false,
+            "isMergePending": false,
+            "isUnitedClubMember": false,
+            "isPresidentialPlus": false,
+            "key": "",
+            "lastActivityDate": "",
+            "lastExpiredMile": 0,
+            "lastFlightDate": "",
+            "lastStatementBalance": 0,
+            "lastStatementDate": "",
+            "lifetimeEliteLevel": 0,
+            "lifetimeEliteMileageBalance": 0,
+            "mileageExpirationDate": "",
+            "nextYearEliteLevel": 0,
+            "nextYearEliteLevelDescription": "",
+            "mileagePlusId": "AW719636",
+            "mileagePlusPin": "",
+            "priorUnitedAccountNumber": "",
+            "starAllianceEliteLevel": 0,
+            "mpCustomerId": 0,
+            "vendorCode": "UA",
+            "premierLevelExpirationDate": "",
+            "instantElite": null,
+            "travelBankAccountNumber": null,
+            "travelBankBalance": 0.0,
+            "travelBankCurrencyCode": null,
+            "travelBankExpirationDate": null
+          },
+          "oaRewardPrograms": null,
+          "isMPMember": false,
+          "sharesGivenName": "TESTSAM",
+          "selectedSpecialNeeds": [],
+          "birthDate": "8/31/1988 12:00:00 AM",
+          "travelerTypeCode": "ADT",
+          "pricingPaxType": "",
+          "contact": {
+            "emails": null,
+            "phoneNumbers": null
+          },
+          "earnedMiles": {
+            "firstName": "TEST",
+            "lastName": "JESTE",
+            "awardMileTotalFormated": "2,160",
+            "pqmTotalFormated": "--",
+            "pqsTotalFormated": "--",
+            "pqdTotalFormated": "--",
+            "pqfTotalFormated": "1",
+            "pqpTotalFormated": "432",
+            "awardMileTotalShort": "2160",
+            "pqmTotalShort": "",
+            "pqsTotalShort": "",
+            "pqdTotalShort": "",
+            "pqfTotalShort": "1",
+            "pqpTotalShort": "432",
+            "isMember": true,
+            "memberLevelText": "Member",
+            "nonMemberMessage": "",
+            "rowData": [
+              {
+                "segmentText": "SFO - BOS",
+                "tripText": "",
+                "awardMileText": "2,160",
+                "pqmText": "--",
+                "pqsText": "--",
+                "pqdText": "--",
+                "pqfText": "1",
+                "pqpText": "432",
+                "isElligibleForEarnings": true,
+                "ineligibleEarningsText": "",
+                "secondLineText": ""
+              }
+            ],
+            "hasInelligibleSegment": false,
+            "earnedMilesType": "VBQ"
+          },
+          "loyaltyProgramProfile": {
+            "LoyaltyProgramCarrierCode": "UA",
+            "LoyaltyProgramID": "",
+            "LoyaltyProgramMemberID": "AW719636",
+            "LoyaltyProgramMemberTierLevel": "MP",
+            "StarEliteLevel": "",
+            "LoyaltyProgramMemberTierDescription": "GeneralMember",
+            "Balances": [
+              {
+                "Characteristics": [
+                  {
+                    "Code": "PQF",
+                    "Value": "1",
+                    "Description": "Premier Qualifying Flights",
+                    "Status": {
+                      "Description": "Trip Number"
+                    }
+                  },
+                  {
+                    "Code": "PQP",
+                    "Value": "432",
+                    "Description": "Premier Qualifying Points",
+                    "Status": {
+                      "Description": "Trip Number"
+                    }
+                  },
+                  {
+                    "Code": "RDM",
+                    "Value": "2160",
+                    "Description": "Accruable Miles",
+                    "Status": {
+                      "Description": "Trip Number"
+                    }
+                  },
+                  {
+                    "Code": "PQF",
+                    "Value": "1",
+                    "Description": "Premier Qualifying Flights",
+                    "Status": {
+                      "Description": "Trip Number",
+                      "Key": "1"
+                    }
+                  },
+                  {
+                    "Code": "PQP",
+                    "Value": "432",
+                    "Description": "Premier Qualifying Points",
+                    "Status": {
+                      "Description": "Trip Number",
+                      "Key": "1"
+                    }
+                  },
+                  {
+                    "Code": "RDM",
+                    "Value": "2160",
+                    "Description": "Accruable Miles",
+                    "Status": {
+                      "Description": "Trip Number",
+                      "Key": "1"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "employeeProfile": null,
+          "pnrCustomerID": "JESTE/TESTSAM"
+        }
+      ],
+      "segments": [
+        {
+          "operationoperatingCarrier": {
+            "code": "UA",
+            "name": "United Airlines",
+            "flightNumber": ""
+          },
+          "aircraft": {
+            "code": "7M9",
+            "shortName": "",
+            "longName": "Boeing 737 MAX 9",
+            "modelCode": "7M9"
+          },
+          "meal": "Meals for purchase",
+          "flightTime": "5 HR 48 MN",
+          "groundTime": "00:00:00",
+          "totalTravelTime": "",
+          "actualMileage": "2696",
+          "mileagePlusMileage": "2696",
+          "emp": "",
+          "totalMileagePlusMileage": "",
+          "ssrMeals": "",
+          "classOfService": "H",
+          "classOfServiceDescription": "United Economy",
+          "seats": [
+            {
+              "number": "29F",
+              "seatRow": "",
+              "seatLetter": "",
+              "passengerSHARESPosition": "1.1",
+              "seatStatus": "",
+              "segmentIndex": "1",
+              "origin": "SFO",
+              "destination": "BOS",
+              "eddNumber": "",
+              "eDocId": "",
+              "price": 0.0,
+              "currency": "",
+              "programCode": ""
+            }
+          ],
+          "numberOfStops": "",
+          "stops": [],
+          "isPlusPointSegment": false,
+          "hasPreviousSegmentDetails": false,
+          "scheduledDepartureDateTimeGMT": "8/26/2022 1:10 AM",
+          "scheduledArrivalDateTimeGMT": "8/26/2022 6:58 AM",
+          "noProtection": "",
+          "codeshareCarrier": {
+            "code": "UA",
+            "name": "",
+            "flightNumber": "2079"
+          },
+          "codeshareFlightNumber": "",
+          "scheduleChangeInfo": null,
+          "upgradeVisibility": {
+            "carrierCode": "UA",
+            "classOfService": "H",
+            "departureDateTime": "08/25/2022 06:10 PM",
+            "destination": "BOS",
+            "flightNumber": 2079,
+            "origin": "SFO",
+            "previousSegmentActionCode": "SC",
+            "segmentActionCode": "HK1",
+            "segmentNumber": 1,
+            "upgradeRemark": "",
+            "decodedUpgradeMessage": "",
+            "upgradeMessage": "ReservationHoldersAreNotEligibleForUpgrade",
+            "upgradeMessageCode": "None",
+            "upgradeProperties": [
+              {
+                "key": "None",
+                "value": "False"
+              },
+              {
+                "key": "None",
+                "value": "None"
+              }
+            ],
+            "upgradeStatus": "1",
+            "upgradeType": "Unknown",
+            "waitlistSegments": null,
+            "remarkAdvisoryType": "NONE"
+          },
+          "lowestEliteLevel": 0,
+          "upgradeable": false,
+          "upgradeableMessageCode": "",
+          "upgradeableMessage": "",
+          "upgradeableRemark": "",
+          "complimentaryInstantUpgradeMessage": "",
+          "remove": false,
+          "waitlisted": false,
+          "actionCode": "HK1",
+          "upgradeEligible": false,
+          "waitedCOSDesc": "",
+          "lmxProducts": null,
+          "cabinType": "United Economy",
+          "nonPartnerFlight": false,
+          "bundles": null,
+          "isElf": false,
+          "isIBE": false,
+          "tripNumber": "1",
+          "segmentNumber": 1,
+          "ticketCouponStatus": "ADJUSTED",
+          "productCode": "",
+          "fareBasisCode": "HAA0OHEN",
+          "inCabinPetInfo": null,
+          "showSeatMapLink": true,
+          "isChangeOfGuage": false,
+          "isCheckedIn": false,
+          "isCheckInEligible": false,
+          "isAllPaxCheckedIn": false,
+          "marketingCarrier": {
+            "code": "UA",
+            "name": "United Airlines",
+            "flightNumber": "2079"
+          },
+          "flightNumber": "2079",
+          "departure": {
+            "code": "SFO",
+            "name": "San Francisco, CA (SFO)",
+            "city": "San Francisco"
+          },
+          "arrival": {
+            "code": "BOS",
+            "name": "Boston, MA (BOS)",
+            "city": "Boston"
+          },
+          "scheduledDepartureDateTime": "8/25/2022 6:10 PM",
+          "scheduledArrivalDateTime": "8/26/2022 2:58 AM",
+          "scheduledDepartureTimeGMT": "",
+          "scheduledArrivalTimeGMT": "",
+          "formattedScheduledDepartureDateTime": "",
+          "formattedScheduledArrivalDateTime": "",
+          "formattedScheduledDepartureDate": "",
+          "formattedScheduledArrivalDate": "",
+          "formattedScheduledDepartureTime": "",
+          "formattedScheduledArrivalTime": ""
+        }
+      ],
+      "lastTripDateDepartureDate": "08/25/2022 06:10 PM",
+      "lastTripDateArrivalDate": "08/26/2022 02:58 AM",
+      "checkinEligible": "N",
+      "infantInLaps": [],
+      "alreadyCheckedin": "false",
+      "notValid": "false",
+      "validforCheckin": "false",
+      "pnrCanceled": "false",
+      "uaRecordLocator": "",
+      "coRecordLocator": "",
+      "pnrOwner": "",
+      "mealAccommodationAdvisory": "",
+      "mealAccommodationAdvisoryHeader": "",
+      "oaRecordLocators": [],
+      "oaRecordLocatorMessageTitle": "",
+      "oaRecordLocatorMessage": "",
+      "isEligibleToSeatChange": true,
+      "emailAddress": "TEST@UNITED.COM",
+      "seatOffer": null,
+      "isShuttleOfferEligible": false,
+      "isETicketed": true,
+      "shouldDisplayEmailReceipt": true,
+      "isPetAvailable": false,
+      "bundleInfo": {
+        "flightSegments": [],
+        "errorMessage": ""
+      },
+      "showOverride24HrFlex": true,
+      "showOverrideATREEligible": false,
+      "scheduleChangeInfo": null,
+      "irropsChangeInfo": null,
+      "associateMPId": "false",
+      "associateMPIdSharesPosition": "",
+      "associateMPIdSharesGivenName": "",
+      "associateMPIdMessage": "",
+      "petRecordLocators": [],
+      "upgradeMessage": "",
+      "farelockExpirationDate": "",
+      "farelockPurchaseMessage": "Please visit the full version of united.com to complete the purchase of this reservation.",
+      "earnedMilesHeader": "MileagePlus® earning information",
+      "earnedMilesText": "Award miles shown are the miles that can be earned for this flight. Mileage accrued will vary depending on the terms and conditions of your frequent flyer program. United MileagePlus mileage accrual and other benefits of MileagePlus associated with air travel are subject to the rules of the MileagePlus program.\\n\\nYou can earn up to 75,000 award miles per ticket. The 75,000 award miles cap may be applied to your posted flight activity in an order different than shown.",
+      "ineligibleToEarnCreditMessage": "This itinerary includes one or more flights that are ineligible to earn mileage or Premier qualifying credit.",
+      "oaIneligibleToEarnCreditMessage": "Ineligible to accrue mileage or Premier qualifying credit.",
+      "awardTravel": false,
+      "psSaTravel": false,
+      "supressLMX": false,
+      "elfLimitations": null,
+      "overMileageLimitMessage": "You can earn up to 75,000 award miles per ticket. The 75,000 award miles cap may be applied to your posted flight activity in an order different than shown.",
+      "overMileageLimitAmount": "75000",
+      "lmxtravelers": null,
+      "tripType": "One-way",
+      "isTPIIncluded": false,
+      "isFareLockOrNRSA": false,
+      "hasCheckedBags": true,
+      "isELF": false,
+      "isIBELite": false,
+      "isIBE": false,
+      "isCBE": false,
+      "hasScheduleChanged": false,
+      "statusMessageItems": null,
+      "productCategory": "Economy",
+      "productCode": "",
+      "marketType": "Domestic",
+      "journeyType": "",
+      "checkInStatus": "0",
+      "getCheckInStatusFromCSLPNRRetrivalService": true,
+      "irrOps": false,
+      "irrOpsViewed": false,
+      "isEnableEditTraveler": true,
+      "isUnaccompaniedMinor": false,
+      "isCanceledWithFutureFlightCredit": false,
+      "umnr": null,
+      "inCabinPetInfo": null,
+      "futureflightcredit": null,
+      "shuttleOfferInformation": null,
+      "earnedMilesInfo": [
+        {
+          "id": "earnedmilesalertheader",
+          "currentValue": "MileagePlus® earning information",
+          "saveToPersist": false
+        },
+        {
+          "id": "earnedmilesalerttext",
+          "currentValue": "Award miles shown are the miles that can be earned for this flight. Mileage accrued will vary depending on the terms and conditions of your frequent flyer program. United MileagePlus mileage accrual and other benefits of MileagePlus associated with air travel are subject to the rules of the MileagePlus program.\r\n\r\nAward miles and PQP you earn in some cases may differ from that shown above for an individual flight but total award miles and PQP earned for your entire itinerary will remain the same.\r\n\r\nYou can earn up to 75,000 award miles per ticket. The 75,000 award miles cap may be applied to your posted flight activity in an order different than shown.",
+          "saveToPersist": false
+        }
+      ],
+      "isCheckinEligible": false,
+      "isAgencyBooking": false,
+      "agencyName": null,
+      "isPolicyExceptionAlert": false,
+      "isBEChangeEligible": false,
+      "shouldDisplayUpgradeCabin": true,
+      "isCorporateBooking": false,
+      "corporateVendorName": "",
+      "advisoryInfo": [
+        {
+          "advisoryType": "CAUTION",
+          "contentType": "TRAVELREADY",
+          "header": "Your upcoming trip requires travel documentation.",
+          "subTitle": null,
+          "body": "Please visit the Travel-Ready Center to see which documents you'll need, including passports and/or visas, and to complete your trip requirements.",
+          "footer": null,
+          "buttontext": "Travel-Ready Center >",
+          "buttonlink": null,
+          "isBodyAsHtml": false,
+          "shouldExpand": true,
+          "isDefaultOpen": true,
+          "buttonItems": null,
+          "subItems": null
+        },
+        {
+          "advisoryType": "INFORMATION",
+          "contentType": "SCHEDULECHANGE",
+          "header": "This trip is eligible for a free one-time change or refund.",
+          "subTitle": null,
+          "body": "Due to a prior schedule change impacting your trip, you have the option to make a one-time change to your flight(s) at no cost, or cancel and request a refund.<br/><br/>Your new flight must meet these conditions:<br/><ul><li>Your new travel date is not more than 1 day before or 1 day after the original date</li><li> Your origin and destination airports remain the same</li><li>Your new ticket is in the same cabin and booking class as the original ticket</li><li> Your new flight is operated by United and United Express</li></ul>To make a one-time change, select \"Change flights\" below. To review cancel and refund options, select \"Cancel options\".",
+          "footer": null,
+          "buttontext": null,
+          "buttonlink": "https://QA9.united.com/en/US/manageres/tripdetails/WAOWUIw%7e%7evL0PK8DO3jYtSwebQoUIMBHHZAyn7UDU%2bv%7e%7e8NO0ORd1tGtsX9bfl2DlZYH1RvHHJT7Di0AHXkJcETuSlrbefOY%7e%7ea/mobile",
+          "isBodyAsHtml": true,
+          "shouldExpand": true,
+          "isDefaultOpen": true,
+          "buttonItems": null,
+          "subItems": null
+        }
+      ],
+      "consolidateScheduleChangeMessage": false,
+      "prices": null,
+      "isTicketedByUA": false,
+      "isSCChangeEligible": true,
+      "isSCRefundEligible": true,
+      "isSCBulkGroupPWC": false,
+      "isMilesAndMoney": false,
+      "oneClickEnrollmentEligibility": {
+        "joinMileagePlusHeader": "Join MileagePlus for free",
+        "joinMileagePlusText": "Save, manage your trip, and check in faster with a free MileagePlus account",
+        "joinMileagePlus": "Join now"
+      },
+      "isATREEligible": true,
+      "isJSENonChangeableFare": false,
+      "is24HrFlexibleBookingPolicy": true,
+      "isInflightMealsOfferEligible": true,
+      "syncedWithConcur": "",
+      "urlItems": [],
+      "editTravelerInfo": null,
+      "encryptPNR": null,
+      "encryptLastName": null,
+      "isgroup": false,
+      "isBulk": false,
+      "fareLockMessage": "",
+      "fareLockPurchaseButton": "",
+      "fareLockPriceButton": ""
+    },
+    "uaRecordLocator": "",
+    "dotBagRules": [
+      "Baggage allowances and fees",
+      "United accepts one carry-on item of no more than 45 linear inches or 114 linear centimeters in the aircraft cabin, along with one personal item (such as a shoulder or laptop bag).",
+      " ",
+      "In general, checked baggage fees are charged at any point in the itinerary where bags are checked. For itineraries operated exclusively by United or United Express, standard fees will apply to checked baggage with a maximum weight of 50 pounds (23 kg) per bag and a maximum outside linear dimension of 62 inches (157 cm) as follows:",
+      " ",
+      "Within the U.S. (including Hawaii, Puerto Rico and the U.S .Virgin Islands) and between the U.S. and Canada: First checked bag $25, second checked bag $35",
+      "Between the U.S./Canada and the Caribbean: First checked bag $25, second checked bag $40",
+      "Between the U.S. and Mexico/Central America: First checked bag $0, second checked bag $40",
+      "Between the U.S. and Asia/Australia/New Zealand/Micronesia/Europe/Middle East/South America (except Brazil and Venezuela): First checked bag $0, second checked bag $70",
+      "Between the U.S. and Africa: First checked bag $0, second checked bag $70 (Fee applies only to/from Egypt/Malawi/Morocco/Zambia; all other African countries have a $0 second bag fee.)",
+      "Between the U.S. (except Hawaii) and Japan: First checked bag $0, second checked bag $0",
+      "Between Hawaii, Micronesia and Japan: First checked bag $0, second checked bag $40",
+      " ",
+      "First and second checked bag fees do not apply to active-duty members of the U.S. military and their accompanying dependents, customers confirmed in United PolarisSM First, United First®, United PolarisSM Business or United Business®, or to United Global ServicesSM, MileagePlus® Premier® 1K®, Premier Platinum, Premier Gold or Star Alliance® Gold members, or Presidential PlusSM or MileagePlus Club primary credit cardholders. First checked bag fee does not apply to MileagePlus Premier Silver or Star Alliance Silver members, or MileagePlus Explorer or OnePassSM Plus primary credit cardholders.",
+      " ",
+      "For additional information regarding checked baggage fees, allowances, weight/size restrictions, exceptions, embargoes, or overweight, oversized, odd-sized and sporting equipment charges, go to united.com/baggage and select your special items and restrictions category.",
+      " ",
+      "For travel itineraries that include flights operated by our alliance partners or other airlines, different baggage fees may apply. Learn more at united.com/baggageservices."
+    ],
+    "dotBaggageInformation": null,
+    "countDownWidgetInfo": {
+      "sectionTitle": "Countdown widget",
+      "sectionDescription": "Excited about your next trip? Count the days with the new United countdown widget.",
+      "instructionLinkText": "How to add the widget",
+      "instructionPageTitle": "How to add the widget",
+      "instructionPageContent": "<p><b>How to add the widget to your home screen on Android:</b></p><p>1. On your home screen, touch anywhere on the screen and hold until you see the customize view window.</p><p>2. Select the “Widgets.”</p><p>3. Enter \"United\" in the search bar and select the United widget.</p><p>4. Choose the widget you want and select \"Add.\"</p><p>5. Hold down on the widget to move it to wherever you want on your home screen. </p>"
+    },
+    "premierAccess": {
+      "productCode": "PAS",
+      "productName": "Premium Access",
+      "recordLocator": "ESFX70",
+      "lastName": "JESTE",
+      "paOffersSessionId": "C2A9ADA817C74FD39C22F712C075D591",
+      "segments": [
+        {
+          "origin": "SFO",
+          "destination": "BOS",
+          "flightDate": "Thu. Aug. 25, 2022",
+          "flightNumber": "2079",
+          "customers": [
+            {
+              "custId": "1",
+              "custName": "TEST JESTE",
+              "fee": 61.0,
+              "currencyCode": "USD",
+              "alreadypurchased": false,
+              "paCustomerType": "0",
+              "productIds": [
+                "11"
+              ],
+              "miles": 0,
+              "displayMiles": null
+            }
+          ],
+          "paSegmentType": "0",
+          "segmentId": "1",
+          "addAllTravelers": "",
+          "priorityBoarding": true,
+          "priorityCheckin": true,
+          "prioritySecurity": true,
+          "discountedPrice": 0.0
+        }
+      ],
+      "benefits": [
+        {
+          "key": "paBInclude",
+          "value": "Premier Access benefits include:"
+        },
+        {
+          "key": "priorityBoarding",
+          "value": "Priority boarding"
+        },
+        {
+          "key": "priorityCheckin",
+          "value": "Priority check-in line"
+        },
+        {
+          "key": "prioritySecurity",
+          "value": "Priority security line"
+        }
+      ],
+      "tAndC": [
+        {
+          "key": "paTandC1",
+          "value": "This Premier Access offer is nonrefundable and non-transferable"
+        },
+        {
+          "key": "paTandC2",
+          "value": "Voluntary changes to your itinerary may forfeit your Premier Access purchase and  any associated fees."
+        },
+        {
+          "key": "paTandC3",
+          "value": "In the event of a flight cancellation or involuntary schedule change, we will refund  the fees paid for the unused Premier Access product upon request."
+        },
+        {
+          "key": "paTandC4",
+          "value": "Premier Access is offered only on flights operated by United and United Express."
+        },
+        {
+          "key": "paTandC5",
+          "value": "This Premier Access offer is processed based on availability at time of purchase."
+        },
+        {
+          "key": "paTandC6",
+          "value": "Premier Access does not guarantee wait time in airport check-in, boarding, or security lines. Premier Access does not exempt passengers from check-in time limits."
+        },
+        {
+          "key": "paTandC7",
+          "value": "Premier Access benefits apply only to the customer who purchased Premier Access  unless purchased for all customers on a reservation. Each travel companion must purchase Premier Access in order to receive benefits."
+        },
+        {
+          "key": "paTandC8",
+          "value": "“Premier Access” must be printed or displayed on your boarding pass in order to  receive benefits."
+        },
+        {
+          "key": "paTandC9",
+          "value": "This offer is made at United's discretion and is subject to change or termination  at any time with or without notice to the customer."
+        }
+      ],
+      "individualFlights": "Or select individual flights",
+      "paForCurrentTrip": 61.0,
+      "currencyCode": "",
+      "discountedPercentage": "",
+      "errorMessage": "",
+      "paOfferTileInfo": {
+        "offerTitle": "Premier Access",
+        "price": 61.0,
+        "currencyCode": "$",
+        "offerText1": "Travel made easier with",
+        "offerText2": "per person",
+        "offerText3": "From",
+        "miles": 0,
+        "displayMiles": null
+      },
+      "paPaymentSummary": null
+    },
+    "rewardPrograms": [
+      {
+        "programID": "7",
+        "type": "UA",
+        "description": "United MileagePlus"
+      },
+      {
+        "programID": "113",
+        "type": "A3",
+        "description": "Aegean Mile+Bonus"
+      },
+      {
+        "programID": "120",
+        "type": "EI",
+        "description": "Aer Lingus AerClub"
+      },
+      {
+        "programID": "8",
+        "type": "AC",
+        "description": "Air Canada Aeroplan"
+      },
+      {
+        "programID": "9",
+        "type": "CA",
+        "description": "Air China PhoenixMiles"
+      },
+      {
+        "programID": "134",
+        "type": "AI",
+        "description": "Air India Flying Returns"
+      },
+      {
+        "programID": "103",
+        "type": "NZ",
+        "description": "Air New Zealand Airpoints"
+      },
+      {
+        "programID": "29",
+        "type": "NH",
+        "description": "ANA Mileage Club"
+      },
+      {
+        "programID": "104",
+        "type": "OZ",
+        "description": "Asiana Club"
+      },
+      {
+        "programID": "105",
+        "type": "OS",
+        "description": "Austrian Miles & More"
+      },
+      {
+        "programID": "115",
+        "type": "AV",
+        "description": "Avianca LifeMiles"
+      },
+      {
+        "programID": "133",
+        "type": "AD",
+        "description": "Azul TudoAzul"
+      },
+      {
+        "programID": "123",
+        "type": "SN",
+        "description": "Brussels Airlines Miles & More"
+      },
+      {
+        "programID": "135",
+        "type": "CM",
+        "description": "Copa Airlines ConnectMiles"
+      },
+      {
+        "programID": "124",
+        "type": "OU",
+        "description": "Croatian Miles & More"
+      },
+      {
+        "programID": "106",
+        "type": "MS",
+        "description": "EGYPTAIR Plus"
+      },
+      {
+        "programID": "130",
+        "type": "ET",
+        "description": "Ethiopian Airlines ShebaMiles"
+      },
+      {
+        "programID": "3",
+        "type": "BR",
+        "description": "EVA Air Infinity MileageLands"
+      },
+      {
+        "programID": "137",
+        "type": "HO",
+        "description": "Juneyao Air Club"
+      },
+      {
+        "programID": "107",
+        "type": "LO",
+        "description": "LOT Polish Airlines Miles & More"
+      },
+      {
+        "programID": "26",
+        "type": "LH",
+        "description": "Lufthansa Miles & More"
+      },
+      {
+        "programID": "33",
+        "type": "SK",
+        "description": "SAS EuroBonus"
+      },
+      {
+        "programID": "131",
+        "type": "ZH",
+        "description": "Shenzhen PhoenixMiles"
+      },
+      {
+        "programID": "109",
+        "type": "SQ",
+        "description": "Singapore Airlines KrisFlyer"
+      },
+      {
+        "programID": "110",
+        "type": "SA",
+        "description": "South African Airways Voyager"
+      },
+      {
+        "programID": "126",
+        "type": "SR",
+        "description": "SWISS Miles & More"
+      },
+      {
+        "programID": "34",
+        "type": "TP",
+        "description": "TAP Miles & Go"
+      },
+      {
+        "programID": "35",
+        "type": "TG",
+        "description": "THAI Royal Orchid Plus"
+      },
+      {
+        "programID": "111",
+        "type": "TK",
+        "description": "Turkish Airlines Miles&Smiles"
+      },
+      {
+        "programID": "138",
+        "type": "UK",
+        "description": "Vistara Club Vistara"
+      },
+      {
+        "programID": "139",
+        "type": "VA",
+        "description": "Virgin Australia Velocity"
+      }
+    ],
+    "specialNeeds": {
+      "specialMeals": null,
+      "specialRequests": [
+        {
+          "value": "19",
+          "displayDescription": "Bassinet/cot",
+          "type": "SpecialRequest",
+          "code": "BSCT",
+          "displaySequence": null,
+          "subOptions": null,
+          "messages": null,
+          "registerServiceDescription": "Bassinet/cot",
+          "subOptionHeader": null
+        },
+        {
+          "value": "6",
+          "displayDescription": "Blind",
+          "type": "SpecialRequest",
+          "code": "BLND",
+          "displaySequence": null,
+          "subOptions": null,
+          "messages": null,
+          "registerServiceDescription": "Blind",
+          "subOptionHeader": null
+        },
+        {
+          "value": "7",
+          "displayDescription": "Deaf",
+          "type": "SpecialRequest",
+          "code": "DEAF",
+          "displaySequence": null,
+          "subOptions": null,
+          "messages": null,
+          "registerServiceDescription": "Deaf",
+          "subOptionHeader": null
+        },
+        {
+          "value": "",
+          "displayDescription": "Bringing a wheelchair",
+          "type": "SpecialRequest",
+          "code": "Bringing a wheelchair",
+          "displaySequence": null,
+          "subOptions": [
+            {
+              "value": "16",
+              "displayDescription": "Dry cell battery",
+              "type": "SpecialRequest",
+              "code": "WCBD",
+              "displaySequence": null,
+              "subOptions": null,
+              "messages": null,
+              "registerServiceDescription": "Dry cell battery",
+              "subOptionHeader": null
+            },
+            {
+              "value": "17",
+              "displayDescription": "Wet cell battery",
+              "type": "SpecialRequest",
+              "code": "WCBW",
+              "displaySequence": null,
+              "subOptions": null,
+              "messages": null,
+              "registerServiceDescription": "Wet cell battery",
+              "subOptionHeader": null
+            },
+            {
+              "value": "22",
+              "displayDescription": "Lithium-ion battery",
+              "type": "SpecialRequest",
+              "code": "WCLB",
+              "displaySequence": null,
+              "subOptions": null,
+              "messages": null,
+              "registerServiceDescription": "Lithium-ion battery",
+              "subOptionHeader": null
+            },
+            {
+              "value": "18",
+              "displayDescription": "Manual power",
+              "type": "SpecialRequest",
+              "code": "WCMP",
+              "displaySequence": null,
+              "subOptions": null,
+              "messages": null,
+              "registerServiceDescription": "Manual power",
+              "subOptionHeader": null
+            }
+          ],
+          "messages": null,
+          "registerServiceDescription": "Bringing a wheelchair",
+          "subOptionHeader": "Select power type"
+        },
+        {
+          "value": "4",
+          "displayDescription": "Cannot walk long distance",
+          "type": "SpecialRequest",
+          "code": "WCHR",
+          "displaySequence": null,
+          "subOptions": null,
+          "messages": null,
+          "registerServiceDescription": "Cannot walk long distance",
+          "subOptionHeader": null
+        },
+        {
+          "value": "3",
+          "displayDescription": "Cannot ascend or descend stairs",
+          "type": "SpecialRequest",
+          "code": "WCHS",
+          "displaySequence": null,
+          "subOptions": null,
+          "messages": null,
+          "registerServiceDescription": "Cannot ascend or descend stairs",
+          "subOptionHeader": null
+        },
+        {
+          "value": "23",
+          "displayDescription": "Service Animal",
+          "type": "SpecialRequest",
+          "code": "OTHS",
+          "displaySequence": null,
+          "subOptions": null,
+          "messages": null,
+          "registerServiceDescription": "Service Animal",
+          "subOptionHeader": null
+        }
+      ],
+      "serviceAnimals": null,
+      "specialMealsMessages": [
+        {
+          "id": "",
+          "currentValue": "We're unable to book a  meal on this route.",
+          "saveToPersist": false
+        }
+      ],
+      "specialRequestsMessages": null,
+      "serviceAnimalsMessages": null,
+      "highTouchItems": [],
+      "mealUnavailable": "Special meals are not available.",
+      "accommodationsUnavailable": "Special travel needs are not available."
+    },
+    "showSeatChange": true,
+    "showPremierAccess": true,
+    "showAddCalendar": true,
+    "showBaggageInfo": true,
+    "tripInsuranceInfo": null,
+    "ancillary": {
+      "awardAccelerators": {
+        "offerTile": {
+          "title": "Extra award miles",
+          "text1": "Don't miss out on",
+          "text2": "per person",
+          "text3": "From",
+          "price": 252.0,
+          "currencyCode": "$",
+          "miles": 0,
+          "displayMiles": null,
+          "showUpliftPerMonthPrice": false
+        },
+        "eligibleTravelers": null,
+        "optionsTnCs": null,
+        "paymentTnCs": null,
+        "captions": null,
+        "awardAcceleratorTnCs": null,
+        "premierAcceleratorTnCs": null,
+        "termsAndConditions": null
+      },
+      "premiumCabinUpgrade": {
+        "productCode": "PCU",
+        "productName": "Premium Cabin Upsell",
+        "offerTile": {
+          "title": "Upgrade",
+          "text1": "Enjoy our premium seat",
+          "text2": "per person",
+          "text3": "From",
+          "price": 378.0,
+          "currencyCode": "$",
+          "miles": 0,
+          "displayMiles": null,
+          "showUpliftPerMonthPrice": true
+        },
+        "pcuOptions": {
+          "eligibleTravelers": [
+            "JESTE, TEST"
+          ],
+          "eligibleSegments": [
+            {
+              "segmentNumber": 1,
+              "flightDescription": "UA2079 - SFO to BOS",
+              "formattedPrice": "$378",
+              "upgradeDescription": "United Business®",
+              "price": 378.0,
+              "segmentDescription": "SFO - BOS",
+              "cabinDescription": "United Business®:",
+              "noOfTravelersText": "1 Traveler /",
+              "totalPriceForAllTravelers": 378.0,
+              "productIds": [
+                "110AB"
+              ],
+              "isUpgradeFailed": false,
+              "upgradeOptions": [
+                {
+                  "optionId": "10AB",
+                  "upgradeOptionDescription": "United Business®",
+                  "cabinDescriptionForPaymentPage": "United Business®:",
+                  "formattedPrice": "$378",
+                  "price": 378.0,
+                  "totalPriceForAllTravelers": 378.0,
+                  "productIds": [
+                    "110AB"
+                  ]
+                },
+                {
+                  "optionId": null,
+                  "upgradeOptionDescription": "I don't want to upgrade this flight",
+                  "cabinDescriptionForPaymentPage": null,
+                  "formattedPrice": null,
+                  "price": 0.0,
+                  "totalPriceForAllTravelers": 0.0,
+                  "productIds": null
+                }
+              ],
+              "origin": "SFO",
+              "destination": "BOS",
+              "flightNumber": "2079"
+            }
+          ],
+          "compareOptions": [
+            {
+              "imageUrl": "https://smartphone.united.com/UnitedMobileDataServices/images/Pcu/PCU_First_Business.png",
+              "product": "United Business®",
+              "header": "Upgrade and you’ll enjoy",
+              "body": "- Comfortable, spacious seats<br/><br/>- Complimentary food and alcoholic beverages<br/><br/>- Earlier boarding with additional time to stow your bags and settle in<br/><br/>- Two free checked bags"
+            }
+          ],
+          "currencyCode": "$"
+        },
+        "captions": [
+          {
+            "id": "UpgradePageTitle",
+            "currentValue": "Upgrade Flight",
+            "saveToPersist": false
+          },
+          {
+            "id": "UpgradeHeader",
+            "currentValue": "Upgrade your flight and you’ll enjoy:",
+            "saveToPersist": false
+          },
+          {
+            "id": "UpgradeHeaderInfo",
+            "currentValue": "- Comfortable, spacious seats<br/>- Complimentary food and alcoholic beverages<br/>- Earlier boarding with additional time to stow your bags and settle in<br/>- Free checked bag allowance",
+            "saveToPersist": false
+          },
+          {
+            "id": "TravelersHeader",
+            "currentValue": "Traveler(s) to be upgraded",
+            "saveToPersist": false
+          },
+          {
+            "id": "FlightsHeader",
+            "currentValue": "Select eligible flight(s) to upgrade",
+            "saveToPersist": false
+          },
+          {
+            "id": "FlightsSubHeader",
+            "currentValue": "All prices per person",
+            "saveToPersist": false
+          },
+          {
+            "id": "UpgradeButton",
+            "currentValue": "Upgrade flights",
+            "saveToPersist": false
+          },
+          {
+            "id": "TnCLabelText",
+            "currentValue": "Terms and conditions",
+            "saveToPersist": false
+          },
+          {
+            "id": "PaymentPageTitle",
+            "currentValue": "Payment Information",
+            "saveToPersist": false
+          },
+          {
+            "id": "PaymentPageSubTitle",
+            "currentValue": "Enter your payment details",
+            "saveToPersist": false
+          },
+          {
+            "id": "SummaryHeader",
+            "currentValue": "Upgrade Summary",
+            "saveToPersist": false
+          },
+          {
+            "id": "SummaryFooter",
+            "currentValue": "Upgrade total:",
+            "saveToPersist": false
+          },
+          {
+            "id": "PaymentHeader",
+            "currentValue": "Credit card information",
+            "saveToPersist": false
+          },
+          {
+            "id": "CompletePurchaseButton",
+            "currentValue": "Complete purchase",
+            "saveToPersist": false
+          },
+          {
+            "id": "CancelPurchaseButton",
+            "currentValue": "Keep original itinerary",
+            "saveToPersist": false
+          },
+          {
+            "id": "CompareOptionsButtonText",
+            "currentValue": "Learn about your upgrade options >",
+            "saveToPersist": false
+          },
+          {
+            "id": "UpgradeOptionsPageTitle",
+            "currentValue": "Upgrade options",
+            "saveToPersist": false
+          },
+          {
+            "id": "UpgradeNotAvailable",
+            "currentValue": "Upgrades not available",
+            "saveToPersist": false
+          },
+          {
+            "id": "SelectUpgradeOption",
+            "currentValue": "Select upgrade option",
+            "saveToPersist": false
+          },
+          {
+            "id": "NoUpgradeOptionSelected",
+            "currentValue": "No upgrade selected",
+            "saveToPersist": false
+          }
+        ],
+        "mobileCmsContentMessages": [
+          {
+            "contentFull": "<ul><li>The upgrade fees associated with this offer are nonrefundable and non-transferable.</li><li>\r\nVoluntary changes to your itinerary will forfeit your upgrade and any associated fees.</li><li>\r\nIn the event of a flight cancellation or involuntary schedule change, we will refund your paid upgrade fees if you are not reaccommodated in a premium cabin.</li><li>\r\nFare rules associated with your original itinerary will also apply to your new itinerary.</li><li>\r\nMileagePlus® miles will be credited based on original purchased class of service.</li><li>\r\nThis upgrade offer applies only to the listed flight segments.</li><li>\r\nValid for travel on flights operated by United® and United Express® only.</li><li>\r\nThis upgrade offer purchase reserves a seat within the selected cabin.</li><li>\r\nSeats are limited and subject to availability.</li><li>\r\nThis upgrade offer purchase is processed based on seat availability at time of purchase.</li><li>\r\nThis upgrade offer is subject to change at any time.</li></ul>",
+            "contentShort": "",
+            "headLine": "",
+            "locationCode": "",
+            "title": "Premium cabin upgrade terms and conditions"
+          }
+        ],
+        "pkDispenserPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiS5xQZAwPM5WEdqcuOnwDLap9GWCD6+sthlWDpwTs4W9zpkc/esXfRAD9hq6KP6QcLm1Xg0Qc2CYMOpmqQAC8CdGxsn4RC+eRzr9UvdGsRyGWOADcIdtPXaUMyhue3MfWguifVHFeuMdFsK10BtAsBTIEnTeqpJHLUxfAdcmHgMo6LEDGKYQxp1aeN0TtrlvFg2qeeV7YrkRdL85P1ghgGc6yGoO+WzmID2NwxHMVgrJJl2ICkyNyXqnyu+UAk70NmvVu8MJwSfCWgVB7caGxQaPRfVb7dv4OQpnlSl6vFe60A8lzXZPThP96168Xc7tZB2q4otoFuzJxQp39S5uMwIDAQAB",
+        "cartId": "630cd9a9-e832-4eda-815d-316b6ce16aba"
+      },
+      "priorityBoarding": null,
+      "placePass": null,
+      "travelOptionsBundle": null,
+      "basicEconomyBuyOut": null
+    },
+    "showJoinOneClickEnrollment": false,
+    "transactionId": "b53398db-7f29-4866-a91b-90b597acf2ee|1361550f-a650-4c71-b124-59ffe5c108d2",
+    "languageCode": "en-US",
+    "machineName": "03",
+    "callDuration": 7355,
+    "exception": null
+  },
+  "transactionId": "b53398db-7f29-4866-a91b-90b597acf2ee|1361550f-a650-4c71-b124-59ffe5c108d2",
+  "languageCode": "en-US",
+  "machineName": "03",
+  "callDuration": 7355,
+  "Exception": {
+    "Code": "E404",
+    "ErrMessage": "error",
+    "Message": "We seem to be having some connection issues. Please try again."
+  }
+}

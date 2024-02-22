@@ -1,0 +1,23 @@
+[
+  {
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.68",
+        "minor": "4.1.68"
+      }
+    },
+    "deviceId": "234f5559-d2cd-4efb-86f3-2b21e2795058",
+    "hashKey": "",
+    "hashPinCode": "A61BE99A5B4B5FC13AE4BC45164F131756766114",
+    "languageCode": "en-US",
+    "lastName": "Jeste",
+    "mileagePlusNumber": "PU021032",
+    "recordLocator": "M2XWJN",
+    "sessionId": "3F4357EA99484C858ACAA1453A0EBBA2",
+    "transactionId": "234f5559-d2cd-4efb-86f3-2b21e2795058|2fd1c782-25b4-447c-a680-f29ccee4b3af"
+  }
+]

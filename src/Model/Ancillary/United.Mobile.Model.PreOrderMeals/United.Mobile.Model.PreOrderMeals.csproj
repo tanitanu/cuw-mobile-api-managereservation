@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Model.Internal\United.Mobile.Model.Internal.Exception\United.Mobile.Model.Internal.Exception.csproj" />
+    <ProjectReference Include="..\..\ReShopping\United.Mobile.Model.ReShop\United.Mobile.Model.ReShop.csproj" />
+    <ProjectReference Include="..\..\United.Mobile.Model.Common\United.Mobile.Model.Common.csproj" />
+  </ItemGroup>
+
+</Project>

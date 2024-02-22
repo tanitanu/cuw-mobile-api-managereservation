@@ -1,0 +1,95 @@
+[
+  {
+    "catalogValues": [
+      {
+        "currentValue": "1",
+        "id": "21348",
+        "saveToPersist": false
+      },
+      {
+        "currentValue": "1",
+        "id": "21546",
+        "saveToPersist": false
+      }
+    ],
+    "inflightMealOffersActionType": 1,
+    "productCode": "POM",
+    "sessionId": "FA3BF66DFABD4DE0836FA943D2275C1A",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.62",
+        "minor": "4.1.62"
+      }
+    },
+    "deviceId": "337af62a-1725-48ac-a076-d69acc69dbcb",
+    "languageCode": "en-US",
+    "transactionId": "337af62a-1725-48ac-a076-d69acc69dbcb|0e5d0dec-db96-414b-839b-8bbd8183f8eb",
+    "PremiumCabinMealEmailAddress": "cabin@gmail.com"
+
+  },
+  {
+    "catalogValues": [
+      {
+        "currentValue": "1",
+        "id": "21348",
+        "saveToPersist": false
+      },
+      {
+        "currentValue": "1",
+        "id": "21546",
+        "saveToPersist": false
+      }
+    ],
+    "inflightMealOffersActionType": 0,
+    "productCode": "POM",
+    "sessionId": "FA3BF66DFABD4DE0836FA943D2275C1A",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.62",
+        "minor": "4.1.62"
+      }
+    },
+    "deviceId": "337af62a-1725-48ac-a076-d69acc69dbcb",
+    "languageCode": "en-US",
+    "transactionId": "337af62a-1725-48ac-a076-d69acc69dbcb|0e5d0dec-db96-414b-839b-8bbd8183f8eb"
+
+  },
+  {
+    "catalogValues": [
+      {
+        "currentValue": "1",
+        "id": "21348",
+        "saveToPersist": false
+      },
+      {
+        "currentValue": "1",
+        "id": "21546",
+        "saveToPersist": false
+      }
+    ],
+    "inflightMealOffersActionType": 0,
+    "productCode": "POM",
+    "sessionId": "BED606788A0C4C90ACE6168C52CE863E",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.69",
+        "minor": "4.1.69"
+      }
+    },
+    "deviceId": "867c8908-2323-4c7b-bd3d-9fed52505eeb",
+    "languageCode": "en-US",
+    "transactionId": "867c8908-2323-4c7b-bd3d-9fed52505eeb|26103f6c-47d9-4c90-b49d-4c7199032af2"
+  }
+]

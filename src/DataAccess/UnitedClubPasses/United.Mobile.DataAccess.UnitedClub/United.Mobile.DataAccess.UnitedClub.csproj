@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="5.1.3" />
+    <PackageReference Include="Presentation.CslModels" Version="4.6.72" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Core\United.Utility\United.Utility.csproj" />
+    <ProjectReference Include="..\..\..\Model\AccountManagement\United.Mobile.Model.AccountManagement\United.Mobile.Model.MPSignIn.csproj" />
+  </ItemGroup>
+
+</Project>

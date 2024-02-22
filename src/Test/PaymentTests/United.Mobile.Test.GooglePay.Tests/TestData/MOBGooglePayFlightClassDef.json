@@ -1,0 +1,9 @@
+[
+  {
+    "kind": "kind",
+    "id": "id",
+    "issuerName": "name",
+    "ReviewStatus": "approved",
+    "Uri": "https://smartphone.united.com/UnitedVendorImages/main_image.png"
+  }
+]

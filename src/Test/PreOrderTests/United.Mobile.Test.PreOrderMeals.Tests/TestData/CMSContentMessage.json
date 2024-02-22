@@ -1,0 +1,37 @@
+[
+  [
+    {
+      "ContentFull": "To determine first and second checked baggage service charges for your itinerary, use the baggage calculator below. Please note that as required by U.S. Department of Transportation regulations, baggage service charges for your entire itinerary are determined by the marketing carrier for the first segment of your itinerary. Your originating marketing carrier is the airline whose flight number is assigned to the first segment of your itinerary. If this carrier is not United or United Express, different charges may apply.<p>Baggage service charges are based on the date of ticketing and on the ticketed cabin as well as the traveler's status or membership on the date of travel. Eligibility for the checked baggage service charge waiver for travelers on award tickets issued or re-issued on or after April 15, 2015, is based on each traveler’s Premier status at check-in, rather than the status of the member whose miles were used to purchase the award ticket.</p><p>For all United Economy® tickets issued or re-issued before February 1, 2015, Premier® Gold members are eligible for three complimentary checked bags at 70 pounds (32 kg) each. For United Economy tickets issued or re-issued on or after February 1, 2015, Premier Gold members are eligible for two complimentary checked bags at 70 pounds (32 kg) each for travel between the U.S., Canada, Puerto Rico and the U.S. Virgin Islands. For travel to and from select international markets, Premier Gold members are eligible for three complimentary checked bags at 70 pounds (32 kg) each. To determine specific checked baggage service charges, please use the baggage calculator below.</p>",
+      "ContentShort": "",
+      "HeadLine": "Checked baggage",
+      "LocationCode": "Bags:Checked",
+      "Title": "Fare terms and conditions 1920"
+    },
+    {
+      "ContentFull": "Checked baggage service charges apply at any point where bags are checked. For a trip that includes one or more connections, bags will be checked to your final destination, and the charge for checking a bag from your origin to your destination will apply. For a trip that includes a voluntary stopover, your bags <em>will</em> be checked to your stopover point, where you will collect your bags. When you resume travel, subject to applicable charges, you may check your bags again from the new point of check-in to the destination.<p>Temporary or permanent baggage embargoes, based on size, weight or number of bags, may be in place at certain airports. See our <a href=\"http://www.united.com/web/en-US/content/travel/baggage/embargo.aspx\">Excess Baggage Embargo</a> page for details.</p>",
+      "ContentShort": "",
+      "HeadLine": "How much are my checked baggage service charges?",
+      "LocationCode": "Bags:Checked:HowMuch",
+      "Title": "Fare terms and conditions 2020"
+    },
+    {
+      "ContentFull": "Some customers are exempt from certain checked baggage service charges for bags within specified size and weight limits. For specific exemption details relating to your itinerary, select the appropriate status or membership from the dropdown list in the baggage calculator above. Note that exemptions cannot be combined to provide waived charges for additional bags. In the case of multiple exemptions, the greater of the allowances will apply. These benefits apply only on United- and United Express-operated flights when baggage check-in occurs with United.",
+      "ContentShort": "",
+      "HeadLine": "Service charge exemptions",
+      "LocationCode": "Bags:Exemptions",
+      "Title": "Baggage Service Charges - Exemptions"
+    },
+    {
+      "ContentFull": "<ul><li>Active U.S. military personnel and their accompanying dependents, not traveling on official business, receive waived service charges for up to three checked bags at 70 pounds (32 kg) each.</li><li>Active U.S. military personnel and their dependents traveling in United Economy on official business receive waived service charges for up to four checked bags at 70 pounds (32 kg) each.</li><li>Active U.S. military personnel and their dependents traveling in United Global FirstSM, United PolarisSM first class, United BusinessFirst®, United Polaris business first, United First® or United Business® on official business receive waived service charges for up to five checked bags at 70 pounds (32 kg) each.</li><li>Dependents traveling with active U.S. military personnel are also exempt as long as they are traveling in the same reservation. This exemption will not apply to group reservations including ten or more customers.</li></ul>",
+      "ContentShort": "",
+      "HeadLine": "U.S. military exemptions",
+      "LocationCode": "Bags:MilitaryExemptions",
+      "Title": "Baggage Service Charges - U.S. military exemptions"
+    },
+    {
+      "ContentFull": "<div>With Basic Economy, you’re allowed a small personal item that fits under the seat in front of you, such as a shoulder bag, purse, laptop bag or other small item, 9 inches x 10 inches x 17 inches (22 cm x 25 cm x 43 cm) or less. You’re not allowed a full-sized carry-on bag unless you’re a MileagePlus® Premier® member, primary cardmember of a qualifying MileagePlus credit card or Star Alliance™ Gold member. <strong>If you bring a full-sized carry-on bag to the gate, your bag will be checked and subject to the applicable checked bag fee plus a $25 gate handling charge.</strong></div><div>With all other United fares, each traveler can bring on board one carry-on bag plus one personal item free of charge.</div><div><ul><li>Maximum dimensions for a carry-on bag are 9 inches x 14 inches x 22 inches (22 cm x 35 cm x 56 cm), including handles and wheels.</li><li>Maximum dimensions for your personal item, such as a shoulder bag, purse, laptop bag or other small item, are 9 inches x 10 inches x 17 inches (22 cm x 25 cm x 43 cm).</li></ul></div><div>Mobility aids and other assistive devices are also permitted. Please see our <a href=\"http://www.united.com/CMS/en-US/travel/Pages/BaggageCarry-On.aspx\">Carry-on Baggage</a> page for more information. </div><div>Due to FAA regulations, operating carriers may have different carry-on requirements. Please check with the operating carrier for more information or go to <a href=\"https://www.united.com/web/en-US/content/travel/baggage/default.aspx\">united.com/baggage baggage",
+      "LocationCode": "Bags:Carryon",
+      "Title": "Changed bag rules and optional services - Carry-on baggage"
+    }
+  ]
+]

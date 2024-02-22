@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Shopping\United.Mobile.Model.Common\United.Mobile.Model.Shopping.Common.csproj" />
+    <ProjectReference Include="..\United.Mobile.Model.MemberProfile\United.Mobile.Model.MemberProfile.csproj" />
+  </ItemGroup>
+
+</Project>

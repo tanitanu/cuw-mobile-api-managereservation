@@ -1,0 +1,36 @@
+[
+  {
+    "flow": "VIEWRES",
+    "sessionId": "DF83DBDC74CF4C438F753B4E8BEF9740",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.63",
+        "minor": "4.1.63"
+      }
+    },
+    "deviceId": "337af62a-1725-48ac-a076-d69acc69dbcb",
+    "languageCode": "en-US",
+    "transactionId": "337af62a-1725-48ac-a076-d69acc69dbcb|1b6ca6cf-9c3c-425c-9793-d734d8b8401b"
+  },
+  {
+    "flow": "VIEWRES",
+    "sessionId": "DF83DBDC74CF4C438F753B4E8BEF9740",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.63",
+        "minor": "4.1.63"
+      }
+    },
+    "deviceId": "337af62a-1725-48ac-a076-d69acc69dbcb",
+    "languageCode": "en-US",
+    "transactionId": "337af62a-1725-48ac-a076-d69acc69dbcb|1b6ca6cf-9c3c-425c-9793-d734d8b8401b"
+  }
+]

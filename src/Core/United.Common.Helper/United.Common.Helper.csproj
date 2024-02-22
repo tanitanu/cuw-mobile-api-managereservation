@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="CslContext.cs" />
+    <Compile Remove="ICslContext.cs" />
+    <Compile Remove="Shopping\HttpHelperThreadSafe.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LoyaltyCommon" Version="1.0.6.88" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\DataAccess\OnPrem\United.Mobile.DataAccess.OnPremiseSQLSP\United.Mobile.DataAccess.OnPremiseSQLSP.csproj" />
+    <ProjectReference Include="..\..\DataAccess\United.Mobile.DataAccess.Common\United.Mobile.DataAccess.Common.csproj" />
+    <ProjectReference Include="..\..\DataAccess\United.Mobile.DataAccess.DynamoDB\United.Mobile.DataAccess.DynamoDB.csproj" />
+    <ProjectReference Include="..\..\Model.Internal\Shopping\United.Mobile.Model.Shopping.Internal\United.Mobile.Model.Shopping.Internal.csproj" />
+    <ProjectReference Include="..\United.Ebs.Logging\United.Ebs.Logging.csproj" />
+	<ProjectReference Include="..\..\DataAccess\BagCalculator\United.Mobile.DataAccess.CMSContent\United.Mobile.DataAccess.CMSContent.csproj" />
+	<ProjectReference Include="..\..\DataAccess\Shopping\United.Mobile.DataAccess.ShopTrips\United.Mobile.DataAccess.ShopTrips.csproj" />
+	<ProjectReference Include="..\..\Model.Internal\AccountManagement\United.Mobile.Model.Internal.AccountManagement\United.Mobile.Model.Internal.AccountManagement.csproj" />
+	<ProjectReference Include="..\..\Model\Payment\United.Mobile.Model.Payment\United.Mobile.Model.Payment.csproj" />
+	<ProjectReference Include="..\..\Model\Shopping\United.Mobile.Model.Shopping\United.Mobile.Model.Shopping.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="United.Mobile.DataAccess.FlightStatus">
+      <HintPath>..\..\DataAccess\FlightStatus\United.Mobile.DataAccess.FlightStatus\bin\Debug\netstandard2.1\United.Mobile.DataAccess.FlightStatus.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

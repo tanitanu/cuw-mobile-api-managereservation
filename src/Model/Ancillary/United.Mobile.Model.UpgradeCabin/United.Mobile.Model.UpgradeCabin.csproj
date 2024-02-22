@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\SeatMap\United.Mobile.Model.SeatMap\United.Mobile.Model.SeatMap.csproj" />
+    <ProjectReference Include="..\..\Shopping\United.Mobile.Model.Common\United.Mobile.Model.Shopping.Common.csproj" />
+    <ProjectReference Include="..\..\Shopping\United.Mobile.Model.Shopping\United.Mobile.Model.Shopping.csproj" />
+    <ProjectReference Include="..\..\United.Mobile.Model.Common\United.Mobile.Model.Common.csproj" />
+  </ItemGroup>
+
+</Project>

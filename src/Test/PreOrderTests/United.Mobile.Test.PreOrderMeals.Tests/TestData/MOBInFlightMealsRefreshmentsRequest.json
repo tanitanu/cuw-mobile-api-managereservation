@@ -1,0 +1,141 @@
+[
+  {
+    "catalogValues": [
+      {
+        "currentValue": "1",
+        "id": "21348",
+        "saveToPersist": false
+      },
+      {
+        "currentValue": "1",
+        "id": "21546",
+        "saveToPersist": false
+      }
+    ],
+    "inflightMealRefreshmentsActionType": 4,
+    "passengerId": "1",
+    "productCode": "POM",
+    "segmentId": "2",
+    "selectedRefreshments": [
+      {
+        "quantity": 1,
+        "selectedMealCode": "UC01177",
+        "selectedMealType": "Snack",
+        "selectedProductId": "21"
+      },
+      {
+        "quantity": 1,
+        "selectedMealCode": "TLQ2121",
+        "selectedMealType": "Beverage",
+        "selectedProductId": "21"
+      }
+    ],
+    "sessionId": "63E14B9EA533467DADFED455A89CE9B9",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.62",
+        "minor": "4.1.62"
+      }
+    },
+    "deviceId": "6f51874a-3ebb-4ed7-8e6b-8aaf96f414d2",
+    "languageCode": "en-US",
+    "transactionId": "6f51874a-3ebb-4ed7-8e6b-8aaf96f414d2|a13b00e2-19f4-48d9-b614-79e14189f5f6"
+  },
+  {
+    "catalogValues": [
+      {
+        "currentValue": "1",
+        "id": "21348",
+        "saveToPersist": false
+      },
+      {
+        "currentValue": "1",
+        "id": "21546",
+        "saveToPersist": false
+      }
+    ],
+    "inflightMealRefreshmentsActionType": 3,
+    "passengerId": "1",
+    "productCode": "POM",
+    "segmentId": "2",
+    "selectedRefreshments": [
+      {
+        "quantity": 1,
+        "selectedMealCode": "UC01177",
+        "selectedMealType": "Snack",
+        "selectedProductId": "21"
+      },
+      {
+        "quantity": 1,
+        "selectedMealCode": "TLQ2121",
+        "selectedMealType": "Beverage",
+        "selectedProductId": "21"
+      }
+    ],
+    "sessionId": "63E14B9EA533467DADFED455A89CE9B9",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.62",
+        "minor": "4.1.62"
+      }
+    },
+    "deviceId": "6f51874a-3ebb-4ed7-8e6b-8aaf96f414d2",
+    "languageCode": "en-US",
+    "transactionId": "6f51874a-3ebb-4ed7-8e6b-8aaf96f414d2|a13b00e2-19f4-48d9-b614-79e14189f5f6"
+  },
+  {
+    "catalogValues": [
+      {
+        "currentValue": "1",
+        "id": "21348",
+        "saveToPersist": false
+      },
+      {
+        "currentValue": "1",
+        "id": "21546",
+        "saveToPersist": false
+      }
+    ],
+    "inflightMealRefreshmentsActionType": "TapOnSaveNContinue",
+    "passengerId": "1",
+    "productCode": "POM",
+    "segmentId": "2",
+    "selectedRefreshments": [
+      {
+        "quantity": 1,
+        "selectedMealCode": "UC01177",
+        "selectedMealType": "Snack",
+        "selectedProductId": "21"
+      },
+      {
+        "quantity": 1,
+        "selectedMealCode": "TLQ2121",
+        "selectedMealType": "Beverage",
+        "selectedProductId": "21"
+      }
+    ],
+    "sessionId": "63E14B9EA533467DADFED455A89CE9B9",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.62",
+        "minor": "4.1.62"
+      }
+    },
+    "deviceId": "6f51874a-3ebb-4ed7-8e6b-8aaf96f414d2",
+    "languageCode": "en-US",
+    "transactionId": "6f51874a-3ebb-4ed7-8e6b-8aaf96f414d2|a13b00e2-19f4-48d9-b614-79e14189f5f6"
+  }
+
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "PNR": "WEYU786",
+    "lastName": "JESTE",
+    "isVersionAllowAwardCancel": true,
+    "MileagePlusNumber": "AW719636",
+    "Token": "Sample Bearer Token",
+    "currencyCode": "rupees",
+    "IsAward": true,
+    "isPNRELF": true,
+    "Override24HrFlex": true,
+    "recordLocator": "ESFX70",
+    "sessionId": "C2A9ADA817C74FD39C22F712C075D591",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.52",
+        "minor": "4.1.52"
+      }
+    },
+    "deviceId": "b53398db-7f29-4866-a91b-90b597acf2ee",
+    "languageCode": "en-US",
+    "transactionId": "b53398db-7f29-4866-a91b-90b597acf2ee|1361550f-a650-4c71-b124-59ffe5c108d2",
+    "EmailAddress": "abc@gmail.com",
+    "PointOfSale": "online",
+    "QuoteType": "text",
+    "RefundMiles": "45000",
+    "SelectedRefundOptions": [
+      {
+        "refundAmount": "45000",
+        "detailHeader": "header",
+        "Type": "CNO"
+
+      }
+    ],
+    "FormOfPayment": {
+      "CreditCard": {
+        "key": "KEY",
+        "encryptedCardNumber": "***********789",
+        "AccountNumberToken": "qweopnalnbdjdfhytewwbnmlpiutetoken",
+        "CardType": "VISA",
+        "ExpireMonth": "08/09/2023",
+        "ExpireYear": "2023",
+        "Code": null
+      }
+    },
+    "BillingAddress": {
+      "CompanyName": "Millenial",
+      "JobTitle": "SE",
+      "Line1": "abc",
+      "Line2": "tygf",
+      "Line3": "mnbvc",
+      "ApartmentNumber": "House456",
+      "City": "NYC",
+      "PostalCode": "450098",
+      "IsPrimary": true,
+      "IsCorporate": true,
+      "IsPrivate": true,
+      "IsValidForTPIPurchase": true,
+      "Country": {
+        "Code": "456790",
+        "Name": "US",
+        "PhoneCode": "765"
+      },
+      "State": {
+        "Code": "C760",
+        "Name": "NY"
+      }
+    },
+    "AwardRedepositFee": 789.87,
+    "sponsor": {
+      "LoyaltyProgramID": "LPI879",
+      "LoyaltyProgramMemberID": "LPM654",
+      "LoyaltyProgramCarrierCode": "CarrierCode",
+      "LoyaltyProgramAccountStatus": "Success"
+    },
+    "billingPhone": {
+      "channelTypeSeqNumber": 2,
+      "customerId": 4,
+      "isPrimary": true,
+      "isProfileOwner": true,
+      "channelCode": "C780",
+      "languageCode": "en-US",
+      "mileagePlusId": "AW12574",
+      "AreaNumber": "A765"
+
+    }
+  },
+  {
+    "PNR": "WEYU786",
+    "lastName": "JESTE",
+    "isVersionAllowAwardCancel": true,
+    "MileagePlusNumber": "AW719636",
+    "Token": "Sample Bearer Token",
+    "currencyCode": "rupees",
+    "IsAward": false,
+    "isPNRELF": true,
+    "Override24HrFlex": true,
+    "recordLocator": "ESFX70",
+    "sessionId": "C2A9ADA815C74FD39C22F712C075D591",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.52",
+        "minor": "4.1.52"
+      }
+    },
+    "deviceId": "b53398db-7f29-4866-a91b-90b597acf2ee",
+    "languageCode": "en-US",
+    "transactionId": "b53398db-7f29-4866-a91b-90b597acf2ee|1361550f-a650-4c71-b124-59ffe5c108d2",
+    "EmailAddress": "abc@gmail.com",
+    "PointOfSale": "online",
+    "QuoteType": "text",
+    "RefundMiles": "45000",
+    "SelectedRefundOptions": [
+      {
+        "refundAmount": "45000",
+        "detailHeader": "header",
+        "Type": "ETC"
+
+      }
+    ],
+    "FormOfPayment": {
+      "CreditCard": {
+        "key": "KEY",
+        "encryptedCardNumber": "***********789",
+        "AccountNumberToken": "qweopnalnbdjdfhytewwbnmlpiutetoken",
+        "CardType": "VISA",
+        "ExpireMonth": "08/09/2023",
+        "ExpireYear": "2023",
+        "Code": null
+      }
+    },
+    "BillingAddress": {
+      "CompanyName": "Millenial",
+      "JobTitle": "SE",
+      "Line1": "abc",
+      "Line2": "tygf",
+      "Line3": "mnbvc",
+      "ApartmentNumber": "House456",
+      "City": "NYC",
+      "PostalCode": "450098",
+      "IsPrimary": true,
+      "IsCorporate": true,
+      "IsPrivate": true,
+      "IsValidForTPIPurchase": true,
+      "Country": {
+        "Code": "456790",
+        "Name": "US",
+        "PhoneCode": "765"
+      },
+      "State": {
+        "Code": "C760",
+        "Name": "NY"
+      }
+    },
+    "AwardRedepositFee": 789.87,
+    "sponsor": {
+      "LoyaltyProgramID": "LPI879",
+      "LoyaltyProgramMemberID": "LPM654",
+      "LoyaltyProgramCarrierCode": "CarrierCode",
+      "LoyaltyProgramAccountStatus": "Success"
+    },
+    "billingPhone": {
+      "channelTypeSeqNumber": 2,
+      "customerId": 4,
+      "isPrimary": true,
+      "isProfileOwner": true,
+      "channelCode": "C780",
+      "languageCode": "en-US",
+      "mileagePlusId": "AW12574",
+      "AreaNumber": "A765"
+
+    }
+  }
+]

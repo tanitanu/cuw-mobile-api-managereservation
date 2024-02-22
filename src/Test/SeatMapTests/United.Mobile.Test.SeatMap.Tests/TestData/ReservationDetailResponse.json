@@ -1,0 +1,29 @@
+{
+  "Detail": {
+    "NumberOfRemarks": "",
+    "LastUpdateSourceRpc": "",
+    "FlightSegments": [
+      {
+        "Legs": [
+          {
+            "PreviousSeats": [
+              {
+                "Status": ""
+              }
+            ]
+          }
+        ],
+        "FlightSegment": {
+          "OperatingAirlineCode": "AC",
+          "OperatingAirlineName": ""
+        }
+      }
+    ],
+    "Characteristic": [
+      {
+        "Code": "",
+        "Value": ""
+      }
+    ]
+  }
+}

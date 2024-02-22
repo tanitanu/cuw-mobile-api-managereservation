@@ -1,0 +1,12 @@
+{
+  "succeed": true,
+  "sessionId": "82A74B05A2044BBE8F581860DB80E3D9",
+  "dateTimeUtc": "8/19/2021 1:07:57 PM",
+  "machineName": "VNDCDFZDCHYWB03",
+  "duration": 24,
+  "AppID": 2,
+  "DeviceID": "87d502f9-5b0b-4ed1-9533-a17b392ea3e0",
+  "MileagPlusNumber": "AW719636",
+  "Token": "Sample Bearer Token",
+  "Flow": "VIEWRES"
+}

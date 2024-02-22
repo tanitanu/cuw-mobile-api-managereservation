@@ -1,0 +1,59 @@
+[
+  {
+    "ShowInfoMessageOnSeatMap": "",
+    "SuppressLMX": true,
+    "EplusPromotionMessage": "",
+    "FlightNumber": "2247",
+    "FlightDateTime": "SUN., MAR. 13, 2022",
+    "Departure": {
+      "Code": "",
+      "Name": "",
+      "City": ""
+    },
+    "Arrival": {
+      "Code": "",
+      "Name": "",
+      "City": ""
+    },
+    "CodeshareFlightNumber": "",
+    "SeatLegendId": "",
+    "Cabins": [
+      {
+        "Rows": [
+          {
+            "Seats": [
+              {
+                "DisplaySeatFeature": "",
+                "IsHighestEPlus": true,
+                "IsLowestEPlus": true,
+                "ServicesAndFees": [
+                  {
+                    "AgentDutyCode": "",
+                    "AgentId": "",
+                    "AgentTripleA": "",
+                    "Available": true,
+                    "TotalFee": 233.0
+                  },
+                  {
+                    "AgentDutyCode": "",
+                    "AgentId": "",
+                    "AgentTripleA": "",
+                    "Available": true,
+                    "TotalFee": 233.0
+                  }
+                ],
+                "Number": "22F",
+                "SeatValue": ""
+              }
+            ],
+            "Number": "",
+            "Wing": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    
+  }
+]

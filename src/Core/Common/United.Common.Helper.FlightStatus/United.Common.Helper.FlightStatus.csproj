@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\DataAccess\FlightStatus\United.Mobile.DataAccess.FlightStatus\United.Mobile.DataAccess.FlightStatus.csproj" />
+    <ProjectReference Include="..\..\..\DataAccess\United.Mobile.DataAccess.Common\United.Mobile.DataAccess.Common.csproj" />
+    <ProjectReference Include="..\..\..\DataAccess\United.Mobile.DataAccess.DynamoDB\United.Mobile.DataAccess.DynamoDB.csproj" />
+    <ProjectReference Include="..\..\..\Model\FlightStatus\United.Mobile.Model.FlightStatus\United.Mobile.Model.FlightStatus.csproj" />
+    <ProjectReference Include="..\..\United.Ebs.Logging\United.Ebs.Logging.csproj" />
+  </ItemGroup>
+
+</Project>

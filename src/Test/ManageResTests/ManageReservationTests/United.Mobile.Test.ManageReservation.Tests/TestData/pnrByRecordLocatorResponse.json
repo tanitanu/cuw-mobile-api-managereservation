@@ -1,0 +1,39 @@
+[
+  {
+    "recordLocator": "CD9XQ3",
+    "lastName": "JESTE",
+    "mileagePlusNumber": "AW719644",
+    "hashValue": "D6B9FA59EF90D0832537C927349FA6D8BF7663C5",
+    "sessionId": "0F2D7080F7BC40018C5F112607556C77",
+    "hashKey": "D6B9FA59EF90D0832537C927349FA6D8BF7663C5",
+    "flow": "RESHOP",
+    "isOTFConversion": true,
+    "isRefreshedUserData": true,
+    "deviceId": "2c99d825-1a25-4717-b607-3c94e57d8968",
+    "PNR": {
+      "sessionId": "0F2D7080F7BC40018C5F112607556C77",
+      "passengers": [
+        {
+          "knownTravelerNumber": "2B",
+          "ktnDisplaySequence": "123kds",
+          "redressNumber": "2c",
+          "redressDisplaySequence": "123rds",
+          "ssrDisplaySequence": "123ssr",
+          "sharesPosition": "1.1",
+          "passengerName": {
+            "First": "first",
+            "Last": "JESTE",
+            "Middle": "SAM"
+          }
+        }
+      ],
+      "HasScheduleChanged": true,
+      "ConsolidateScheduleChangeMessage": false,
+      "AdvisoryInfo": [
+        {
+
+        }
+      ]
+    }
+  }
+]

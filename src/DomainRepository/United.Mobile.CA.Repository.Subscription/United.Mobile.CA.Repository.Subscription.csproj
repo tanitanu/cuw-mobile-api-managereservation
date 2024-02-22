@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="CustomerRepository.cs" />
+    <Compile Remove="HasApplicationRepository.cs" />
+    <Compile Remove="Interfaces\ICustomer.cs" />
+    <Compile Remove="Interfaces\IHasApplication.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Model.Internal\United.Mobile.Model.Internal.Application\United.Mobile.Model.Internal.Application.csproj" />
+    <ProjectReference Include="..\..\Model.Internal\United.Mobile.Model.Internal.Notification\United.Mobile.Model.Internal.Notification.csproj" />
+    <ProjectReference Include="..\..\Model\United.Mobile.Model.Common\United.Mobile.Model.Common.csproj" />
+  </ItemGroup>
+
+</Project>

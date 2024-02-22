@@ -1,0 +1,20 @@
+{
+  "accountNumber": "AW719636",
+  "hashPinCode": "6C4FE48F52365B89F853AFD10FE5D38F1469675C",
+  "application": {
+    "id": 2,
+    "isProduction": false,
+    "name": "Android",
+    "version": {
+      "major": "4.1.33",
+      "minor": "4.1.33"
+    }
+  },
+  "deviceId": "93744afb-bcb2-4f48-a0f6-dd7ca0b30d34",
+  "languageCode": "en-US",
+  "transactionId": "589d7852-14e7-44a9-b23b-a6db36657579|8f46e040-a200-495c-83ca-4fca2d7175fb",
+  "sessionId": "17C979E184CC495EA083D45F4DD9D19D",
+  "IsValidHashPin": true,
+  "validAuthToken": "1~0e469871-c8b5-47ba-9660-efe02635b21f|2~114bfe84-cc04-49b6-8d28-74294f1d21fc|3~0e469871-c8b5-47ba-9660-efe02635b21f|33~6fe55ebc-32fd-404b-a7e2-376eb7fcbe55|6~b1e7525d-7cd3-4e01-89eb-077471a538ce|16~0e469871-c8b5-47ba-9660-efe02635b21f"
+
+}

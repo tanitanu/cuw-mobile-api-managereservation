@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.Extensions.Logging" Version="3.1.2" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\..\DataAccess\United.GraphDatabase.Gremlin.Groovy.Client\United.GraphDatabase.Gremlin.Groovy.Client.csproj" />
+		<ProjectReference Include="..\..\Model.Internal\United.Mobile.CA.Model.ActiveSegmentDomain\United.Mobile.CA.Model.ActiveSegmentDomain.csproj" />
+		<ProjectReference Include="..\..\Model.Internal\United.Mobile.CA.Model.ContextualCardDomain\United.Mobile.CA.Model.ContextualDomain.csproj" />
+		<ProjectReference Include="..\..\Model.Internal\United.Mobile.CA.Model.FlifoDomain\United.Mobile.CA.Model.Flifo.csproj" />
+		<ProjectReference Include="..\..\Model.Internal\United.Mobile.Model.Internal.Application\United.Mobile.Model.Internal.Application.csproj" />
+		<ProjectReference Include="..\..\Model.Internal\United.Mobile.Model.Internal.ReservationDomain\United.Mobile.Model.Internal.ReservationDomain.csproj" />
+		<ProjectReference Include="..\..\Model\United.Mobile.CA.Model.ContextualCard\United.Mobile.CA.Model.Contextual.csproj" />
+	</ItemGroup>
+
+</Project>

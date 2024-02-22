@@ -1,0 +1,19 @@
+[
+  {
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.63",
+        "minor": "4.1.63"
+      }
+    },
+    "deviceId": "c2b56136-8dfc-4fd8-9c74-07ec8ee987d1",
+    "hashPinCode": "65B077170156D3533DF1CA6ADB22F2E329E88CE2",
+    "languageCode": "en-US",
+    "mileagePlusNumber": "AY305211",
+    "transactionId": "c2b56136-8dfc-4fd8-9c74-07ec8ee987d1|954394eb-4272-4337-9ed0-bfed159b40b1"
+  }
+]

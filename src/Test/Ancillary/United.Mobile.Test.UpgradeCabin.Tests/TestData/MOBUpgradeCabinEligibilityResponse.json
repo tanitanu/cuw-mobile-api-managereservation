@@ -1,0 +1,26 @@
+{
+  "sessionId": "09D2170315C641339EDD25A65704CD0E",
+  "cartId": "CD74D339-DBEA-4F74-8766-870BAB39DBCF",
+  "trips": null,
+  "segments": null,
+  "milesUpgradeOption": null,
+  "passengers": null,
+  "contents": null,
+  "redirectUrl": "https://qa5a.united.com/en/us/manageres/mytrips?tab=pp",
+  "isEligible": false,
+  "webShareToken": "Bearer AAJITW9iaWxlLUFuZHJvaWRQaG9uZS1jdXN0b21lcnNzb19VQUxfNjQzRTFFNDctMTI0Mi00QjZDLUFCN0UtNjQwMjRFNEJDODRDsWEErZ7_l1V0_BBZ-ThYtUqwjfpWng5K8hGPHCfY_bVihsW5XYtbN5PmIxPSQoAIM5KC2oUGUQGh96Y9TtIKuaw9P4lm0WBuqr63mw6v6YeQ1SYLlIMp0QliuMwWxaqcrdGf33-kLQ02YqCtzjYFFMDDplSrOcvS2CzOPRyayb-GF88s6MvXj3vzYR9QmOlG3v4U7Lop2b1xRF0cUix86A",
+  "webSessionShareUrl": "https://qa5.united.com/ual/en/us/Booking/SearchInjection/SSOLogin",
+  "responseStatusItem": null,
+  "plusPoints": null,
+  "cabinOptionContents": null,
+  "cabinOptionMessages": null,
+  "transactionId": "6f51874a-3ebb-4ed7-8e6b-8aaf96f414d2|04a5e3c8-bd07-4883-b4cf-64bbd73425f1",
+  "languageCode": "en-US",
+  "machineName": "03",
+  "callDuration": 567,
+  "exception": {
+    "code": "9999",
+    "message": "This reservation is not eligible to be upgraded.",
+    "errMessage": ""
+  }
+}

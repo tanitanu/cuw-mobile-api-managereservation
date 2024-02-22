@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Core\United.Utility\United.Utility.csproj" />
+    <ProjectReference Include="..\..\..\Model.Internal\AccountManagement\United.Mobile.Model.Internal.AccountManagement\United.Mobile.Model.Internal.AccountManagement.csproj" />
+    <ProjectReference Include="..\..\United.Mobile.DataAccess.Common\United.Mobile.DataAccess.Common.csproj" />
+    <ProjectReference Include="..\United.Mobile.DataAccess.MemberSignIn\United.Mobile.DataAccess.MemberSignIn.csproj" />
+  </ItemGroup>
+
+</Project>

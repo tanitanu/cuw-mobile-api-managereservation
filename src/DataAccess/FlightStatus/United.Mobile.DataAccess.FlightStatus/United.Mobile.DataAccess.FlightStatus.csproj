@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Core\United.Utility\United.Utility.csproj" />
+    <ProjectReference Include="..\..\..\Model.Internal\United.Definition\United.Mobile.Model.Internal.Common.csproj" />
+    <ProjectReference Include="..\..\..\Model\FlightStatus\United.Mobile.Model.FlightStatus\United.Mobile.Model.FlightStatus.csproj" />
+  </ItemGroup>
+
+</Project>

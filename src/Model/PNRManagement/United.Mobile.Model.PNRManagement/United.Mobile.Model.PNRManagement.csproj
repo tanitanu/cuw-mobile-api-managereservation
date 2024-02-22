@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ManagRes\MOBAddKTNRedressRequest.cs" />
+    <Compile Remove="ManagRes\MOBAddKTNRedressResponse.cs" />
+    <Compile Remove="ManagRes\MOBAddMPNumberRequest.cs" />
+    <Compile Remove="ManagRes\MOBAddMPNumberResponse.cs" />
+    <Compile Remove="ManagRes\MOBConfirmScheduleChangeRequest.cs" />
+    <Compile Remove="ManagRes\MOBConfirmScheduleChangeResponse.cs" />
+    <Compile Remove="ManagRes\MOBUpdateTravelerInfoRequest.cs" />
+    <Compile Remove="ManagRes\MOBUpdateTravelerInfoResponse.cs" />
+    <Compile Remove="MOBPNR.cs" />
+    <Compile Remove="MOBPNRAdvisory.cs" />
+    <Compile Remove="MOBPNRByMileagePlusRequest.cs" />
+    <Compile Remove="MOBPNRByMileagePlusResponse.cs" />
+    <Compile Remove="MOBPNRByRecordLocatorRequest.cs" />
+    <Compile Remove="MOBPNRByRecordLocatorResponse.cs" />
+    <Compile Remove="MOBPNREmployeeProfile.cs" />
+    <Compile Remove="MOBPNRPassenger.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Model.Internal\United.Definition\United.Mobile.Model.Internal.Common.csproj" />
+  </ItemGroup>
+
+</Project>

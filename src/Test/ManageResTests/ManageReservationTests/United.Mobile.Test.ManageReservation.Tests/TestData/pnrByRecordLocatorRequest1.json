@@ -1,0 +1,24 @@
+[
+  {
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.69",
+        "minor": "4.1.69"
+      }
+    },
+    "deviceId": "0843672b-85a6-4ccd-9957-79badc7bac6d",
+    "flow": "VIEWRES",
+    "isOTFConversion": false,
+    "isRefreshedUserData": false,
+    "languageCode": "en-US",
+    "lastName": "jeste",
+    "mileagePlusNumber": "",
+    "recordLocator": "CJC55V",
+    "sessionId": "",
+    "transactionId": "0843672b-85a6-4ccd-9957-79badc7bac6d|e38cf657-f542-42d3-ad64-a56551d10105"
+  }
+]

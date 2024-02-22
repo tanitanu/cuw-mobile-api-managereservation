@@ -1,0 +1,37 @@
+{
+  "SeatMap": {
+    "FlightInfo": {},
+    "SegmentSeatMap": [
+      {}
+    ]
+  },
+  "Travelers": [
+    {
+      "Seats": [
+        {
+          "Seat": {
+            "Price": {
+              "Totals": [
+                {
+                  "Amount": 25.0
+                },
+                {
+                  "Amount": 25.0
+                }
+              ],
+              "PromotionCode": "PromotionCode"
+            },
+            "Identifier": "22F",
+            "SeatType": "SeatType"
+          },
+          "DepartureAirport": {
+            "IATACode": "SAN"
+          },
+          "ArrivalAirport": {
+            "IATACode": "SFO"
+          }
+        }
+      ]
+    },{}
+  ]
+}

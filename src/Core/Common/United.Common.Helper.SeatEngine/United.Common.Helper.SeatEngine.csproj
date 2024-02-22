@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>United.Common.HelperSeatEngine</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\DataAccess\ManageReservation\United.Mobile.DataAccess.ManageReservation\United.Mobile.DataAccess.ManageReservation.csproj" />
+    <ProjectReference Include="..\..\..\DataAccess\OnPrem\United.Mobile.DataAccess.OnPremiseSQLSP\United.Mobile.DataAccess.OnPremiseSQLSP.csproj" />
+    <ProjectReference Include="..\..\..\DataAccess\SeatEngine\United.Mobile.DataAccess.SeatEngine\United.Mobile.DataAccess.SeatEngine.csproj" />
+    <ProjectReference Include="..\..\..\DataAccess\Shopping\United.Mobile.DataAccess.ShopSeats\United.Mobile.DataAccess.ShopSeats.csproj" />
+    <ProjectReference Include="..\..\..\DataAccess\Shopping\United.Mobile.DataAccess.ShopTrips\United.Mobile.DataAccess.ShopTrips.csproj" />
+    <ProjectReference Include="..\..\..\DataAccess\United.Mobile.DataAccess.DynamoDB\United.Mobile.DataAccess.DynamoDB.csproj" />
+    <ProjectReference Include="..\..\..\DataAccess\United.Mobile.DataAccess.MerchandizeService\United.Mobile.DataAccess.MerchandizeService.csproj" />
+    <ProjectReference Include="..\..\..\Model\AccountManagement\United.Mobile.Model.MPRewards\United.Mobile.Model.MPRewards.csproj" />
+    <ProjectReference Include="..\..\..\Model\SeatMap\United.Mobile.Model.SeatMap\United.Mobile.Model.SeatMap.csproj" />
+    <ProjectReference Include="..\..\..\Model\Shopping\United.Mobile.Model.ShopSeats\United.Mobile.Model.ShopSeats.csproj" />
+    <ProjectReference Include="..\United.Common.Helper.Merchandize\United.Common.Helper.Merchandize.csproj" />
+    <ProjectReference Include="..\United.Common.Helper.Shopping\United.Common.Helper.Shopping.csproj" />
+  </ItemGroup>
+
+</Project>

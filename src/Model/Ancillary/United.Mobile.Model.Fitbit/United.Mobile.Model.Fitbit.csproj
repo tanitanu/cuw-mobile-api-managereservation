@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+
+    <ProjectReference Include="..\..\AccountManagement\United.Mobile.Model.AccountManagement\United.Mobile.Model.MPSignIn.csproj" />
+
+    <ProjectReference Include="..\..\PNRManagement\United.Mobile.Model.PNRManagement\United.Mobile.Model.PNRManagement.csproj" />
+    <ProjectReference Include="..\..\United.Mobile.Model.Common\United.Mobile.Model.Common.csproj" />
+    <ProjectReference Include="..\United.Mobile.Model.FeedBack\United.Mobile.Model.FeedBack.csproj" />
+  </ItemGroup>
+
+</Project>

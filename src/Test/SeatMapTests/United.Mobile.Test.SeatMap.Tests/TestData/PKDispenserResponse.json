@@ -1,0 +1,13 @@
+{
+  "Response": {
+    "TransactionID": ""
+  },
+  "Keys": [
+    {
+      "PublicKey": "",
+      "CryptoTypeID": "",
+      "Kid": "",
+      "Exp": ""
+    }
+  ]
+}

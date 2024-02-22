@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Core\Common\United.Common.Helper.Shopping\United.Common.Helper.Shopping.csproj" />
+    <ProjectReference Include="..\..\..\Model.Internal\United.Mobile.Model.FligtStatus.Internal\United.Mobile.Model.FligtStatus.Internal.csproj" />
+  </ItemGroup>
+
+</Project>

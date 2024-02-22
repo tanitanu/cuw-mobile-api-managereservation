@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Core\Common\United.Common.Helper.FOP\United.Common.Helper.FOP.csproj" />
+    <ProjectReference Include="..\..\..\..\Core\Common\United.Common.Helper.ManageRes\United.Common.Helper.ManageRes.csproj" />
+    <ProjectReference Include="..\..\..\..\DataAccess\United.Mobile.DataAccess.Common\United.Mobile.DataAccess.Common.csproj" />
+    <ProjectReference Include="..\..\..\..\Model\Ancillary\United.Mobile.Model.UpgradeCabin\United.Mobile.Model.UpgradeCabin.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="United.ECommerce.Framework.Utilities">
+      <HintPath>..\..\..\..\ExternalDLL\United.ECommerce.Framework.Utilities.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

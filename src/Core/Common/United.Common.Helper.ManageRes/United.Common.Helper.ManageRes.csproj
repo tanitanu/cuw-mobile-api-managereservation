@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Presentation.CslModels" Version="4.6.72" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\DataAccess\Ancillary\United.Mobile.DataAccess.Fitbit\United.Mobile.DataAccess.Fitbit.csproj" />
+    <ProjectReference Include="..\..\..\DataAccess\ManageReservation\United.Mobile.DataAccess.FlightReservation\United.Mobile.DataAccess.FlightReservation.csproj" />
+    <ProjectReference Include="..\..\..\DataAccess\ManageReservation\United.Mobile.DataAccess.ManageReservation\United.Mobile.DataAccess.ManageReservation.csproj" />
+    <ProjectReference Include="..\..\..\DataAccess\ReShopping\United.Mobile.DataAccess.EligibleCheck\United.Mobile.DataAccess.ReShop.csproj" />
+    <ProjectReference Include="..\..\..\DataAccess\United.Mobile.DataAccess.Common\United.Mobile.DataAccess.Common.csproj" />
+    <ProjectReference Include="..\..\..\DataAccess\United.Mobile.DataAccess.FlightShopping\United.Mobile.DataAccess.FlightShopping.csproj" />
+    <ProjectReference Include="..\..\..\Model\AccountManagement\United.Mobile.Model.MPRewards\United.Mobile.Model.MPRewards.csproj" />
+    <ProjectReference Include="..\..\..\Model\ManageRes\United.Mobile.Model.FlightReservation\United.Mobile.Model.FlightReservation.csproj" />
+    <ProjectReference Include="..\..\..\Model\ManageRes\United.Mobile.Model.ManageRes\United.Mobile.Model.ManageRes.csproj" />
+    <ProjectReference Include="..\United.Common.Helper.Merchandize\United.Common.Helper.Merchandize.csproj" />
+    <ProjectReference Include="..\United.Common.Helper.Profile\United.Common.Helper.Profile.csproj" />
+    <ProjectReference Include="..\United.Common.Helper.SeatEngine\United.Common.Helper.SeatEngine.csproj" />
+    <ProjectReference Include="..\United.Common.Helper.Shopping\United.Common.Helper.Shopping.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="United.ECommerce.Framework.Utilities">
+      <HintPath>..\..\..\ExternalDLL\United.ECommerce.Framework.Utilities.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

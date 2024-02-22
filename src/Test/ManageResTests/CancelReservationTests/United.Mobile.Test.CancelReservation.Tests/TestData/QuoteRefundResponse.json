@@ -1,0 +1,50 @@
+{
+  "QuoteType": "text",
+  "PNR": "WEYU786",
+  "Characteristic": [
+    {
+      "Code": "Refundable",
+      "Value": "False"
+    },
+    {
+      "Code": "ContentLookupID",
+      "Value": "Messages:63"
+    },
+    {
+      "Code": "BBXID",
+      "Value": "PScLU4jHMrYrB8dwF0ZhFi"
+    },
+    {
+      "Code": "TRIP_TYPE",
+      "Value": "OW",
+      "Description": "TRIP_TYPE"
+    },
+    {
+      "Code": "BBXID",
+      "Value": "Z2CnknXhHtw4Z93H80ZhFq"
+    }
+  ],
+  "RefundAmount": {
+    "Amount": "567490",
+    "CurrencyCode": "USD",
+    "Code": "SD78",
+    "DecimalPlace": 3
+  },
+  "RefundMiles": {
+    "Amount": "567490",
+    "CurrencyCode": "USD",
+    "Code": "SD78",
+    "DecimalPlace": 3
+  },
+  "RefundFee": {
+    "Amount": "547890",
+    "CurrencyCode": "USD",
+    "Code": "SD78",
+    "DecimalPlace": 3
+  },
+  "PointOfSale": "SALE",
+  "IsMultipleRefundFOP": true,
+  "IsMilesMoneyFFCTRefundFOP": true,
+  "IsCancellationFee": true,
+  "ShowETCConvertionInfo": true
+}

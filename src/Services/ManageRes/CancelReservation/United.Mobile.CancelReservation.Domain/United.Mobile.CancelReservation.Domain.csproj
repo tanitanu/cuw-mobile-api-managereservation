@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Core\Common\United.Common.Helper.FOP\United.Common.Helper.FOP.csproj" />
+    <ProjectReference Include="..\..\..\..\Core\Common\United.Common.Helper.ManageRes\United.Common.Helper.ManageRes.csproj" />
+    <ProjectReference Include="..\..\..\..\Core\Common\United.Common.Helper.Shopping\United.Common.Helper.Shopping.csproj" />
+    <ProjectReference Include="..\..\..\..\Core\United.Utility.Middleware\United.Utility.Middleware.csproj" />
+    <ProjectReference Include="..\..\..\..\Core\United.Utility\United.Utility.csproj" />
+    <ProjectReference Include="..\..\..\..\DataAccess\ManageReservation\United.Mobile.DataAccess.CancelReservation\United.Mobile.DataAccess.CancelReservation.csproj" />
+    <ProjectReference Include="..\..\..\..\Model\ManageRes\United.Mobile.Model.ManageRes\United.Mobile.Model.ManageRes.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="United.ECommerce.Framework.Utilities">
+      <HintPath>..\..\..\..\ExternalDLL\United.ECommerce.Framework.Utilities.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

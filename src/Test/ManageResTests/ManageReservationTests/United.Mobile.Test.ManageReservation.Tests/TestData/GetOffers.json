@@ -1,0 +1,1526 @@
+[
+  {
+    "ObjectName": "United.Persist.Definition.Merchandizing.GetVendorOffers",
+    "Offers": [
+      {
+        "ProductInformation": {
+          "ProductDetails": [
+            {
+              "Product": {
+                "Description": "Trip insurance",
+                "Code": "AAC",
+                "SubProducts": [
+                  {
+                    "Prices": [
+                      {
+                        "ID": "OD1S1S10",
+                        "Association": {
+                          "SegmentRefIDs": [
+
+                          ],
+                          "TravelerRefIDs": [
+
+                          ],
+                          "ODMappings": [
+                            {
+                              "OriginDestinationMapping": {
+                                "SegmentRefIDs": [
+                                  {
+                                    "string": "S1"
+                                  }
+                                ],
+                                "RefID": "OD1"
+                              }
+                            }
+                          ]
+                        },
+                        "PaymentOptions": [
+                          {
+                            "Type": "PersonPrice",
+                            "PriceComponents": [
+                              {
+                                "Price": {
+                                  "BasePrice": [
+                                    {
+                                      "Currency": {
+                                        "Code": "USD",
+                                        "DecimalPlace": 0,
+                                        "ISONumericCode": 0
+                                      },
+                                      "Amount": 15.9,
+                                      "Type": "Money",
+                                      "Count": 0,
+                                      "IsFeeDeductfromRefund": false
+                                    }
+                                  ],
+                                  "Totals": [
+                                    {
+                                      "Currency": {
+                                        "Code": "USD",
+                                        "DecimalPlace": 0,
+                                        "ISONumericCode": 0
+                                      },
+                                      "Amount": 15.9,
+                                      "Type": "Money",
+                                      "Count": 0,
+                                      "IsFeeDeductfromRefund": false
+                                    }
+                                  ],
+                                  "Discount": 0,
+                                  "FareType": "Revenue",
+                                  "TotalPremium": 0,
+                                  "TotalDiscount": 0,
+                                  "OriginalPrice": 0,
+                                  "Amount": 0,
+                                  "DecimalPlace": 0
+                                },
+                                "MaximumQuantity": 0,
+                                "MinimumQuantity": 0
+                              }
+                            ]
+
+                          }
+                        ]
+                      },
+                      {
+                        "ID": "OD2S1S10",
+                        "Association": {
+                          "SegmentRefIDs": [
+
+                          ],
+                          "TravelerRefIDs": [
+
+                          ],
+                          "ODMappings": [
+                            {
+                              "OriginDestinationMapping": {
+                                "SegmentRefIDs": [
+                                  {
+                                    "string": "S1"
+                                  }
+                                ],
+                                "RefID": "OD1"
+                              }
+                            }
+                          ]
+                        },
+                        "PaymentOptions": [
+                          {
+                            "Type": "PersonPrice",
+                            "PriceComponents": [
+                              {
+                                "Price": {
+                                  "BasePrice": [
+                                    {
+                                      "Currency": {
+                                        "Code": "USD",
+                                        "DecimalPlace": 0,
+                                        "ISONumericCode": 0
+                                      },
+                                      "Amount": 15.9,
+                                      "Type": "Money",
+                                      "Count": 0,
+                                      "IsFeeDeductfromRefund": false
+                                    }
+                                  ],
+                                  "Totals": [
+                                    {
+                                      "Currency": {
+                                        "Code": "USD",
+                                        "DecimalPlace": 0,
+                                        "ISONumericCode": 0
+                                      },
+                                      "Amount": 15.9,
+                                      "Type": "Money",
+                                      "Count": 0,
+                                      "IsFeeDeductfromRefund": false
+                                    }
+                                  ],
+                                  "Discount": 0,
+                                  "FareType": "Revenue",
+                                  "TotalPremium": 0,
+                                  "TotalDiscount": 0,
+                                  "OriginalPrice": 0,
+                                  "Amount": 0,
+                                  "DecimalPlace": 0
+                                },
+                                "MaximumQuantity": 0,
+                                "MinimumQuantity": 0
+                              }
+                            ]
+
+                          }
+                        ]
+                      }
+                    ],
+                    "ID": 1,
+                    "IsDefault": "False",
+                    "GroupCode": 252620,
+                    "SubGroupCode": 9325,
+                    "Extension": {
+                      "TripInsurance": {
+                        "Price": {
+                          "IsSelected": false,
+                          "IsDeclined": false,
+                          "QuoteID": "0a4b2d03-e9a3-4b6b-aaaf-555ccf9bda91",
+                          "Type": 42410
+                        }
+                      }
+                    },
+                    "IsEntitled": "False"
+                  }
+
+                ],
+                "Characteristics": [
+                  {
+                    "Code": "SessionId",
+                    "Value": 1.6536495605310102e+30
+                  },
+                  {
+                    "Code": "CorelationId",
+                    "Value": 1.6536495605310102e+30
+                  },
+                  {
+                    "Code": "TemplateId",
+                    "Value": "UA_v2_FC_NoFirstOption_YesHighlight_BodyBottom_v3"
+                  },
+                  {
+                    "Code": "TemplateType",
+                    "Value": "FC"
+                  },
+                  {
+                    "Code": "TreatementId",
+                    "Value": "0a4b2d03-e9a3-4b6b-aaaf-555ccf9bda91"
+                  },
+                  {
+                    "Code": "QuotePackId",
+                    "Value": "0a4b2d03-e9a3-4b6b-aaaf-555ccf9bda91"
+                  },
+                  {
+                    "Code": "TKT_PRICE",
+                    "Value": 244.6
+                  },
+                  {
+                    "Code": "TPI_TKT_CURRENCY_CODE",
+                    "Value": "USD"
+                  },
+                  {
+                    "Code": "FlightType",
+                    "Value": "Domestic"
+                  },
+                  {
+                    "Code": "InfantTraveler",
+                    "Value": "False"
+                  },
+                  {
+                    "Code": "FinalDestination",
+                    "Value": "DEN"
+                  },
+                  {
+                    "Code": "AwardIndicator",
+                    "Value": "False"
+                  },
+                  {
+                    "Code": "pageid",
+                    "Value": "/content/experience-fragments/tg-container/uausa/ua-mb-m-01/us/en/default/master"
+                  }
+                ],
+                "DisplayName": "Trip insurance",
+                "Presentation": {
+                  "HTML": "&lt;div class=\"root responsivegrid\"&gt;\n\n\n\n\t \n\n\n\n\n\t&lt;div&gt; \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTripCoveredPriceMessage\"&gt;$244.60&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobOfferTitleMessage\"&gt;Travel Guard(R) Insurance&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTIDetailsTAndCHeader1Message\"&gt;Coverage is offered by Travel Guard Group, Inc. and&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobPaymentTAndCHeader1Message\"&gt;By adding trip insurance, I acknowledge I have read, understand &lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobPaymentTAndCUrlHeaderMessage\"&gt;Policy of Insurance&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobPaymentTAndCUrlHeader2Message\"&gt;and agree to the terms and conditions of the &lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobPaymentTAndCBodyUrlMessage\"&gt;https://webservices.travelguard.com/Product/FileRetrieval.aspx?CountryCode=US&amp;amp;StateCode=NW&amp;amp;ProductCode=009324&amp;amp;PlanCode=NW&amp;amp;FileType=PROD_PLAN_GM&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTIConfirmationBody1Message\"&gt;You have purchased Travel Guard(R) trip insurance from AIG Travel. Insurance details, along with applicable definitions and terms of coverage, are fully described in your Policy of Insurance. It  is your responsibility to read and understand the details of your coverage.&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTIConfirmationBody2Message\"&gt;To ask about a Travel Guard product or file a claim, please call 1-877-934-8308.&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTIDetailsTotalCoverCostMessage\"&gt;Covers total trip cost of&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobOfferImage\"&gt;https://container.travelguard.com/content/dam/tg-container/uausa/mobileappmb-mr/walking-airport-960x280.jpg&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobTIDetailsTAndCUrlHeaderMessage\"&gt;Important Disclosures.&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobTIDetailsTAndCUrlMessage\"&gt;https://www-130.aig.com/us/en/important-disclosures&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobPaymentTAndCHeader1Message\"&gt;By selecting the add travel insurance button, I acknowledge that I have read, understand &lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobBookingProdPageHeadLine1\"&gt;Purchase travel insurance to&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobBookingProdPageHeadLine2\"&gt;cover the unexpected:&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobBookingProdPageContent1\"&gt;- Trip cancellations&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobBookingProdPageContent2\"&gt;- Missed flight connections&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobBookingProdPageContent3\"&gt;- Lost baggage&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTGILimitationMessage\"&gt;limitations will apply;&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTGIReadMessage\"&gt;read&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTGIAndMessage\"&gt;and&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTIDetailsTAndCUrlHeaderMessage\"&gt;Important Disclosures.&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTIDetailsTAndCUrlMessage\"&gt;https://www-130.aig.com/us/en/important-disclosures&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTIMBEmergencyMessageText\"&gt;COVID-19 is a foreseen event and certain coverages will not apply.  &lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTIMBEmergencyMessageLinkText\"&gt;Please read the details here&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTIMBEmergencyMessageLinkURL\"&gt;https://www-130.aig.com/us/en/covid19notification&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTIMBWashingtonMessage\"&gt;Plan not available to Washington and New York residents.&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobOfferImage\"&gt;https://container.travelguard.com/content/dam/tg-container/uausa/mobileappmb-mr/walking-airport-640x400.jpg&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobOfferHeaderMessage\"&gt;Cover your trip with&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobOfferTitleMessage\"&gt;Travel Guard(R) Insurance&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobOfferFromtMessage\"&gt;For&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobOfferCtaMessage\"&gt;Learn more&lt;/div&gt;\n\t\t\t\n\t\t\n\t&lt;/div&gt;\n\n\n        \n    \n&lt;/div&gt;",
+                  "Contents": [
+                    {
+                      "Body": "$244.60",
+                      "Header": "MobTripCoveredPriceMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "Travel Guard(R) Insurance",
+                      "Header": "MobOfferTitleMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "Coverage is offered by Travel Guard Group, Inc. and",
+                      "Header": "MobTIDetailsTAndCHeader1Message",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "By adding trip insurance, I acknowledge I have read, understand",
+                      "Header": "MobPaymentTAndCHeader1Message",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "Policy of Insurance",
+                      "Header": "MobPaymentTAndCUrlHeaderMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "and agree to the terms and conditions of the",
+                      "Header": "MobPaymentTAndCUrlHeader2Message",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "https://webservices.travelguard.com/Product/FileRetrieval.aspx?CountryCode=US&amp;amp;StateCode=NW&amp;amp;ProductCode=009324&amp;amp;PlanCode=NW&amp;amp;FileType=PROD_PLAN_GM",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "You have purchased Travel Guard(R) trip insurance from AIG Travel. Insurance details, along with applicable definitions and terms of coverage, are fully described in your Policy of Insurance. It  is your responsibility to read and understand the details of your coverage.",
+                      "Header": "MobTIConfirmationBody1Message",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "To ask about a Travel Guard product or file a claim, please call 1-877-934-8308.",
+                      "Header": "MobTIConfirmationBody2Message",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "Covers total trip cost of",
+                      "Header": "MobTIDetailsTotalCoverCostMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "https://container.travelguard.com/content/dam/tg-container/uausa/mobileappmb-mr/walking-airport-960x280.jpg",
+                      "Header": "PreBookingMobOfferImage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "Important Disclosures.",
+                      "Header": "PreBookingMobTIDetailsTAndCUrlHeaderMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "https://www-130.aig.com/us/en/important-disclosures",
+                      "Header": "PreBookingMobTIDetailsTAndCUrlMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "By selecting the add travel insurance button, I acknowledge that I have read, understand",
+                      "Header": "PreBookingMobPaymentTAndCHeader1Message",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "Purchase travel insurance to",
+                      "Header": "PreBookingMobBookingProdPageHeadLine1",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "cover the unexpected:",
+                      "Header": "PreBookingMobBookingProdPageHeadLine2",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "- Trip cancellations",
+                      "Header": "PreBookingMobBookingProdPageContent1",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "- Missed flight connections",
+                      "Header": "PreBookingMobBookingProdPageContent2",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "- Lost baggage",
+                      "Header": "PreBookingMobBookingProdPageContent3",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "limitations will apply;",
+                      "Header": "MobTGILimitationMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "read",
+                      "Header": "MobTGIReadMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "and",
+                      "Header": "MobTGIAndMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "Important Disclosures.",
+                      "Header": "MobTIDetailsTAndCUrlHeaderMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "https://www-130.aig.com/us/en/important-disclosures",
+                      "Header": "MobTIDetailsTAndCUrlMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "COVID-19 is a foreseen event and certain coverages will not apply.",
+                      "Header": "MobTIMBEmergencyMessageText",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "Please read the details here",
+                      "Header": "MobTIMBEmergencyMessageLinkText",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "https://www-130.aig.com/us/en/covid19notification",
+                      "Header": "MobTIMBEmergencyMessageLinkURL",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "Plan not available to Washington and New York residents.",
+                      "Header": "MobTIMBWashingtonMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "https://container.travelguard.com/content/dam/tg-container/uausa/mobileappmb-mr/walking-airport-640x400.jpg",
+                      "Header": "PreBookingMobOfferImage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "Cover your trip with",
+                      "Header": "PreBookingMobOfferHeaderMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "Travel Guard(R) Insurance",
+                      "Header": "PreBookingMobOfferTitleMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "For",
+                      "Header": "PreBookingMobOfferFromtMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "Learn more",
+                      "Header": "PreBookingMobOfferCtaMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "",
+                      "Header": "Payment Not Supported",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              "Parameters": [
+                {
+
+                  "Name": "SERVICEDATA",
+                  "Value": "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"
+
+                }
+              ]
+            },
+            {
+              "Product": {
+                "Description": "Trip insurance",
+                "Code": "PAC",
+                "SubProducts": [
+                  {
+                    "Prices": [
+                      {
+                        "ID": "OD1S1S10",
+                        "Association": {
+                          "SegmentRefIDs": [
+
+                          ],
+                          "TravelerRefIDs": [
+
+                          ],
+                          "ODMappings": [
+                            {
+                              "OriginDestinationMapping": {
+                                "SegmentRefIDs": [
+                                  {
+                                    "string": "S1"
+                                  }
+                                ],
+                                "RefID": "OD1"
+                              }
+                            }
+                          ]
+                        },
+                        "PaymentOptions": [
+                          {
+                            "Type": "PersonPrice",
+                            "PriceComponents": [
+                              {
+                                "Price": {
+                                  "BasePrice": [
+                                    {
+                                      "Currency": {
+                                        "Code": "USD",
+                                        "DecimalPlace": 0,
+                                        "ISONumericCode": 0
+                                      },
+                                      "Amount": 15.9,
+                                      "Type": "Money",
+                                      "Count": 0,
+                                      "IsFeeDeductfromRefund": false
+                                    }
+                                  ],
+                                  "Totals": [
+                                    {
+                                      "Currency": {
+                                        "Code": "USD",
+                                        "DecimalPlace": 0,
+                                        "ISONumericCode": 0
+                                      },
+                                      "Amount": 15.9,
+                                      "Type": "Money",
+                                      "Count": 0,
+                                      "IsFeeDeductfromRefund": false
+                                    }
+                                  ],
+                                  "Discount": 0,
+                                  "FareType": "Revenue",
+                                  "TotalPremium": 0,
+                                  "TotalDiscount": 0,
+                                  "OriginalPrice": 0,
+                                  "Amount": 0,
+                                  "DecimalPlace": 0
+                                },
+                                "MaximumQuantity": 0,
+                                "MinimumQuantity": 0
+                              }
+                            ]
+
+                          }
+                        ]
+                      },
+                      {
+                        "ID": "OD2S1S10",
+                        "Association": {
+                          "SegmentRefIDs": [
+
+                          ],
+                          "TravelerRefIDs": [
+
+                          ],
+                          "ODMappings": [
+                            {
+                              "OriginDestinationMapping": {
+                                "SegmentRefIDs": [
+                                  {
+                                    "string": "S1"
+                                  }
+                                ],
+                                "RefID": "OD1"
+                              }
+                            }
+                          ]
+                        },
+                        "PaymentOptions": [
+                          {
+                            "Type": "PersonPrice",
+                            "PriceComponents": [
+                              {
+                                "Price": {
+                                  "BasePrice": [
+                                    {
+                                      "Currency": {
+                                        "Code": "USD",
+                                        "DecimalPlace": 0,
+                                        "ISONumericCode": 0
+                                      },
+                                      "Amount": 15.9,
+                                      "Type": "Money",
+                                      "Count": 0,
+                                      "IsFeeDeductfromRefund": false
+                                    }
+                                  ],
+                                  "Totals": [
+                                    {
+                                      "Currency": {
+                                        "Code": "USD",
+                                        "DecimalPlace": 0,
+                                        "ISONumericCode": 0
+                                      },
+                                      "Amount": 15.9,
+                                      "Type": "Money",
+                                      "Count": 0,
+                                      "IsFeeDeductfromRefund": false
+                                    }
+                                  ],
+                                  "Discount": 0,
+                                  "FareType": "Revenue",
+                                  "TotalPremium": 0,
+                                  "TotalDiscount": 0,
+                                  "OriginalPrice": 0,
+                                  "Amount": 0,
+                                  "DecimalPlace": 0
+                                },
+                                "MaximumQuantity": 0,
+                                "MinimumQuantity": 0
+                              }
+                            ]
+
+                          }
+                        ]
+                      }
+                    ],
+                    "ID": 1,
+                    "IsDefault": "False",
+                    "GroupCode": 252620,
+                    "SubGroupCode": 9325,
+                    "Extension": {
+                      "TripInsurance": {
+                        "Price": {
+                          "IsSelected": false,
+                          "IsDeclined": false,
+                          "QuoteID": "0a4b2d03-e9a3-4b6b-aaaf-555ccf9bda91",
+                          "Type": 42410
+                        }
+                      }
+                    },
+                    "IsEntitled": "False"
+                  }
+
+                ],
+                "Characteristics": [
+                  {
+                    "Code": "SessionId",
+                    "Value": 1.6536495605310102e+30
+                  },
+                  {
+                    "Code": "CorelationId",
+                    "Value": 1.6536495605310102e+30
+                  },
+                  {
+                    "Code": "TemplateId",
+                    "Value": "UA_v2_FC_NoFirstOption_YesHighlight_BodyBottom_v3"
+                  },
+                  {
+                    "Code": "TemplateType",
+                    "Value": "FC"
+                  },
+                  {
+                    "Code": "TreatementId",
+                    "Value": "0a4b2d03-e9a3-4b6b-aaaf-555ccf9bda91"
+                  },
+                  {
+                    "Code": "QuotePackId",
+                    "Value": "0a4b2d03-e9a3-4b6b-aaaf-555ccf9bda91"
+                  },
+                  {
+                    "Code": "TKT_PRICE",
+                    "Value": 244.6
+                  },
+                  {
+                    "Code": "TPI_TKT_CURRENCY_CODE",
+                    "Value": "USD"
+                  },
+                  {
+                    "Code": "FlightType",
+                    "Value": "Domestic"
+                  },
+                  {
+                    "Code": "InfantTraveler",
+                    "Value": "False"
+                  },
+                  {
+                    "Code": "FinalDestination",
+                    "Value": "DEN"
+                  },
+                  {
+                    "Code": "AwardIndicator",
+                    "Value": "False"
+                  },
+                  {
+                    "Code": "pageid",
+                    "Value": "/content/experience-fragments/tg-container/uausa/ua-mb-m-01/us/en/default/master"
+                  }
+                ],
+                "DisplayName": "Trip insurance",
+                "Presentation": {
+                  "HTML": "&lt;div class=\"root responsivegrid\"&gt;\n\n\n\n\t \n\n\n\n\n\t&lt;div&gt; \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTripCoveredPriceMessage\"&gt;$244.60&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobOfferTitleMessage\"&gt;Travel Guard(R) Insurance&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTIDetailsTAndCHeader1Message\"&gt;Coverage is offered by Travel Guard Group, Inc. and&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobPaymentTAndCHeader1Message\"&gt;By adding trip insurance, I acknowledge I have read, understand &lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobPaymentTAndCUrlHeaderMessage\"&gt;Policy of Insurance&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobPaymentTAndCUrlHeader2Message\"&gt;and agree to the terms and conditions of the &lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobPaymentTAndCBodyUrlMessage\"&gt;https://webservices.travelguard.com/Product/FileRetrieval.aspx?CountryCode=US&amp;amp;StateCode=NW&amp;amp;ProductCode=009324&amp;amp;PlanCode=NW&amp;amp;FileType=PROD_PLAN_GM&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTIConfirmationBody1Message\"&gt;You have purchased Travel Guard(R) trip insurance from AIG Travel. Insurance details, along with applicable definitions and terms of coverage, are fully described in your Policy of Insurance. It  is your responsibility to read and understand the details of your coverage.&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTIConfirmationBody2Message\"&gt;To ask about a Travel Guard product or file a claim, please call 1-877-934-8308.&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTIDetailsTotalCoverCostMessage\"&gt;Covers total trip cost of&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobOfferImage\"&gt;https://container.travelguard.com/content/dam/tg-container/uausa/mobileappmb-mr/walking-airport-960x280.jpg&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobTIDetailsTAndCUrlHeaderMessage\"&gt;Important Disclosures.&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobTIDetailsTAndCUrlMessage\"&gt;https://www-130.aig.com/us/en/important-disclosures&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobPaymentTAndCHeader1Message\"&gt;By selecting the add travel insurance button, I acknowledge that I have read, understand &lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobBookingProdPageHeadLine1\"&gt;Purchase travel insurance to&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobBookingProdPageHeadLine2\"&gt;cover the unexpected:&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobBookingProdPageContent1\"&gt;- Trip cancellations&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobBookingProdPageContent2\"&gt;- Missed flight connections&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobBookingProdPageContent3\"&gt;- Lost baggage&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTGILimitationMessage\"&gt;limitations will apply;&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTGIReadMessage\"&gt;read&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTGIAndMessage\"&gt;and&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTIDetailsTAndCUrlHeaderMessage\"&gt;Important Disclosures.&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTIDetailsTAndCUrlMessage\"&gt;https://www-130.aig.com/us/en/important-disclosures&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTIMBEmergencyMessageText\"&gt;COVID-19 is a foreseen event and certain coverages will not apply.  &lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTIMBEmergencyMessageLinkText\"&gt;Please read the details here&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTIMBEmergencyMessageLinkURL\"&gt;https://www-130.aig.com/us/en/covid19notification&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"MobTIMBWashingtonMessage\"&gt;Plan not available to Washington and New York residents.&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobOfferImage\"&gt;https://container.travelguard.com/content/dam/tg-container/uausa/mobileappmb-mr/walking-airport-640x400.jpg&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobOfferHeaderMessage\"&gt;Cover your trip with&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobOfferTitleMessage\"&gt;Travel Guard(R) Insurance&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobOfferFromtMessage\"&gt;For&lt;/div&gt;\n\t\t\t\n\t\t\n\t \n\t\t\t\n\t\t\t \n\t\t\t\t\n\t\t\t\t&lt;div data-component=\"PreBookingMobOfferCtaMessage\"&gt;Learn more&lt;/div&gt;\n\t\t\t\n\t\t\n\t&lt;/div&gt;\n\n\n        \n    \n&lt;/div&gt;",
+                  "Contents": [
+                    {
+                      "Body": "$244.60",
+                      "Header": "MobTripCoveredPriceMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "Travel Guard(R) Insurance",
+                      "Header": "MobOfferTitleMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "Coverage is offered by Travel Guard Group, Inc. and",
+                      "Header": "MobTIDetailsTAndCHeader1Message",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "By adding trip insurance, I acknowledge I have read, understand",
+                      "Header": "MobPaymentTAndCHeader1Message",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "Policy of Insurance",
+                      "Header": "MobPaymentTAndCUrlHeaderMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "and agree to the terms and conditions of the",
+                      "Header": "MobPaymentTAndCUrlHeader2Message",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "https://webservices.travelguard.com/Product/FileRetrieval.aspx?CountryCode=US&amp;amp;StateCode=NW&amp;amp;ProductCode=009324&amp;amp;PlanCode=NW&amp;amp;FileType=PROD_PLAN_GM",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "You have purchased Travel Guard(R) trip insurance from AIG Travel. Insurance details, along with applicable definitions and terms of coverage, are fully described in your Policy of Insurance. It  is your responsibility to read and understand the details of your coverage.",
+                      "Header": "MobTIConfirmationBody1Message",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "To ask about a Travel Guard product or file a claim, please call 1-877-934-8308.",
+                      "Header": "MobTIConfirmationBody2Message",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "Covers total trip cost of",
+                      "Header": "MobTIDetailsTotalCoverCostMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "https://container.travelguard.com/content/dam/tg-container/uausa/mobileappmb-mr/walking-airport-960x280.jpg",
+                      "Header": "PreBookingMobOfferImage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "Important Disclosures.",
+                      "Header": "PreBookingMobTIDetailsTAndCUrlHeaderMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "https://www-130.aig.com/us/en/important-disclosures",
+                      "Header": "PreBookingMobTIDetailsTAndCUrlMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "By selecting the add travel insurance button, I acknowledge that I have read, understand",
+                      "Header": "PreBookingMobPaymentTAndCHeader1Message",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "Purchase travel insurance to",
+                      "Header": "PreBookingMobBookingProdPageHeadLine1",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "cover the unexpected:",
+                      "Header": "PreBookingMobBookingProdPageHeadLine2",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "- Trip cancellations",
+                      "Header": "PreBookingMobBookingProdPageContent1",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "- Missed flight connections",
+                      "Header": "PreBookingMobBookingProdPageContent2",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "- Lost baggage",
+                      "Header": "PreBookingMobBookingProdPageContent3",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "limitations will apply;",
+                      "Header": "MobTGILimitationMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "read",
+                      "Header": "MobTGIReadMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "and",
+                      "Header": "MobTGIAndMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "Important Disclosures.",
+                      "Header": "MobTIDetailsTAndCUrlHeaderMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "https://www-130.aig.com/us/en/important-disclosures",
+                      "Header": "MobTIDetailsTAndCUrlMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "COVID-19 is a foreseen event and certain coverages will not apply.",
+                      "Header": "MobTIMBEmergencyMessageText",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "Please read the details here",
+                      "Header": "MobTIMBEmergencyMessageLinkText",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "https://www-130.aig.com/us/en/covid19notification",
+                      "Header": "MobTIMBEmergencyMessageLinkURL",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "Plan not available to Washington and New York residents.",
+                      "Header": "MobTIMBWashingtonMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "https://container.travelguard.com/content/dam/tg-container/uausa/mobileappmb-mr/walking-airport-640x400.jpg",
+                      "Header": "PreBookingMobOfferImage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "Cover your trip with",
+                      "Header": "PreBookingMobOfferHeaderMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "Travel Guard(R) Insurance",
+                      "Header": "PreBookingMobOfferTitleMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "For",
+                      "Header": "PreBookingMobOfferFromtMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "Learn more",
+                      "Header": "PreBookingMobOfferCtaMessage",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    },
+                    {
+                      "Body": "",
+                      "Header": "Payment Not Supported",
+                      "Images": [
+                        {
+                          "anyType": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              "Parameters": [
+                {
+
+                  "Name": "SERVICEDATA",
+                  "Value": "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"
+
+                }
+              ]
+            }
+          ],
+          "CurrencyConversions": ""
+        },
+        "ID": "SOL1",
+        "Warnings": ""
+      }
+    ],
+    "Response": {
+      "TransactionID": 1.6536495605310102e+30,
+      "Message": "",
+      "GUIDs": [
+        {
+          "ID": 1.6536495605310102e+30,
+          "Name": "CORRELATIONID"
+        },
+        {
+          "ID": 1.6536495605310102e+30,
+          "Name": "TRANSACTIONID"
+        }
+
+      ],
+      "ProcessTime": 853,
+      "TimeStamps": [
+        {
+          "Time": "5/27/2022 7:06:01 AM",
+          "Type": "Eastern Standard Time",
+          "TransactionId": "00000000-0000-0000-0000-000000000000",
+          "StartTime": "0001-01-01T00:00:00"
+        },
+        {
+          "Time": "1/1/0001 00:00:00",
+          "Type": "PnrCreateDate",
+          "TransactionId": "00000000-0000-0000-0000-000000000000",
+          "StartTime": "0001-01-01T00:00:00"
+        }
+      ],
+      "RecordLocator": ""
+    },
+    "FlightSegments": [
+      {
+        "DepartureDateTime": "2022-05-29 08:12 AM",
+        "ArrivalDateTime": "2022-05-29 09:45 AM",
+        "FlightNumber": 2053,
+        "OnTimeRate": 0,
+        "OperatingAirlineCode": "UA",
+        "Equipment": {
+          "Model": {
+            "Description": "Boeing 737-800",
+            "Fleet": 738
+          },
+          "CabinCount": 2
+        },
+        "MarketedFlightSegment": [
+          {
+            "MarketingAirlineCode": "UA",
+            "FlightNumber": 2053,
+            "Description": "United Airlines"
+          }
+        ],
+        "DirectionIndicator": "",
+        "Distance": 861,
+        "SegmentNumber": 1,
+        "IsInternational": false,
+        "NumberofStops": 0,
+        "ArrivalTimeZone": 0,
+        "DepartureTimeZone": 0,
+        "OperatingAirline": {
+          "DisplaySequence": 0,
+          "IsGovernmentMustRide": false,
+          "IsNOCMustRide": false,
+          "IATACode": "UA"
+        },
+        "AvailBookingClasses": [
+
+          {
+            "Code": "J",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 2
+            }
+          },
+          {
+            "Code": "JN",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 2
+            }
+          },
+          {
+            "Code": "C",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 1
+            }
+          },
+          {
+            "Code": "D",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 1
+            }
+          },
+          {
+            "Code": "Z",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 0
+            }
+          },
+          {
+            "Code": "ZN",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 0
+            }
+          },
+          {
+            "Code": "P",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 0
+            }
+          },
+          {
+            "Code": "PN",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 0
+            }
+          },
+          {
+            "Code": "PZ",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 0
+            }
+          },
+          {
+            "Code": "IN",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 0
+            }
+          },
+          {
+            "Code": "I",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 0
+            }
+          },
+          {
+            "Code": "Y",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 9
+            }
+          },
+          {
+            "Code": "YN",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 9
+            }
+          },
+          {
+            "Code": "B",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 9
+            }
+          },
+          {
+            "Code": "M",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 9
+            }
+          },
+          {
+            "Code": "E",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 9
+            }
+          },
+          {
+            "Code": "U",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 9
+            }
+          },
+          {
+            "Code": "H",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 7
+            }
+          },
+          {
+            "Code": "HN",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 4
+            }
+          },
+          {
+            "Code": "Q",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 6
+            }
+          },
+          {
+            "Code": "V",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 4
+            }
+          },
+          {
+            "Code": "W",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 4
+            }
+          },
+          {
+            "Code": "S",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 4
+            }
+          },
+          {
+            "Code": "T",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 2
+            }
+          },
+          {
+            "Code": "L",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 1
+            }
+          },
+          {
+            "Code": "K",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 0
+            }
+          },
+          {
+            "Code": "G",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 0
+            }
+          },
+          {
+            "Code": "N",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 9
+            }
+          },
+          {
+            "Code": "XN",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 0
+            }
+          },
+          {
+            "Code": "X",
+            "Counts": {
+              "DisplaySequence": 0,
+              "Value": 0
+            }
+          }
+
+        ],
+        "PetCount": 0,
+        "ConnectTime": 0,
+        "IsChangeOfPlane": false,
+        "UpgradeEligibilityStatus": "Unknown",
+        "UpgradeVisibilityType": "None",
+        "InstantUpgradable": false,
+        "ID": "S1",
+        "ClassOfService": "V",
+        "FareBasisCode": "VAA0AKEN",
+        "TripIndicator": 1,
+        "JourneyInfo": false
+
+      }
+    ],
+    "ODOptions": [
+      {
+        "ID": "OD1",
+        "FlightSegments": [
+          {
+            "DepartureDateTime": "2022-05-29 08:12",
+            "ArrivalDateTime": "2022-05-29 09:45",
+            "OnTimeRate": 0,
+            "Distance": 0,
+            "SegmentNumber": 0,
+            "NumberofStops": 0,
+            "ArrivalTimeZone": 0,
+            "DepartureTimeZone": 0,
+            "PetCount": 0,
+            "ConnectTime": 0,
+            "IsChangeOfPlane": false,
+            "UpgradeEligibilityStatus": "Unknown",
+            "UpgradeVisibilityType": "None",
+            "InstantUpgradable": false,
+            "ID": "S1",
+            "RefID": "S1",
+            "JourneyInfo": false
+
+          }
+        ],
+        "Characteristics": [
+          {
+            "Code": "SELECTED_FARE_TYPE",
+            "Value": "ECONOMY"
+          }
+        ],
+        "JourneyInfo": false
+      }
+    ],
+    "Travelers": [
+      {
+        "Surname": "jeste",
+        "GivenName": "test",
+        "DateOfBirth": "8/31/1988 12:00:00 AM",
+        "Sex": "M",
+        "CustomerID": 0,
+        "Type": "ADT",
+        "Age": 0,
+        "LoyaltyProgramProfile": {
+          "LoyaltyProgramCarrierCode": "UA",
+          "LoyaltyProgramMemberID": "MR722052",
+          "LoyaltyProgramMemberTierLevel": "Premier Silver",
+          "LoyaltyProgramMemberTierDescription": "PremierSilver",
+          "StarEliteLevelDescription": "StarGold",
+          "MilesBalance": 0,
+          "CompanionCount": 0
+        },
+        "TravelerNameIndex": 1.1,
+        "CompanionCount": 0,
+        "TicketNumber": "",
+        "ID": 0,
+        "PassengerTypeCode": "ADT",
+        "TicketingDate": "5/27/2022 11:06:00 AM",
+        "Entitlements": "",
+        "ProductLoyaltyProgramProfile": [
+          {
+            "LoyaltyProgramCarrierCode": "UA",
+            "LoyaltyProgramMemberID": "MR722052",
+            "LoyaltyProgramMemberTierLevel": "Premier Silver",
+            "LoyaltyProgramMemberTierDescription": "PremierSilver",
+            "StarEliteLevelDescription": "StarGold",
+            "MilesBalance": 0,
+            "CompanionCount": 0,
+            "IsPrimary": true
+          }
+        ],
+        "PositionOnUpgradeList": 0
+
+      }
+    ],
+    "Solutions": [
+      {
+        "ID": "SOL1",
+        "ODOptions": [
+          {
+            "RefID": "OD1",
+            "FlightSegments": [
+              {
+                "DepartureDateTime": "2022-05-29 08:12",
+                "ArrivalDateTime": "2022-05-29 09:45",
+                "OnTimeRate": 0,
+                "Distance": 0,
+                "SegmentNumber": 0,
+                "NumberofStops": 0,
+                "ArrivalTimeZone": 0,
+                "DepartureTimeZone": 0,
+                "PetCount": 0,
+                "ConnectTime": 0,
+                "IsChangeOfPlane": false,
+                "UpgradeEligibilityStatus": "Unknown",
+                "UpgradeVisibilityType": "None",
+                "InstantUpgradable": false,
+                "ID": "S1",
+                "RefID": "S1",
+                "JourneyInfo": false
+              }
+            ],
+            "JourneyInfo": false
+          }
+        ]
+      }
+    ],
+    "Requester": {
+
+      "UniqueIdentifier": [
+        {
+          "ID": "E00A45ED-C7A9-4840-B04A-5A13D7440B9A",
+          "Name": "CartId"
+        },
+        {
+          "ID": 1.6536495605310102e+30,
+          "Name": "CORRELATIONID"
+        }
+      ],
+      "Requestor": {
+        "Characteristic": [
+          {
+
+            "Code": "TransactionLog",
+            "Value": true
+
+          }
+        ],
+        "ID": 1.6536495605310102e+30,
+        "ChannelID": 401,
+        "ChannelName": "MBE",
+        "LanguageCode": "en"
+      }
+    }
+
+  }
+]

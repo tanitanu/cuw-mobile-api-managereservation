@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\DataAccess\AccountManagement\United.Mobile.DataAccess.MPAuthentication\United.Mobile.DataAccess.MPAuthentication.csproj" />
+    <ProjectReference Include="..\..\..\Model\AccountManagement\United.Mobile.Model.AccountManagement\United.Mobile.Model.MPSignIn.csproj" />
+  </ItemGroup>
+
+</Project>

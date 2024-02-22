@@ -1,0 +1,42 @@
+{
+  "CartId": "1",
+  "Flow": "VIEWRES_BUNDLES_SEATMAP",
+  "Products": [
+    {
+      "ProdDescription": "",
+      "Code": "Code",
+      "Segments": [
+        {
+          "SubSegmentDetails": [
+            {
+              "Passenger": "",
+              "Price": "2234",
+              "Miles": 223
+            },
+            {
+              "Passenger": "",
+              "Price": "2234",
+              "Miles": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "FormofPaymentDetails": {
+    "formOfPaymentType": "",
+    "MoneyPlusMilesCredit": {
+      "SelectedMoneyPlusMiles": {
+        "OptionId": "1"
+      }
+    }
+  },
+  "TotalPrice": "300",
+  "DisplayTotalPrice": "300",
+  "Prices": [
+    {
+      "DisplayValue": "350.00",
+      "Value": 350.00
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "lastName": "JESTE",
+    "recordLocator": "ESFX70",
+    "selectedOption": "KEEPTRIP",
+    "sessionId": "C2A9ADA817C74FD39C22F712C075D591",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.52",
+        "minor": "4.1.52"
+      }
+    },
+    "deviceId": "b53398db-7f29-4866-a91b-90b597acf2ee",
+    "languageCode": "en-US",
+    "transactionId": "b53398db-7f29-4866-a91b-90b597acf2ee|1361550f-a650-4c71-b124-59ffe5c108d2",
+    "MileagePlusNumber": "AW73151",
+    "Data": "{\"recordLocator\":\"ESFX70\",\"lastName\":\"JESTE\",\"Origin\":\"IAH\",\"Destination\":\"ORD\",\"FlightNumber\":\"F76YUP\",\"Carrier\":\"Carrier\",\"DepartDateTimeUtc\":null,\"View\":\"ViewResSeatMap\",\"FocusRequestData\":{\"LastName\":\"JESTE\",\"FirstName\":\"SAM\",\"MiddleName\":\"test\",\"SeatNumber\":\"S34\",\"LastNameIndex\":4,\"FirstNameIndex\":2}}"
+
+  }
+]

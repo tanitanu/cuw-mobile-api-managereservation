@@ -1,0 +1,15 @@
+[
+  {
+    "IsUnaccompaniedMinor": true,
+    "isCheckinEligible": true,
+    "isAgencyBooking": true,
+    "agencyName": "XYZAgency",
+    "isElf": true,
+    "isIBELite": true,
+    "isIBE": true,
+    "isCBE": true,
+    "HasScheduleChange": false
+
+  }
+  
+]

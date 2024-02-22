@@ -1,0 +1,15 @@
+{
+  "CartId": "",
+  "RecordLocator": "",
+  "LastName": "",
+  "NumberOfPax": 5,
+  "EligibleSegments": [
+    {
+      "UpgradeOptions": [
+        {
+          "UpgradeOptionDescription": ""
+        }
+      ]
+    }
+  ]
+}

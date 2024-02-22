@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\DataAccess\Ancillary\United.Mobile.DataAccess.Fitbit\United.Mobile.DataAccess.Fitbit.csproj" />
+    <ProjectReference Include="..\..\..\Model.Internal\United.Mobile.Model.Internal\United.Mobile.Model.Internal.csproj" />
+    <ProjectReference Include="..\..\AccountManagement\United.Mobile.Model.MPRewards\United.Mobile.Model.MPRewards.csproj" />
+    <ProjectReference Include="..\..\Ancillary\United.Mobile.Model.Fitbit\United.Mobile.Model.Fitbit.csproj" />
+    <ProjectReference Include="..\..\Shopping\United.Mobile.Model.Common\United.Mobile.Model.Shopping.Common.csproj" />
+    <ProjectReference Include="..\..\Shopping\United.Mobile.Model.Shopping\United.Mobile.Model.Shopping.csproj" />
+    <ProjectReference Include="..\..\United.Mobile.Model.Common\United.Mobile.Model.Common.csproj" />
+  </ItemGroup>
+
+</Project>

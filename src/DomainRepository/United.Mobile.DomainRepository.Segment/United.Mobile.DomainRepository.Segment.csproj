@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\DataAccess\United.GraphDatabase.Gremlin.Groovy.Client\United.GraphDatabase.Gremlin.Groovy.Client.csproj" />
+    <ProjectReference Include="..\..\Model.Internal\United.Mobile.Model.Internal.Segment\United.Mobile.Model.Internal.Segment.csproj" />
+    <ProjectReference Include="..\..\Model\United.Mobile.Model.Common\United.Mobile.Model.Common.csproj" />
+  </ItemGroup>
+
+</Project>

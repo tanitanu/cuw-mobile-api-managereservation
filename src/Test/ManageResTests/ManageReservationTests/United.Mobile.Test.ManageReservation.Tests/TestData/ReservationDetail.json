@@ -1,0 +1,287 @@
+[
+  {
+    "Detail": {
+      "Travelers": [
+        {
+          "FirstNamePosition": "",
+          "NumberOfFirstName": "",
+          "CardHolderName": "",
+          "PayerIndicator": "",
+          "PurchaserIndicator": "",
+          "TravellerIndicator": "",
+          "Person": {
+            "Age": 18,
+            "Key": 5,
+            "Type": "INS"
+          },
+          "LoyaltyProgramProfile": {},
+          "TelephoneNumbers": [
+            {
+              "Description": "",
+              "CountryAccessCode": "",
+              "PhoneNumber": "76436483"
+            }
+          ],
+          "EmailAddress": [
+            {
+              "DefaultIndicator": ""
+            }
+          ]
+        },
+        {
+          "FirstNamePosition": "",
+          "NumberOfFirstName": "",
+          "CardHolderName": "",
+          "PayerIndicator": "",
+          "PurchaserIndicator": "",
+          "TravellerIndicator": "",
+          "Person": {
+            "Age": 18,
+            "Key": 5,
+            "Type": "C05"
+          },
+          "LoyaltyProgramProfile": {}
+        },
+        {
+          "FirstNamePosition": "",
+          "NumberOfFirstName": "",
+          "CardHolderName": "",
+          "PayerIndicator": "",
+          "PurchaserIndicator": "",
+          "TravellerIndicator": "",
+          "Person": {
+            "Age": 18,
+            "Key": 5,
+            "Type": "C08"
+          },
+          "LoyaltyProgramProfile": {},
+          "TelephoneNumbers": [
+            {
+              "Description": "",
+              "CountryAccessCode": "",
+              "PhoneNumber": "76436483"
+            }
+          ],
+          "EmailAddress": [
+            {
+              "DefaultIndicator": ""
+            }
+          ]
+        },
+        {
+          "FirstNamePosition": "",
+          "NumberOfFirstName": "",
+          "CardHolderName": "",
+          "PayerIndicator": "",
+          "PurchaserIndicator": "",
+          "TravellerIndicator": "",
+          "Person": {
+            "Age": 18,
+            "Key": 5,
+            "Type": "C12"
+          },
+          "LoyaltyProgramProfile": {},
+          "TelephoneNumbers": [
+            {
+              "Description": "",
+              "CountryAccessCode": "",
+              "PhoneNumber": "76436483"
+            }
+          ],
+          "EmailAddress": [
+            {
+              "DefaultIndicator": ""
+            }
+          ]
+        },
+        {
+          "FirstNamePosition": "",
+          "NumberOfFirstName": "",
+          "CardHolderName": "",
+          "PayerIndicator": "",
+          "PurchaserIndicator": "",
+          "TravellerIndicator": "",
+          "Person": {
+            "Age": 18,
+            "Key": 5,
+            "Type": "C15"
+          },
+          "LoyaltyProgramProfile": {},
+          "TelephoneNumbers": [
+            {
+              "Description": "",
+              "CountryAccessCode": "",
+              "PhoneNumber": "76436483"
+            }
+          ],
+          "EmailAddress": [
+            {
+              "DefaultIndicator": ""
+            }
+          ]
+        },
+        {
+          "FirstNamePosition": "",
+          "NumberOfFirstName": "",
+          "CardHolderName": "",
+          "PayerIndicator": "",
+          "PurchaserIndicator": "",
+          "TravellerIndicator": "",
+          "Person": {
+            "Age": 18,
+            "Key": 5,
+            "Type": "C17"
+          },
+          "LoyaltyProgramProfile": {},
+          "TelephoneNumbers": [
+            {
+              "Description": "",
+              "CountryAccessCode": "",
+              "PhoneNumber": "76436483"
+            }
+          ],
+          "EmailAddress": [
+            {
+              "DefaultIndicator": ""
+            }
+          ]
+        },
+        {
+          "FirstNamePosition": "",
+          "NumberOfFirstName": "",
+          "CardHolderName": "",
+          "PayerIndicator": "",
+          "PurchaserIndicator": "",
+          "TravellerIndicator": "",
+          "Person": {
+            "Age": 18,
+            "Key": 5,
+            "Type": "SNR"
+          },
+          "LoyaltyProgramProfile": {},
+          "TelephoneNumbers": [
+            {
+              "Description": "",
+              "CountryAccessCode": "",
+              "PhoneNumber": "76436483"
+            }
+          ],
+          "EmailAddress": [
+            {
+              "DefaultIndicator": ""
+            }
+          ]
+        },
+        {
+          "FirstNamePosition": "",
+          "NumberOfFirstName": "",
+          "CardHolderName": "",
+          "PayerIndicator": "",
+          "PurchaserIndicator": "",
+          "TravellerIndicator": "",
+          "Person": {
+            "Age": 18,
+            "Key": 5,
+            "Type": "INF"
+          },
+          "LoyaltyProgramProfile": {},
+          "TelephoneNumbers": [
+            {
+              "Description": "",
+              "CountryAccessCode": "",
+              "PhoneNumber": "76436483"
+            }
+          ],
+          "EmailAddress": [
+            {
+              "DefaultIndicator": ""
+            }
+          ]
+        },
+        {
+          "FirstNamePosition": "",
+          "NumberOfFirstName": "",
+          "CardHolderName": "",
+          "PayerIndicator": "",
+          "PurchaserIndicator": "",
+          "TravellerIndicator": "",
+          "Person": {
+            "Age": 18,
+            "Key": 5,
+            "Type": "ADT"
+          },
+          "LoyaltyProgramProfile": {},
+          "TelephoneNumbers": [
+            {
+              "Description": "",
+              "CountryAccessCode": "",
+              "PhoneNumber": "76436483"
+            }
+          ],
+          "EmailAddress": [
+            {
+              "DefaultIndicator": ""
+            }
+          ]
+        }
+      ],
+      "TelephoneNumbers": [
+        {
+          "Description": "",
+          "CountryAccessCode": "",
+          "PhoneNumber": "76436483"
+        }
+      ],
+      "EmailAddress": [
+        {
+          "DefaultIndicator": "",
+          "Address": "xyz@gmail.com"
+        }
+      ],
+      "FlightSegments": [
+        {
+          "HistoryClass": "",
+          "EstimatedDepartureUTCTime": "",
+          "EstimatedDepartureTime": "",
+          "EstimatedDepartureDelayMinutes": "",
+          "CurrentSeats": [
+            {
+              "ValueDocumentID": "",
+              "ReservationNameIndex": "5",
+              "Status": "pass"
+            }
+          ],
+          "TripNumber": "0",
+          "FlightSegment": {
+            "FlightStatuses": [
+              {
+                "StatusType": "USED",
+                "Description": "abc",
+                "Code": "ijkl"
+              }
+            ]
+          }
+        }
+      ],
+      "Characteristic": [
+        {
+          "Code": "24HrFlexibleBookingPolicy",
+          "Value": "true",
+          "Description": "WEARE"
+        }
+      ],
+      "Payment": {
+        "Amount": "123",
+        "Pin": "456",
+        "AccountNumber": "768543",
+        "Type": {
+          "Key": "123",
+          "Description": "abc",
+          "DefaultIndicator": "xyz",
+          "DisplaySequence": "1",
+          "Value": "PAYPAL"
+        }
+      }
+    }
+  }
+]
